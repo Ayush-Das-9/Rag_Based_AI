@@ -1,0 +1,3141 @@
+{
+  "chunks": [
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 0.0,
+      "end": 4.2,
+      "text": " Guys, in today's video we are going to talk about the box model in CSS."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 4.2,
+      "end": 10.6,
+      "text": " In any element, there is a content which is itself, then margin, then border and padding."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 10.6,
+      "end": 15.0,
+      "text": " This border, margin and padding are the concept of box model in CSS."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 15.0,
+      "end": 22.48,
+      "text": " In this video, we will understand all these things and see how margin, border, padding are set in CSS."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 22.48,
+      "end": 24.0,
+      "text": " So let's go to the computer screen."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 24.0,
+      "end": 25.48,
+      "text": " I am really very excited."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 25.48,
+      "end": 26.68,
+      "text": " Let's roll the intro."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 30.0,
+      "end": 38.0,
+      "text": " So guys, I have come inside my computer screen."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 38.0,
+      "end": 41.6,
+      "text": " And the first thing I will do here is show you this playlist."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 41.6,
+      "end": 46.0,
+      "text": " And you guys don't even click on the star here and don't even click here to access."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 46.0,
+      "end": 47.400000000000006,
+      "text": " You guys won't do that either."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 47.400000000000006,
+      "end": 48.0,
+      "text": " Do it, man."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 48.0,
+      "end": 50.400000000000006,
+      "text": " Click on the star here and click here to access."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 50.400000000000006,
+      "end": 52.2,
+      "text": " And I have also put the source code for you guys."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 52.2,
+      "end": 53.0,
+      "text": " Access it too."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 53.0,
+      "end": 54.400000000000006,
+      "text": " I want you to enjoy it too."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 54.400000000000006,
+      "end": 57.0,
+      "text": " Okay, so what do you guys do while enjoying it?"
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 57.0,
+      "end": 62.0,
+      "text": " The way I have made this folder here and what I will do by right-clicking shift, I will open it with code."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 62.0,
+      "end": 65.2,
+      "text": " As you can see, and this will open in my VS code."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 65.2,
+      "end": 70.4,
+      "text": " If your open with code option is not coming, which many people tell me that our open with code option is not coming."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 70.4,
+      "end": 73.0,
+      "text": " So I have a suggestion for you guys."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 73.0,
+      "end": 74.4,
+      "text": " What do you do?"
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 74.4,
+      "end": 80.4,
+      "text": " To install VS code again, run its setup again and see which options I have checked."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 80.4,
+      "end": 85.4,
+      "text": " Now I will come in the video and here I will make a file by making an index.html file and keep a boilerplate template."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 85.4,
+      "end": 87.4,
+      "text": " Here I will write CSS box model."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 87.4,
+      "end": 90.4,
+      "text": " After writing the CSS box model, I will make a style tag here."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 90.4,
+      "end": 92.4,
+      "text": " With the help of which I will make you guys."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 92.4,
+      "end": 94.4,
+      "text": " Oops, how did I make a style tag?"
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 96.4,
+      "end": 98.4,
+      "text": " Is it too fast?"
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 98.4,
+      "end": 99.4,
+      "text": " No, it's not fast."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 99.4,
+      "end": 100.4,
+      "text": " Okay, it will work."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 100.4,
+      "end": 102.4,
+      "text": " So what will I do while making a style tag here?"
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 102.4,
+      "end": 107.4,
+      "text": " I will put styles here and tell you how the box model works in CSS."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 107.4,
+      "end": 109.4,
+      "text": " So first of all, let's understand the concept of box model in CSS."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 109.4,
+      "end": 112.4,
+      "text": " What is the concept of box model in CSS?"
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 112.4,
+      "end": 115.4,
+      "text": " Look, everything in CSS is a box."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 115.4,
+      "end": 118.4,
+      "text": " Whatever elements we have made with HTML, they are all a box."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 118.4,
+      "end": 125.4,
+      "text": " Whether we make a container, whether we make a div, whether we make a span, they are all a box in our CSS."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 125.4,
+      "end": 129.4,
+      "text": " And there are some things in that box that I want to show you here."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 129.4,
+      "end": 135.4,
+      "text": " So if you can see on the computer screen, you will see that here I have explained the concept of CSS box model."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 135.4,
+      "end": 143.4,
+      "text": " CSS box model means that there is padding outside your content, there is a border outside it, and there is a margin outside it."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 143.4,
+      "end": 145.4,
+      "text": " So you should know this concept."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 145.4,
+      "end": 149.4,
+      "text": " One more thing I want to tell you is that, let's say I made a div.box here."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 149.4,
+      "end": 152.4,
+      "text": " I made a box here, I will write I am a box."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 152.4,
+      "end": 156.4,
+      "text": " And if I show you its preview, then it has become a box called I am a box."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 156.4,
+      "end": 163.4,
+      "text": " There is already some margin and padding outside this box, which you will know when I put a background on it."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 163.4,
+      "end": 171.4,
+      "text": " So what I will do is I will write dot box here, which means that I selected the class selector box and I will say background color is let us say aqua."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 171.4,
+      "end": 174.4,
+      "text": " So the background color of this box will be aqua."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 174.4,
+      "end": 177.4,
+      "text": " We can do the format document by doing it rightly, so that we will get good formatting."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 177.4,
+      "end": 181.4,
+      "text": " Now you see here there is some margin padding already in it."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 181.4,
+      "end": 187.4,
+      "text": " What I will do is using a universal selector, it happens that our browser plays a little smart from its side."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 187.4,
+      "end": 192.4,
+      "text": " It says that this developer does not have a brain, so I will put my brain."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 192.4,
+      "end": 196.4,
+      "text": " So it adds margin padding to its own mind, adds many more styles."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 196.4,
+      "end": 200.4,
+      "text": " And that's why we sometimes need to reset CSS."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 200.4,
+      "end": 204.4,
+      "text": " So I wrote m-0 here by putting a star."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 204.4,
+      "end": 206.4,
+      "text": " Sorry, I wrote m-0, so margin became 0."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 206.4,
+      "end": 208.4,
+      "text": " I wrote p-0, so padding became 0."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 208.4,
+      "end": 209.4,
+      "text": " These were emmet shortcuts."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 209.4,
+      "end": 211.4,
+      "text": " And what will happen by doing this, it will stick to the top."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 211.4,
+      "end": 214.4,
+      "text": " Like spacing was coming here, it is not coming now."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 214.4,
+      "end": 216.4,
+      "text": " So I wrote I am a box, so let's do one thing."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 217.4,
+      "end": 222.4,
+      "text": " And here I wrote div.box and here I can add multiple classes."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 222.4,
+      "end": 226.4,
+      "text": " By doing box1 and box2, so I did one box, one box1."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 226.4,
+      "end": 229.4,
+      "text": " And in this I did one box and one box2."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 229.4,
+      "end": 235.4,
+      "text": " So whatever I will put the properties by selecting the box, it will also apply to this element and it will also apply to this."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 235.4,
+      "end": 237.4,
+      "text": " Because we can give multiple classes to one element."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 237.4,
+      "end": 240.4,
+      "text": " I told you before that one element can be given multiple classes."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 240.4,
+      "end": 243.4,
+      "text": " And here you can see that I have given it a box and given it a box1."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 243.4,
+      "end": 245.4,
+      "text": " I have given it a box and given it a box2."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 245.4,
+      "end": 248.4,
+      "text": " And I will simply write here I am another box."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 248.4,
+      "end": 249.4,
+      "text": " Okay, this is our box2."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 249.4,
+      "end": 251.4,
+      "text": " This was box1, this is our box2."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 251.4,
+      "end": 256.4,
+      "text": " Now what will I do inside box2, I will say dot box2 and dot box1."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 256.4,
+      "end": 257.4,
+      "text": " Now you understand what I did here."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 257.4,
+      "end": 261.4,
+      "text": " See, I will write that property which I want to give to both the boxes."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 261.4,
+      "end": 265.4,
+      "text": " Or suppose I have ten boxes like this, then I would like to give it in the tenth of ten."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 265.4,
+      "end": 267.4,
+      "text": " I will write that by dot box."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 268.4,
+      "end": 274.4,
+      "text": " And some properties will be such that I would like to give individually in box1 and box2."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 274.4,
+      "end": 277.4,
+      "text": " So what I will do is I will give box1 class to this and box2 class to this."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 277.4,
+      "end": 281.4,
+      "text": " And if any element has to give more than one class, then we give it by putting space."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 281.4,
+      "end": 283.4,
+      "text": " Can we give more than one ID to any element?"
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 283.4,
+      "end": 285.4,
+      "text": " Tell me in the comment section below, let me see how much understanding you have."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 285.4,
+      "end": 288.4,
+      "text": " Make two-way interaction and tell me in the comment section below."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 288.4,
+      "end": 290.4,
+      "text": " Can we put more than one ID in one element?"
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 290.4,
+      "end": 292.4,
+      "text": " By giving spaces, tell me below in the comment section."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 292.4,
+      "end": 295.4,
+      "text": " You can put classes by giving spaces, I confirm this and tell you."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 295.4,
+      "end": 297.4,
+      "text": " Everyone should have a comment, I don't know."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 297.4,
+      "end": 299.4,
+      "text": " Now you see here I wrote dot box1."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 299.4,
+      "end": 300.4,
+      "text": " So what can I do?"
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 300.4,
+      "end": 302.4,
+      "text": " Suppose I made the color yellow in this."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 302.4,
+      "end": 304.4,
+      "text": " Okay, made the color yellow."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 304.4,
+      "end": 305.4,
+      "text": " What will happen by making the color yellow?"
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 305.4,
+      "end": 308.4,
+      "text": " By making the color yellow, I will make its color red."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 308.4,
+      "end": 311.4,
+      "text": " The font color will be yellow and the font color will be red here."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 311.4,
+      "end": 312.4,
+      "text": " I will show you."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 312.4,
+      "end": 315.4,
+      "text": " See, the font color is yellow here and the font color is red here."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 315.4,
+      "end": 316.4,
+      "text": " Now what does the box model say?"
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 316.4,
+      "end": 319.4,
+      "text": " Box model says that the content of your CSS will be here."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 319.4,
+      "end": 323.4,
+      "text": " Outside it will be padding, outside it will be border and outside it will be margin."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 323.4,
+      "end": 328.4,
+      "text": " Okay, and the total height or width of any element will be added."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 328.4,
+      "end": 330.4,
+      "text": " Means the element will fall in this much place."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 330.4,
+      "end": 332.4,
+      "text": " Total height and width, I did not say height and width, remember."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 332.4,
+      "end": 335.4,
+      "text": " Total height means that whatever this place will fall, okay."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 335.4,
+      "end": 337.4,
+      "text": " So this thing should be told to you."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 337.4,
+      "end": 339.4,
+      "text": " In CSS box model, we have seen only this much."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 339.4,
+      "end": 341.4,
+      "text": " Okay, so I have put different classes here."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 341.4,
+      "end": 342.4,
+      "text": " Now what will I do?"
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 342.4,
+      "end": 346.4,
+      "text": " I will say, let me give a little padding inside box1."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 346.4,
+      "end": 349.4,
+      "text": " And I want to give 10 pixel padding."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 349.4,
+      "end": 353.4,
+      "text": " So if I give 10 pixel padding, then 10 pixel padding will come from all sides."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 353.4,
+      "end": 356.4,
+      "text": " And to see this, you can inspect right click."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 356.4,
+      "end": 357.4,
+      "text": " See this carefully."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 357.4,
+      "end": 358.4,
+      "text": " See this carefully."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 358.4,
+      "end": 362.4,
+      "text": " You see here that I inspected by right clicking."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 362.4,
+      "end": 364.4,
+      "text": " So here you can see, I hope you can see."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 364.4,
+      "end": 366.4,
+      "text": " I have removed my face for a while."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 366.4,
+      "end": 367.4,
+      "text": " I hope you can see here."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 367.4,
+      "end": 369.4,
+      "text": " Okay, box and box1."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 369.4,
+      "end": 371.4,
+      "text": " So here you can see box and box1."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 371.4,
+      "end": 375.4,
+      "text": " If I hover over box1, then only this element is selected."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 375.4,
+      "end": 376.4,
+      "text": " See above."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 376.4,
+      "end": 377.4,
+      "text": " See above."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 377.4,
+      "end": 378.4,
+      "text": " See here."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 378.4,
+      "end": 379.4,
+      "text": " See here it is selected."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 379.4,
+      "end": 382.4,
+      "text": " If I hover over it below, then only box2 is selected."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 382.4,
+      "end": 384.4,
+      "text": " So by clicking on box1, this element is selected."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 384.4,
+      "end": 385.4,
+      "text": " I can come here."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 385.4,
+      "end": 387.4,
+      "text": " Okay, see here I removed it like this."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 387.4,
+      "end": 390.4,
+      "text": " Now by coming here, I can see everything about it."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 390.4,
+      "end": 391.4,
+      "text": " Color yellow."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 391.4,
+      "end": 393.4,
+      "text": " If I want, I can change this color temporarily."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 393.4,
+      "end": 394.4,
+      "text": " I will only change it temporarily."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 394.4,
+      "end": 395.4,
+      "text": " Because its source code is written here."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 395.4,
+      "end": 397.4,
+      "text": " So whatever I will change here will be permanent."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 397.4,
+      "end": 399.4,
+      "text": " Whatever I will change here will be temporary."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 399.4,
+      "end": 401.4,
+      "text": " Okay, so now I will not do it."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 401.4,
+      "end": 404.4,
+      "text": " As I am telling you that I can do temporary changes and preview."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 404.4,
+      "end": 407.4,
+      "text": " How will it look if my box's color becomes white?"
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 407.4,
+      "end": 409.4,
+      "text": " If I reload it, then it is fine again."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 409.4,
+      "end": 412.4,
+      "text": " And by selecting this box, I will come here again on computed."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 412.4,
+      "end": 415.4,
+      "text": " Now as soon as I come on computed, I can see a box."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 415.4,
+      "end": 418.4,
+      "text": " And this box is exactly the same box that I have shown on codewithhari.com."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 418.4,
+      "end": 421.4,
+      "text": " Okay, so with this kind of box, you will know that"
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 421.4,
+      "end": 425.4,
+      "text": " How much is the width and height of this particular element, i.e. box1."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 425.4,
+      "end": 427.4,
+      "text": " After this, how much padding is there in it."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 427.4,
+      "end": 429.4,
+      "text": " I have given padding of 10 from all four sides."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 429.4,
+      "end": 431.4,
+      "text": " There is no border."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 431.4,
+      "end": 433.4,
+      "text": " There is no margin."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 433.4,
+      "end": 437.4,
+      "text": " Okay, so in this way, we have given all these things in this element."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 437.4,
+      "end": 439.4,
+      "text": " Let's put a border in it."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 439.4,
+      "end": 441.4,
+      "text": " So I have put padding of 10."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 441.4,
+      "end": 443.4,
+      "text": " I am doing it in box1 only."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 443.4,
+      "end": 445.4,
+      "text": " Remember that I am working only in box1."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 445.4,
+      "end": 447.4,
+      "text": " Coming back a little bit."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 447.4,
+      "end": 449.4,
+      "text": " Now what I will do here is put a margin."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 449.4,
+      "end": 451.4,
+      "text": " And I will put a margin of 5 pixels."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 451.4,
+      "end": 453.4,
+      "text": " And as soon as I put a margin of 5 pixels,"
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 453.4,
+      "end": 457.4,
+      "text": " What will happen is that it is outside the element."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 457.4,
+      "end": 459.4,
+      "text": " So the background of the element is not retained."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 459.4,
+      "end": 461.4,
+      "text": " Okay, what does this mean?"
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 461.4,
+      "end": 465.4,
+      "text": " This means that if I put a pink color on you,"
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 465.4,
+      "end": 467.4,
+      "text": " Suppose I put pink color on you,"
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 467.4,
+      "end": 469.4,
+      "text": " So you will be pink."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 469.4,
+      "end": 471.4,
+      "text": " But if I throw pink, pink or anything all around you,"
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 471.4,
+      "end": 473.4,
+      "text": " It will not be on you."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 473.4,
+      "end": 475.4,
+      "text": " So this was a very strange example."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 475.4,
+      "end": 477.4,
+      "text": " But I will tell you that padding is outside the content."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 477.4,
+      "end": 481.4,
+      "text": " So if I give padding, then the background color comes in the padding area."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 481.4,
+      "end": 483.4,
+      "text": " Because padding is inside the content."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 483.4,
+      "end": 485.4,
+      "text": " And margin is outside the content."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 485.4,
+      "end": 487.4,
+      "text": " Which is outside your element."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 487.4,
+      "end": 489.4,
+      "text": " Content is inside the element."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 489.4,
+      "end": 495.4,
+      "text": " So the background color will be in the padding area."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 495.4,
+      "end": 497.4,
+      "text": " It will not be in the margin area."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 497.4,
+      "end": 499.4,
+      "text": " You have to keep this in mind."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 499.4,
+      "end": 501.4,
+      "text": " So here I gave margin, so you see the margin of 5."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 501.4,
+      "end": 503.4,
+      "text": " Now I will tell you how to add a border."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 503.4,
+      "end": 505.4,
+      "text": " If I write border here,"
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 505.4,
+      "end": 507.4,
+      "text": " And I will tell you about the border later."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 507.4,
+      "end": 509.4,
+      "text": " But for now, you understand that if I write like this,"
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 509.4,
+      "end": 511.4,
+      "text": " Border 2 pixels solid blue,"
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 511.4,
+      "end": 513.4,
+      "text": " So the border of 2 pixels came here."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 513.4,
+      "end": 515.4,
+      "text": " And here you see that I have given a border of 2 pixels."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 515.4,
+      "end": 517.4,
+      "text": " Okay, you can see that the border has come here."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 517.4,
+      "end": 519.4,
+      "text": " So you can see this border here."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 519.4,
+      "end": 521.4,
+      "text": " And you can see that this is my content."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 521.4,
+      "end": 523.4,
+      "text": " And this is the border."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 523.4,
+      "end": 525.4,
+      "text": " So what happens here is that there is a DPI factor in our display."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 525.4,
+      "end": 527.4,
+      "text": " Because of which the actual border will be seen separately."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 527.4,
+      "end": 529.4,
+      "text": " But this is pretty much how you can see the margin, border and padding."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 529.4,
+      "end": 531.4,
+      "text": " In real time of your element."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 531.4,
+      "end": 533.4,
+      "text": " So I hope you understood this thing."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 533.4,
+      "end": 535.4,
+      "text": " Now I tell you here,"
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 535.4,
+      "end": 537.4,
+      "text": " How your element's width is calculated."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 537.4,
+      "end": 539.4,
+      "text": " Now suppose I have given the width of this element."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 539.4,
+      "end": 541.4,
+      "text": " And I have given the width of this element."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 541.4,
+      "end": 543.4,
+      "text": " And I have given the width of this element."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 543.4,
+      "end": 545.4,
+      "text": " And I have given the width of this element."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 545.4,
+      "end": 547.4,
+      "text": " Now suppose I have given the width of this element."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 547.4,
+      "end": 549.4,
+      "text": " Let's say,"
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 549.4,
+      "end": 551.4,
+      "text": " Or I give the height of this element."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 551.4,
+      "end": 553.4,
+      "text": " 200 pixels."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 553.4,
+      "end": 555.4,
+      "text": " So I gave the height of this element 200 pixels."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 555.4,
+      "end": 557.4,
+      "text": " And its height is 200 pixels."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 557.4,
+      "end": 559.4,
+      "text": " Now I will inspect you and show you one thing."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 559.4,
+      "end": 561.4,
+      "text": " And I will take you to the computed values."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 561.4,
+      "end": 563.4,
+      "text": " So see its height is 200 pixels."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 563.4,
+      "end": 565.4,
+      "text": " Okay, and you see"
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 565.4,
+      "end": 567.4,
+      "text": " As soon as I put an arrow on the content."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 567.4,
+      "end": 569.4,
+      "text": " So it is showing the content, padding is showing padding."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 569.4,
+      "end": 571.4,
+      "text": " It is showing the border on the border."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 571.4,
+      "end": 573.4,
+      "text": " If you put it on the margin, then it is showing the margin."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 573.4,
+      "end": 575.4,
+      "text": " Now you see here,"
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 575.4,
+      "end": 577.4,
+      "text": " The actual height of this element is 200 pixels."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 577.4,
+      "end": 579.4,
+      "text": " The actual height of this element is 200 pixels."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 579.4,
+      "end": 581.4,
+      "text": " Then 10 will be added to it."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 581.4,
+      "end": 583.4,
+      "text": " And 10 will be added from below, it will become 220."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 583.4,
+      "end": 585.4,
+      "text": " Then the borders will be added."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 585.4,
+      "end": 587.4,
+      "text": " Then the margin will be added."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 587.4,
+      "end": 589.4,
+      "text": " So as soon as I add all these things to it."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 589.4,
+      "end": 591.4,
+      "text": " So all this space will come out here."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 591.4,
+      "end": 593.4,
+      "text": " But how much is the height of a particular element."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 593.4,
+      "end": 595.4,
+      "text": " Or how much is the width."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 595.4,
+      "end": 597.4,
+      "text": " So the total width and total height is taken out from this formula."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 597.4,
+      "end": 599.4,
+      "text": " What we do is, we will add both left and right padding to width."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 599.4,
+      "end": 601.4,
+      "text": " Left and right both border."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 601.4,
+      "end": 603.4,
+      "text": " And left and right both margin."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 603.4,
+      "end": 605.4,
+      "text": " This is the total width, that is, how much space will be surrounded by the margin."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 605.4,
+      "end": 607.4,
+      "text": " With the element."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 607.4,
+      "end": 609.4,
+      "text": " I hope you are understanding this thing."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 609.4,
+      "end": 611.4,
+      "text": " And if I just talk about the element."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 611.4,
+      "end": 613.4,
+      "text": " How much space is surrounding the border."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 613.4,
+      "end": 615.4,
+      "text": " So you will add this whole thing."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 615.4,
+      "end": 617.4,
+      "text": " But now I want to tell you one thing here."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 617.4,
+      "end": 619.4,
+      "text": " If I put a CSS property here."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 619.4,
+      "end": 621.4,
+      "text": " Which I can directly put from here."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 621.4,
+      "end": 623.4,
+      "text": " I can add it here in styles."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 623.4,
+      "end": 625.4,
+      "text": " I will show you this too."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 625.4,
+      "end": 627.4,
+      "text": " If I do background red, then its background will be red."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 627.4,
+      "end": 629.4,
+      "text": " Temporarily until I reload."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 629.4,
+      "end": 631.4,
+      "text": " I will put it here."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 631.4,
+      "end": 633.4,
+      "text": " What I will do here."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 633.4,
+      "end": 635.4,
+      "text": " I will write box sizing."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 635.4,
+      "end": 637.4,
+      "text": " And I will write border box here."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 637.4,
+      "end": 639.4,
+      "text": " As soon as I write box sizing, border box."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 639.4,
+      "end": 641.4,
+      "text": " You see here that its actual width."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 641.4,
+      "end": 643.4,
+      "text": " Sorry, the height is 176."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 643.4,
+      "end": 645.4,
+      "text": " 176.8 is because."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 645.4,
+      "end": 647.4,
+      "text": " Because 176.8 plus 20 is."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 647.4,
+      "end": 649.4,
+      "text": " 196.8"
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 649.4,
+      "end": 651.4,
+      "text": " And after that, the border."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 651.4,
+      "end": 653.4,
+      "text": " It will be 200 in total."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 653.4,
+      "end": 655.4,
+      "text": " We do not include margin here."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 655.4,
+      "end": 657.4,
+      "text": " Because margin is outside."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 657.4,
+      "end": 659.4,
+      "text": " Margin is not included."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 659.4,
+      "end": 661.4,
+      "text": " Whenever we set a height."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 661.4,
+      "end": 663.4,
+      "text": " And here we give box sizing property."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 663.4,
+      "end": 665.4,
+      "text": " Try to understand."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 665.4,
+      "end": 667.4,
+      "text": " When I say that its height is 200."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 667.4,
+      "end": 669.4,
+      "text": " Or I say width is 200."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 669.4,
+      "end": 671.4,
+      "text": " So with width 200."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 671.4,
+      "end": 673.4,
+      "text": " If I do not put this."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 673.4,
+      "end": 675.4,
+      "text": " Listen to this very carefully."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 675.4,
+      "end": 677.4,
+      "text": " If I do not put a box sizing border box."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 677.4,
+      "end": 679.4,
+      "text": " Then what will happen."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 679.4,
+      "end": 681.4,
+      "text": " Then the content will be."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 681.4,
+      "end": 683.4,
+      "text": " Only its height."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 683.4,
+      "end": 685.4,
+      "text": " If I talk about width, then it will be 200."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 685.4,
+      "end": 687.4,
+      "text": " I will explain to you very simply."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 687.4,
+      "end": 689.4,
+      "text": " 200 will be the height of its content."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 689.4,
+      "end": 691.4,
+      "text": " Then if you talk about the total space."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 691.4,
+      "end": 693.4,
+      "text": " Then padding will be added to it."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 693.4,
+      "end": 695.4,
+      "text": " Then the border will be added."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 695.4,
+      "end": 697.4,
+      "text": " But if I say."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 697.4,
+      "end": 699.4,
+      "text": " Box sizing border box."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 699.4,
+      "end": 701.4,
+      "text": " So basically I am saying that the 200 height."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 701.4,
+      "end": 703.4,
+      "text": " This is by including border and padding."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 703.4,
+      "end": 705.4,
+      "text": " But not margin."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 705.4,
+      "end": 707.4,
+      "text": " This is not margin."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 707.4,
+      "end": 709.4,
+      "text": " I am telling 200 by including border and padding."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 709.4,
+      "end": 711.4,
+      "text": " Box sizing border box."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 711.4,
+      "end": 713.4,
+      "text": " Where I did it."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 713.4,
+      "end": 715.4,
+      "text": " The height of the content."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 715.4,
+      "end": 717.4,
+      "text": " The height I have written here."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 717.4,
+      "end": 719.4,
+      "text": " This height is my border and padding."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 719.4,
+      "end": 721.4,
+      "text": " I have written by combining both."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 721.4,
+      "end": 723.4,
+      "text": " By combining both."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 723.4,
+      "end": 725.4,
+      "text": " Content plus border plus padding."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 725.4,
+      "end": 727.4,
+      "text": " Should be 200."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 727.4,
+      "end": 729.4,
+      "text": " When I say box sizing border box."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 729.4,
+      "end": 731.4,
+      "text": " So everyone tell me in the comment."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 731.4,
+      "end": 733.4,
+      "text": " If we write box sizing border box."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 733.4,
+      "end": 735.4,
+      "text": " Then what am I saying."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 735.4,
+      "end": 737.4,
+      "text": " I am saying to csh."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 737.4,
+      "end": 739.4,
+      "text": " I am giving you this height."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 739.4,
+      "end": 741.4,
+      "text": " This height I am adding padding and border."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 741.4,
+      "end": 743.4,
+      "text": " Content plus border plus padding."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 743.4,
+      "end": 745.4,
+      "text": " That is 200."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 745.4,
+      "end": 747.4,
+      "text": " This is the meaning of my height."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 747.4,
+      "end": 749.4,
+      "text": " So in a way box sizing border box."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 749.4,
+      "end": 751.4,
+      "text": " Changes the definition of height."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 751.4,
+      "end": 753.4,
+      "text": " What is the definition of height?"
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 753.4,
+      "end": 755.4,
+      "text": " The definition of height is."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 755.4,
+      "end": 757.4,
+      "text": " Padding will not be included in this."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 757.4,
+      "end": 759.4,
+      "text": " Border will not be included in this."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 759.4,
+      "end": 761.4,
+      "text": " This will be the height of this element."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 761.4,
+      "end": 763.4,
+      "text": " Now this is 176."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 763.4,
+      "end": 765.4,
+      "text": " I will remove this."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 765.4,
+      "end": 767.4,
+      "text": " I can also remove it from here."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 767.4,
+      "end": 769.4,
+      "text": " If I uncheck the box sizing border box."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 769.4,
+      "end": 771.4,
+      "text": " And then I added this."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 771.4,
+      "end": 773.4,
+      "text": " Then I added this."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 773.4,
+      "end": 775.4,
+      "text": " After combining both."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 775.4,
+      "end": 777.4,
+      "text": " The total height will be 200 plus 20."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 777.4,
+      "end": 779.4,
+      "text": " 220 plus borders."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 779.4,
+      "end": 781.4,
+      "text": " All the calculated by this."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 781.4,
+      "end": 783.4,
+      "text": " But here I want to tell you."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 783.4,
+      "end": 785.4,
+      "text": " If I said box sizing border box."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 785.4,
+      "end": 787.4,
+      "text": " What happens."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 787.4,
+      "end": 789.4,
+      "text": " As soon as I write box sizing border box."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 789.4,
+      "end": 791.4,
+      "text": " Here its height."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 791.4,
+      "end": 793.4,
+      "text": " Will be reduced from 200."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 793.4,
+      "end": 795.4,
+      "text": " And will be adjusted in this way."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 795.4,
+      "end": 797.4,
+      "text": " That padding and border will be 200."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 797.4,
+      "end": 799.4,
+      "text": " I hope that makes a lot of sense."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 799.4,
+      "end": 801.4,
+      "text": " I hope that I have explained to you."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 801.4,
+      "end": 803.4,
+      "text": " So this was a very important concept."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 803.4,
+      "end": 805.4,
+      "text": " Which I wanted to tell you all."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 805.4,
+      "end": 807.4,
+      "text": " And now the concept I am going to tell you."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 807.4,
+      "end": 809.4,
+      "text": " You will enjoy it."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 809.4,
+      "end": 811.4,
+      "text": " You will enjoy it."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 811.4,
+      "end": 813.4,
+      "text": " Because in that I will tell you."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 813.4,
+      "end": 815.4,
+      "text": " About margin collapse."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 815.4,
+      "end": 817.4,
+      "text": " And this concept."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 817.4,
+      "end": 819.4,
+      "text": " You should definitely know."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 819.4,
+      "end": 821.4,
+      "text": " I will take you again to the computer screen."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 821.4,
+      "end": 823.4,
+      "text": " This was our code."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 823.4,
+      "end": 825.4,
+      "text": " How much margin did I give here?"
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 825.4,
+      "end": 827.4,
+      "text": " I give exactly the same in this."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 827.4,
+      "end": 829.4,
+      "text": " And let's increase the margin."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 829.4,
+      "end": 831.4,
+      "text": " To make it more interesting."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 831.4,
+      "end": 833.4,
+      "text": " Let's increase margin to 25px."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 833.4,
+      "end": 835.4,
+      "text": " And let's assume."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 835.4,
+      "end": 837.4,
+      "text": " Same to same things."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 837.4,
+      "end": 839.4,
+      "text": " I will keep the color red."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 839.4,
+      "end": 841.4,
+      "text": " And I will blacken the border."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 841.4,
+      "end": 843.4,
+      "text": " So that it looks different."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 843.4,
+      "end": 845.4,
+      "text": " Rest all the values are same."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 845.4,
+      "end": 847.4,
+      "text": " You can see in this box."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 847.4,
+      "end": 849.4,
+      "text": " Now you tell me honestly."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 849.4,
+      "end": 851.4,
+      "text": " That margin is 10 all around this box."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 851.4,
+      "end": 853.4,
+      "text": " 10 10 10 10."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 853.4,
+      "end": 855.4,
+      "text": " 10 10 10 10."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 855.4,
+      "end": 857.4,
+      "text": " So here we should have seen double."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 857.4,
+      "end": 859.4,
+      "text": " Or not?"
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 859.4,
+      "end": 861.4,
+      "text": " Think again."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 861.4,
+      "end": 863.4,
+      "text": " That margin all around this."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 863.4,
+      "end": 865.4,
+      "text": " If I select this element."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 865.4,
+      "end": 867.4,
+      "text": " Then it should be 25 25 25."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 867.4,
+      "end": 869.4,
+      "text": " Not 10 10."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 869.4,
+      "end": 871.4,
+      "text": " 25 25 25."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 871.4,
+      "end": 873.4,
+      "text": " Then this element."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 873.4,
+      "end": 875.4,
+      "text": " 25 25 25."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 875.4,
+      "end": 877.4,
+      "text": " So this distance should be 50."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 877.4,
+      "end": 879.4,
+      "text": " 25 is this much."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 879.4,
+      "end": 881.4,
+      "text": " Look at my arrow."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 881.4,
+      "end": 883.4,
+      "text": " And this is also 25."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 883.4,
+      "end": 885.4,
+      "text": " So this is also 25."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 885.4,
+      "end": 887.4,
+      "text": " Why not 50?"
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 887.4,
+      "end": 889.4,
+      "text": " The upper element should also have."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 889.4,
+      "end": 891.4,
+      "text": " Here comes the concept of margin collapse."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 891.4,
+      "end": 893.4,
+      "text": " What is this concept?"
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 893.4,
+      "end": 895.4,
+      "text": " The concept of margin collapse."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 895.4,
+      "end": 897.4,
+      "text": " Says that if the margin of two elements."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 897.4,
+      "end": 899.4,
+      "text": " Is overlapping."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 899.4,
+      "end": 901.4,
+      "text": " Then the maximum margin."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 901.4,
+      "end": 903.4,
+      "text": " Will be applied once."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 903.4,
+      "end": 905.4,
+      "text": " Like if I have given margin of 25."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 905.4,
+      "end": 907.4,
+      "text": " And this has margin of 25."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 907.4,
+      "end": 909.4,
+      "text": " Then what is the maximum of 25?"
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 909.4,
+      "end": 911.4,
+      "text": " Then the margin of 25 will be applied once."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 911.4,
+      "end": 913.4,
+      "text": " If I make one of them 35."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 913.4,
+      "end": 915.4,
+      "text": " Then the margin of 25 will be applied."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 915.4,
+      "end": 917.4,
+      "text": " So this difference will be 35."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 917.4,
+      "end": 919.4,
+      "text": " So this is called margin collapse."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 919.4,
+      "end": 921.4,
+      "text": " So if I show you a good example."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 921.4,
+      "end": 923.4,
+      "text": " Of margin collapse."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 923.4,
+      "end": 925.4,
+      "text": " In images."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 925.4,
+      "end": 927.4,
+      "text": " I hope I will get a good image."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 927.4,
+      "end": 929.4,
+      "text": " In which I can explain margin collapse."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 929.4,
+      "end": 931.4,
+      "text": " Basically what happens."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 931.4,
+      "end": 933.4,
+      "text": " If I have a box A."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 933.4,
+      "end": 935.4,
+      "text": " I have a box B."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 935.4,
+      "end": 937.4,
+      "text": " I think this image is very good."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 937.4,
+      "end": 939.4,
+      "text": " Suppose I have a box A."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 939.4,
+      "end": 941.4,
+      "text": " I have given a margin of 30 pixels in box A."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 941.4,
+      "end": 943.4,
+      "text": " And 20 pixels in box B."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 943.4,
+      "end": 945.4,
+      "text": " So it will not look like this."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 945.4,
+      "end": 947.4,
+      "text": " But it will look like this."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 947.4,
+      "end": 949.4,
+      "text": " Because the maximum of these two."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 949.4,
+      "end": 951.4,
+      "text": " Will be applied once."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 951.4,
+      "end": 953.4,
+      "text": " So this is how the margin will be applied."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 953.4,
+      "end": 955.4,
+      "text": " You can understand this is called margin collapse."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 955.4,
+      "end": 957.4,
+      "text": " So I hope you understood this concept."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 957.4,
+      "end": 959.4,
+      "text": " What is margin collapse?"
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 959.4,
+      "end": 961.4,
+      "text": " What is the box model of CSS?"
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 961.4,
+      "end": 963.4,
+      "text": " How does the box model work?"
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 963.4,
+      "end": 965.4,
+      "text": " And I tried to explain it to you."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 965.4,
+      "end": 967.4,
+      "text": " How is the concept of margin collapse?"
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 967.4,
+      "end": 969.4,
+      "text": " Which troubles a lot of CSS developers."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 969.4,
+      "end": 971.4,
+      "text": " I know people like this."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 971.4,
+      "end": 973.4,
+      "text": " Who tell me."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 973.4,
+      "end": 975.4,
+      "text": " Is this CSS bad?"
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 975.4,
+      "end": 977.4,
+      "text": " What has happened?"
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 977.4,
+      "end": 979.4,
+      "text": " Why is my margin looking wrong?"
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 979.4,
+      "end": 981.4,
+      "text": " All these things you do not say."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 981.4,
+      "end": 983.4,
+      "text": " Understand the concept of margin collapse."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 983.4,
+      "end": 985.4,
+      "text": " And once you understand the concept of margin collapse."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 985.4,
+      "end": 987.4,
+      "text": " Then you will enjoy."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 987.4,
+      "end": 989.4,
+      "text": " Then your development will be so smooth."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 989.4,
+      "end": 991.4,
+      "text": " When do you have to put the box sizing border box?"
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 991.4,
+      "end": 993.4,
+      "text": " What will happen if you put it?"
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 993.4,
+      "end": 995.4,
+      "text": " You have to see all this."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 995.4,
+      "end": 997.4,
+      "text": " Especially when we convert spigma files."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 997.4,
+      "end": 999.4,
+      "text": " In HTML, CSS, JavaScript."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 999.4,
+      "end": 1001.4,
+      "text": " Then you will get this work."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 1001.4,
+      "end": 1003.4,
+      "text": " Whether to put the box sizing or not."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 1003.4,
+      "end": 1005.4,
+      "text": " I hope you are enjoying this course."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 1005.4,
+      "end": 1007.4,
+      "text": " And I hope you are understanding all these things."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 1007.4,
+      "end": 1009.4,
+      "text": " If you have not accessed this playlist."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 1009.4,
+      "end": 1011.4,
+      "text": " Then do it."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 1011.4,
+      "end": 1013.4,
+      "text": " And click here to bookmark."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 1013.4,
+      "end": 1015.4,
+      "text": " And click here to save."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 1015.4,
+      "end": 1017.4,
+      "text": " I am updating the source code."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 1017.4,
+      "end": 1019.4,
+      "text": " So you will get the source code."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 1019.4,
+      "end": 1021.4,
+      "text": " I hope you are enjoying the source code."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 1021.4,
+      "end": 1023.4,
+      "text": " I am updating the source code."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 1023.4,
+      "end": 1025.4,
+      "text": " So like the video."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 1025.4,
+      "end": 1027.4,
+      "text": " Access the playlist."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 1027.4,
+      "end": 1029.4,
+      "text": " Subscribe to the channel."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 1029.4,
+      "end": 1031.4,
+      "text": " Share the channel."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 1031.4,
+      "end": 1033.4,
+      "text": " And prepare to meet me in the next video."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 1033.4,
+      "end": 1035.4,
+      "text": " Thank you so much for watching this video."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 1035.4,
+      "end": 1037.4,
+      "text": " And I will see you next time."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 1051.4,
+      "end": 1053.4,
+      "text": " Thank you so much for watching this video."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 1053.4,
+      "end": 1055.4,
+      "text": " And I will see you next time."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 1055.4,
+      "end": 1057.4,
+      "text": " Thank you so much for watching this video."
+    },
+    {
+      "number": "11",
+      "title": "CSS Box Model - Margin, Padding & Borders  Sigma Web Development Course",
+      "start": 1057.4,
+      "end": 1059.4,
+      "text": " And I will see you next time."
+    }
+  ],
+  "text": " Guys, in today's video we are going to talk about the box model in CSS. In any element, there is a content which is itself, then margin, then border and padding. This border, margin and padding are the concept of box model in CSS. In this video, we will understand all these things and see how margin, border, padding are set in CSS. So let's go to the computer screen. I am really very excited. Let's roll the intro. So guys, I have come inside my computer screen. And the first thing I will do here is show you this playlist. And you guys don't even click on the star here and don't even click here to access. You guys won't do that either. Do it, man. Click on the star here and click here to access. And I have also put the source code for you guys. Access it too. I want you to enjoy it too. Okay, so what do you guys do while enjoying it? The way I have made this folder here and what I will do by right-clicking shift, I will open it with code. As you can see, and this will open in my VS code. If your open with code option is not coming, which many people tell me that our open with code option is not coming. So I have a suggestion for you guys. What do you do? To install VS code again, run its setup again and see which options I have checked. Now I will come in the video and here I will make a file by making an index.html file and keep a boilerplate template. Here I will write CSS box model. After writing the CSS box model, I will make a style tag here. With the help of which I will make you guys. Oops, how did I make a style tag? Is it too fast? No, it's not fast. Okay, it will work. So what will I do while making a style tag here? I will put styles here and tell you how the box model works in CSS. So first of all, let's understand the concept of box model in CSS. What is the concept of box model in CSS? Look, everything in CSS is a box. Whatever elements we have made with HTML, they are all a box. Whether we make a container, whether we make a div, whether we make a span, they are all a box in our CSS. And there are some things in that box that I want to show you here. So if you can see on the computer screen, you will see that here I have explained the concept of CSS box model. CSS box model means that there is padding outside your content, there is a border outside it, and there is a margin outside it. So you should know this concept. One more thing I want to tell you is that, let's say I made a div.box here. I made a box here, I will write I am a box. And if I show you its preview, then it has become a box called I am a box. There is already some margin and padding outside this box, which you will know when I put a background on it. So what I will do is I will write dot box here, which means that I selected the class selector box and I will say background color is let us say aqua. So the background color of this box will be aqua. We can do the format document by doing it rightly, so that we will get good formatting. Now you see here there is some margin padding already in it. What I will do is using a universal selector, it happens that our browser plays a little smart from its side. It says that this developer does not have a brain, so I will put my brain. So it adds margin padding to its own mind, adds many more styles. And that's why we sometimes need to reset CSS. So I wrote m-0 here by putting a star. Sorry, I wrote m-0, so margin became 0. I wrote p-0, so padding became 0. These were emmet shortcuts. And what will happen by doing this, it will stick to the top. Like spacing was coming here, it is not coming now. So I wrote I am a box, so let's do one thing. And here I wrote div.box and here I can add multiple classes. By doing box1 and box2, so I did one box, one box1. And in this I did one box and one box2. So whatever I will put the properties by selecting the box, it will also apply to this element and it will also apply to this. Because we can give multiple classes to one element. I told you before that one element can be given multiple classes. And here you can see that I have given it a box and given it a box1. I have given it a box and given it a box2. And I will simply write here I am another box. Okay, this is our box2. This was box1, this is our box2. Now what will I do inside box2, I will say dot box2 and dot box1. Now you understand what I did here. See, I will write that property which I want to give to both the boxes. Or suppose I have ten boxes like this, then I would like to give it in the tenth of ten. I will write that by dot box. And some properties will be such that I would like to give individually in box1 and box2. So what I will do is I will give box1 class to this and box2 class to this. And if any element has to give more than one class, then we give it by putting space. Can we give more than one ID to any element? Tell me in the comment section below, let me see how much understanding you have. Make two-way interaction and tell me in the comment section below. Can we put more than one ID in one element? By giving spaces, tell me below in the comment section. You can put classes by giving spaces, I confirm this and tell you. Everyone should have a comment, I don't know. Now you see here I wrote dot box1. So what can I do? Suppose I made the color yellow in this. Okay, made the color yellow. What will happen by making the color yellow? By making the color yellow, I will make its color red. The font color will be yellow and the font color will be red here. I will show you. See, the font color is yellow here and the font color is red here. Now what does the box model say? Box model says that the content of your CSS will be here. Outside it will be padding, outside it will be border and outside it will be margin. Okay, and the total height or width of any element will be added. Means the element will fall in this much place. Total height and width, I did not say height and width, remember. Total height means that whatever this place will fall, okay. So this thing should be told to you. In CSS box model, we have seen only this much. Okay, so I have put different classes here. Now what will I do? I will say, let me give a little padding inside box1. And I want to give 10 pixel padding. So if I give 10 pixel padding, then 10 pixel padding will come from all sides. And to see this, you can inspect right click. See this carefully. See this carefully. You see here that I inspected by right clicking. So here you can see, I hope you can see. I have removed my face for a while. I hope you can see here. Okay, box and box1. So here you can see box and box1. If I hover over box1, then only this element is selected. See above. See above. See here. See here it is selected. If I hover over it below, then only box2 is selected. So by clicking on box1, this element is selected. I can come here. Okay, see here I removed it like this. Now by coming here, I can see everything about it. Color yellow. If I want, I can change this color temporarily. I will only change it temporarily. Because its source code is written here. So whatever I will change here will be permanent. Whatever I will change here will be temporary. Okay, so now I will not do it. As I am telling you that I can do temporary changes and preview. How will it look if my box's color becomes white? If I reload it, then it is fine again. And by selecting this box, I will come here again on computed. Now as soon as I come on computed, I can see a box. And this box is exactly the same box that I have shown on codewithhari.com. Okay, so with this kind of box, you will know that How much is the width and height of this particular element, i.e. box1. After this, how much padding is there in it. I have given padding of 10 from all four sides. There is no border. There is no margin. Okay, so in this way, we have given all these things in this element. Let's put a border in it. So I have put padding of 10. I am doing it in box1 only. Remember that I am working only in box1. Coming back a little bit. Now what I will do here is put a margin. And I will put a margin of 5 pixels. And as soon as I put a margin of 5 pixels, What will happen is that it is outside the element. So the background of the element is not retained. Okay, what does this mean? This means that if I put a pink color on you, Suppose I put pink color on you, So you will be pink. But if I throw pink, pink or anything all around you, It will not be on you. So this was a very strange example. But I will tell you that padding is outside the content. So if I give padding, then the background color comes in the padding area. Because padding is inside the content. And margin is outside the content. Which is outside your element. Content is inside the element. So the background color will be in the padding area. It will not be in the margin area. You have to keep this in mind. So here I gave margin, so you see the margin of 5. Now I will tell you how to add a border. If I write border here, And I will tell you about the border later. But for now, you understand that if I write like this, Border 2 pixels solid blue, So the border of 2 pixels came here. And here you see that I have given a border of 2 pixels. Okay, you can see that the border has come here. So you can see this border here. And you can see that this is my content. And this is the border. So what happens here is that there is a DPI factor in our display. Because of which the actual border will be seen separately. But this is pretty much how you can see the margin, border and padding. In real time of your element. So I hope you understood this thing. Now I tell you here, How your element's width is calculated. Now suppose I have given the width of this element. And I have given the width of this element. And I have given the width of this element. And I have given the width of this element. Now suppose I have given the width of this element. Let's say, Or I give the height of this element. 200 pixels. So I gave the height of this element 200 pixels. And its height is 200 pixels. Now I will inspect you and show you one thing. And I will take you to the computed values. So see its height is 200 pixels. Okay, and you see As soon as I put an arrow on the content. So it is showing the content, padding is showing padding. It is showing the border on the border. If you put it on the margin, then it is showing the margin. Now you see here, The actual height of this element is 200 pixels. The actual height of this element is 200 pixels. Then 10 will be added to it. And 10 will be added from below, it will become 220. Then the borders will be added. Then the margin will be added. So as soon as I add all these things to it. So all this space will come out here. But how much is the height of a particular element. Or how much is the width. So the total width and total height is taken out from this formula. What we do is, we will add both left and right padding to width. Left and right both border. And left and right both margin. This is the total width, that is, how much space will be surrounded by the margin. With the element. I hope you are understanding this thing. And if I just talk about the element. How much space is surrounding the border. So you will add this whole thing. But now I want to tell you one thing here. If I put a CSS property here. Which I can directly put from here. I can add it here in styles. I will show you this too. If I do background red, then its background will be red. Temporarily until I reload. I will put it here. What I will do here. I will write box sizing. And I will write border box here. As soon as I write box sizing, border box. You see here that its actual width. Sorry, the height is 176. 176.8 is because. Because 176.8 plus 20 is. 196.8 And after that, the border. It will be 200 in total. We do not include margin here. Because margin is outside. Margin is not included. Whenever we set a height. And here we give box sizing property. Try to understand. When I say that its height is 200. Or I say width is 200. So with width 200. If I do not put this. Listen to this very carefully. If I do not put a box sizing border box. Then what will happen. Then the content will be. Only its height. If I talk about width, then it will be 200. I will explain to you very simply. 200 will be the height of its content. Then if you talk about the total space. Then padding will be added to it. Then the border will be added. But if I say. Box sizing border box. So basically I am saying that the 200 height. This is by including border and padding. But not margin. This is not margin. I am telling 200 by including border and padding. Box sizing border box. Where I did it. The height of the content. The height I have written here. This height is my border and padding. I have written by combining both. By combining both. Content plus border plus padding. Should be 200. When I say box sizing border box. So everyone tell me in the comment. If we write box sizing border box. Then what am I saying. I am saying to csh. I am giving you this height. This height I am adding padding and border. Content plus border plus padding. That is 200. This is the meaning of my height. So in a way box sizing border box. Changes the definition of height. What is the definition of height? The definition of height is. Padding will not be included in this. Border will not be included in this. This will be the height of this element. Now this is 176. I will remove this. I can also remove it from here. If I uncheck the box sizing border box. And then I added this. Then I added this. After combining both. The total height will be 200 plus 20. 220 plus borders. All the calculated by this. But here I want to tell you. If I said box sizing border box. What happens. As soon as I write box sizing border box. Here its height. Will be reduced from 200. And will be adjusted in this way. That padding and border will be 200. I hope that makes a lot of sense. I hope that I have explained to you. So this was a very important concept. Which I wanted to tell you all. And now the concept I am going to tell you. You will enjoy it. You will enjoy it. Because in that I will tell you. About margin collapse. And this concept. You should definitely know. I will take you again to the computer screen. This was our code. How much margin did I give here? I give exactly the same in this. And let's increase the margin. To make it more interesting. Let's increase margin to 25px. And let's assume. Same to same things. I will keep the color red. And I will blacken the border. So that it looks different. Rest all the values are same. You can see in this box. Now you tell me honestly. That margin is 10 all around this box. 10 10 10 10. 10 10 10 10. So here we should have seen double. Or not? Think again. That margin all around this. If I select this element. Then it should be 25 25 25. Not 10 10. 25 25 25. Then this element. 25 25 25. So this distance should be 50. 25 is this much. Look at my arrow. And this is also 25. So this is also 25. Why not 50? The upper element should also have. Here comes the concept of margin collapse. What is this concept? The concept of margin collapse. Says that if the margin of two elements. Is overlapping. Then the maximum margin. Will be applied once. Like if I have given margin of 25. And this has margin of 25. Then what is the maximum of 25? Then the margin of 25 will be applied once. If I make one of them 35. Then the margin of 25 will be applied. So this difference will be 35. So this is called margin collapse. So if I show you a good example. Of margin collapse. In images. I hope I will get a good image. In which I can explain margin collapse. Basically what happens. If I have a box A. I have a box B. I think this image is very good. Suppose I have a box A. I have given a margin of 30 pixels in box A. And 20 pixels in box B. So it will not look like this. But it will look like this. Because the maximum of these two. Will be applied once. So this is how the margin will be applied. You can understand this is called margin collapse. So I hope you understood this concept. What is margin collapse? What is the box model of CSS? How does the box model work? And I tried to explain it to you. How is the concept of margin collapse? Which troubles a lot of CSS developers. I know people like this. Who tell me. Is this CSS bad? What has happened? Why is my margin looking wrong? All these things you do not say. Understand the concept of margin collapse. And once you understand the concept of margin collapse. Then you will enjoy. Then your development will be so smooth. When do you have to put the box sizing border box? What will happen if you put it? You have to see all this. Especially when we convert spigma files. In HTML, CSS, JavaScript. Then you will get this work. Whether to put the box sizing or not. I hope you are enjoying this course. And I hope you are understanding all these things. If you have not accessed this playlist. Then do it. And click here to bookmark. And click here to save. I am updating the source code. So you will get the source code. I hope you are enjoying the source code. I am updating the source code. So like the video. Access the playlist. Subscribe to the channel. Share the channel. And prepare to meet me in the next video. Thank you so much for watching this video. And I will see you next time. Thank you so much for watching this video. And I will see you next time. Thank you so much for watching this video. And I will see you next time."
+}

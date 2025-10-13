@@ -1,0 +1,30 @@
+import openpyxl
+
+def generate_excel(comments, sentiments, filename="output.xlsx"):
+    # Check that both lists have same length
+    if len(comments) != len(sentiments):
+        raise ValueError("Comments and sentiments must have the same length.")
+    
+    # Create a new workbook
+    workbook = openpyxl.Workbook()
+    sheet = workbook.active
+    sheet.title = "Data"
+    
+    # Write headers
+    sheet["A1"] = "Comments"
+    sheet["B1"] = "Sentiments"
+    
+    # Write data row by row
+    for i, (comment, sentiment) in enumerate(zip(comments, sentiments), start=2):
+        sheet[f"A{i}"] = comment
+        sheet[f"B{i}"] = sentiment
+    
+    # Save file
+    workbook.save(filename)
+    print(f"✅ Excel file '{filename}' created successfully!")
+
+# Example usage:
+comments = ["This product is amazing!", "Service was bad.", "I love this place."]
+sentiments = ["positive", "negative", "positive"]
+
+generate_excel(comments, sentiments, "comments_sentiments.xlsx")

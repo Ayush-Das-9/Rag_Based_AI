@@ -1,0 +1,3589 @@
+{
+  "chunks": [
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 0.0,
+      "end": 4.88,
+      "text": " What are the forms of this video and what is the input tag form?"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 4.88,
+      "end": 11.28,
+      "text": " It is very important to use the form in the form because you submit data through the form"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 11.28,
+      "end": 16.2,
+      "text": " You can see the form on Google and Qwari forms"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 16.2,
+      "end": 20.6,
+      "text": " You can see the data and the form on the flight ticket"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 20.6,
+      "end": 23.04,
+      "text": " You can submit it through HTML and HTML"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 23.04,
+      "end": 24.76,
+      "text": " Last video I liked it a lot"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 24.76,
+      "end": 28.12,
+      "text": " I will request you to like this video with high energy"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 28.12,
+      "end": 30.880000000000003,
+      "text": " So that you can maintain the high energy throughout the course"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 30.880000000000003,
+      "end": 33.92,
+      "text": " So let's go to the computer screen and see the forms of this video"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 33.92,
+      "end": 36.92,
+      "text": " and see the best practices of this video"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 36.92,
+      "end": 37.92,
+      "text": " Let's roll the intro"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 46.92,
+      "end": 48.92,
+      "text": " So guys I have already put my computer screen on the screen"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 48.92,
+      "end": 53.120000000000005,
+      "text": " And now I will make a folder that I will use in my video"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 53.120000000000005,
+      "end": 55.120000000000005,
+      "text": " I will use the video of the video of the video"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 55.120000000000005,
+      "end": 57.120000000000005,
+      "text": " I will open it with code"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 57.12,
+      "end": 58.72,
+      "text": " I have already told you all this"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 58.72,
+      "end": 61.72,
+      "text": " And now I will make the index.html"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 61.72,
+      "end": 63.919999999999995,
+      "text": " And put the marks on it"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 63.919999999999995,
+      "end": 69.32,
+      "text": " I will do the view, wrap it, turn on the screen, turn on the mode and see"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 69.32,
+      "end": 70.92,
+      "text": " I will take the forms"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 70.92,
+      "end": 72.92,
+      "text": " Let's learn it"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 72.92,
+      "end": 80.12,
+      "text": " So I have set the forms of this video and what is the work of setting the title in the form?"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 80.12,
+      "end": 82.92,
+      "text": " I want to show you a very important setting"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 83.92,
+      "end": 86.52,
+      "text": " You have already made a comment about this"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 86.52,
+      "end": 88.52,
+      "text": " You have to click so many times"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 88.52,
+      "end": 89.52,
+      "text": " You can do something"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 89.52,
+      "end": 90.52,
+      "text": " Yes you can do it"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 90.52,
+      "end": 91.52,
+      "text": " Click on the gear"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 91.52,
+      "end": 92.52,
+      "text": " Click on settings"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 92.52,
+      "end": 94.52,
+      "text": " And after clicking on settings"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 94.52,
+      "end": 98.52,
+      "text": " You simply click on the live preview"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 98.52,
+      "end": 99.52000000000001,
+      "text": " Live preview"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 99.52000000000001,
+      "end": 101.52000000000001,
+      "text": " And we can set it"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 101.52000000000001,
+      "end": 103.52000000000001,
+      "text": " When we click on such a tag"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 103.52000000000001,
+      "end": 106.52000000000001,
+      "text": " Then what will be the external browser"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 106.52000000000001,
+      "end": 107.52000000000001,
+      "text": " Now I will turn everything on"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 107.52000000000001,
+      "end": 109.52000000000001,
+      "text": " As soon as I click here"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 109.52000000000001,
+      "end": 111.52000000000001,
+      "text": " I will click on the external browser"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 111.52,
+      "end": 115.11999999999999,
+      "text": " I will come and do the sigma web development course playlist"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 115.11999999999999,
+      "end": 116.72,
+      "text": " I will do the access"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 116.72,
+      "end": 118.72,
+      "text": " Click on the star and click on the bookmark"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 118.72,
+      "end": 120.32,
+      "text": " But now I will tell you"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 120.32,
+      "end": 121.72,
+      "text": " As soon as I click here"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 121.72,
+      "end": 122.72,
+      "text": " You can see"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 122.72,
+      "end": 124.72,
+      "text": " So now you want to do it"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 124.72,
+      "end": 127.72,
+      "text": " But sometimes you want to do side by side view"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 127.72,
+      "end": 128.72,
+      "text": " And when you want to use it"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 128.72,
+      "end": 129.76,
+      "text": " When you are using it in the national"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 129.76,
+      "end": 130.92,
+      "text": " In the national social service"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 130.92,
+      "end": 132.32,
+      "text": " You are working on design"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 132.32,
+      "end": 133.92,
+      "text": " So whenever you are working on design"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 133.92,
+      "end": 135.92,
+      "text": " You will definitely want"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 135.92,
+      "end": 136.92,
+      "text": " You will see the live preview"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 136.92,
+      "end": 137.72,
+      "text": " Here"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 137.72,
+      "end": 139.52,
+      "text": " Which is why this extension was made"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 139.52,
+      "end": 141.32,
+      "text": " And this live service was different"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 141.32,
+      "end": 144.12,
+      "text": " That's why you will see the preview on the side"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 144.12,
+      "end": 145.52,
+      "text": " Now what will we do here"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 145.52,
+      "end": 146.52,
+      "text": " We will go about the forms"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 146.52,
+      "end": 148.12,
+      "text": " What is the form?"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 148.12,
+      "end": 149.12,
+      "text": " You don't know the name"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 149.12,
+      "end": 151.12,
+      "text": " It means it is called real break"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 151.12,
+      "end": 152.12,
+      "text": " We increase it"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 152.12,
+      "end": 153.32,
+      "text": " And our reservation is also available"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 153.32,
+      "end": 155.52,
+      "text": " We increase the form of IDJ"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 155.52,
+      "end": 156.52,
+      "text": " And the form of the need"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 156.52,
+      "end": 157.92,
+      "text": " We increase the form of an exam"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 157.92,
+      "end": 159.92,
+      "text": " So that our data can reach"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 159.92,
+      "end": 161.12,
+      "text": " Until we want it"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 161.12,
+      "end": 163.12,
+      "text": " So this is the form"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 163.12,
+      "end": 164.52,
+      "text": " It is a stable form tag"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 164.52,
+      "end": 166.12,
+      "text": " Like if you write a form"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 166.12,
+      "end": 167.12,
+      "text": " Enter"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 167.12,
+      "end": 168.52,
+      "text": " Like if you have a question before you"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 168.52,
+      "end": 169.52,
+      "text": " What is the action?"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 169.52,
+      "end": 170.52,
+      "text": " The form of the get"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 170.52,
+      "end": 171.52,
+      "text": " Get request"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 171.52,
+      "end": 172.52,
+      "text": " In post requests"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 172.52,
+      "end": 174.12,
+      "text": " I will tell you a quick difference"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 174.12,
+      "end": 175.32,
+      "text": " I will come and see"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 175.32,
+      "end": 176.92000000000002,
+      "text": " When we will read the back end"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 176.92000000000002,
+      "end": 178.92000000000002,
+      "text": " Get request is very simple"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 178.92000000000002,
+      "end": 180.32,
+      "text": " And post requests"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 180.32,
+      "end": 181.32,
+      "text": " We sell them"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 181.32,
+      "end": 182.32,
+      "text": " In most of the cases"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 182.32,
+      "end": 184.32,
+      "text": " When we have a lot of data"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 184.32,
+      "end": 185.92000000000002,
+      "text": " Which is the form of our post"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 185.92000000000002,
+      "end": 188.92000000000002,
+      "text": " So we will use post requests in most of the cases"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 188.92000000000002,
+      "end": 190.12,
+      "text": " And what is the get request?"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 190.12,
+      "end": 190.92000000000002,
+      "text": " It is very simple"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 190.92000000000002,
+      "end": 191.92000000000002,
+      "text": " The request is"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 191.92000000000002,
+      "end": 193.92000000000002,
+      "text": " We have to tell the server"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 193.92000000000002,
+      "end": 195.32,
+      "text": " And that's it"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 195.32,
+      "end": 196.72,
+      "text": " We have to hit the server"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 196.72,
+      "end": 197.72,
+      "text": " With the request"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 197.72,
+      "end": 199.72,
+      "text": " But if you don't understand"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 199.72,
+      "end": 200.72,
+      "text": " That should be fine"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 200.72,
+      "end": 201.72,
+      "text": " No problem"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 201.72,
+      "end": 203.72,
+      "text": " We will come to the details"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 203.72,
+      "end": 205.72,
+      "text": " So the form is equal to post"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 205.72,
+      "end": 209.12,
+      "text": " Now I can show you some input tags"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 209.12,
+      "end": 211.72,
+      "text": " What do you tell people in input tags?"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 211.72,
+      "end": 214.12,
+      "text": " What are your forms?"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 214.12,
+      "end": 215.51999999999998,
+      "text": " What are the elements?"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 215.51999999999998,
+      "end": 217.12,
+      "text": " Like you can add a date"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 217.12,
+      "end": 218.12,
+      "text": " You can add form"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 218.12,
+      "end": 219.12,
+      "text": " You can say"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 219.12,
+      "end": 220.12,
+      "text": " Name"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 220.12,
+      "end": 221.51999999999998,
+      "text": " You can say phone number"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 221.51999999999998,
+      "end": 222.51999999999998,
+      "text": " You can say"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 222.51999999999998,
+      "end": 223.51999999999998,
+      "text": " Your age"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 223.51999999999998,
+      "end": 224.51999999999998,
+      "text": " You can say number"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 224.52,
+      "end": 227.32000000000002,
+      "text": " You can add form like this"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 227.32000000000002,
+      "end": 228.92000000000002,
+      "text": " I want to tell you"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 228.92000000000002,
+      "end": 231.92000000000002,
+      "text": " That you can add input tags in the form"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 231.92000000000002,
+      "end": 233.32000000000002,
+      "text": " And a label tag"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 233.32000000000002,
+      "end": 235.52,
+      "text": " Which is used to label the input"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 235.52,
+      "end": 236.92000000000002,
+      "text": " So what I will show you"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 236.92000000000002,
+      "end": 238.72,
+      "text": " The simplest input tag"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 238.72,
+      "end": 239.92000000000002,
+      "text": " Type is equal to text"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 239.92000000000002,
+      "end": 242.32000000000002,
+      "text": " So I will put the text in the input"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 242.32000000000002,
+      "end": 245.32000000000002,
+      "text": " And if you zoom in"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 245.32000000000002,
+      "end": 246.92000000000002,
+      "text": " So this is the input text"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 246.92000000000002,
+      "end": 248.12,
+      "text": " And the user name"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 248.12,
+      "end": 248.92000000000002,
+      "text": " And the placeholder"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 248.92000000000002,
+      "end": 249.72,
+      "text": " And the user name"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 249.72,
+      "end": 251.52,
+      "text": " And this is the way to write in the actual"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 251.52,
+      "end": 252.92000000000002,
+      "text": " So you can say"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 252.92000000000002,
+      "end": 254.12,
+      "text": " Enter your user name"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 254.12,
+      "end": 256.12,
+      "text": " And the user you are using"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 256.12,
+      "end": 257.52,
+      "text": " You will have to enter the user name"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 257.52,
+      "end": 259.52,
+      "text": " I write the actual name"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 259.52,
+      "end": 260.52,
+      "text": " And I write the form"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 260.52,
+      "end": 261.32,
+      "text": " Mallow"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 261.32,
+      "end": 261.92,
+      "text": " Form"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 261.92,
+      "end": 262.92,
+      "text": " To"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 262.92,
+      "end": 263.92,
+      "text": " Apply"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 263.92,
+      "end": 264.92,
+      "text": " For"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 264.92,
+      "end": 265.92,
+      "text": " T.A"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 265.92,
+      "end": 266.72,
+      "text": " For Sigma"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 266.72,
+      "end": 267.92,
+      "text": " Web Dev T.A"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 267.92,
+      "end": 268.92,
+      "text": " Sigma"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 268.92,
+      "end": 270.72,
+      "text": " Web Development"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 270.72,
+      "end": 271.72,
+      "text": " Codes"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 271.72,
+      "end": 273.12,
+      "text": " T.A"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 273.12,
+      "end": 273.72,
+      "text": " Mallow"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 273.72,
+      "end": 274.72,
+      "text": " We are teaching assistants"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 274.72,
+      "end": 275.72,
+      "text": " Higher"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 275.72,
+      "end": 276.72,
+      "text": " For Sigma Web Development"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 276.72,
+      "end": 278.72,
+      "text": " So we can write something like this"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 278.72,
+      "end": 279.72,
+      "text": " By the way"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 279.72,
+      "end": 280.72,
+      "text": " I have put all the titles"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 280.72,
+      "end": 281.72,
+      "text": " If you don't have playlists"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 281.72,
+      "end": 282.72,
+      "text": " Then you must have access"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 282.72,
+      "end": 284.12,
+      "text": " And with that"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 284.12,
+      "end": 285.52000000000004,
+      "text": " I will show you"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 285.52000000000004,
+      "end": 286.52000000000004,
+      "text": " This is a title"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 286.52000000000004,
+      "end": 287.52000000000004,
+      "text": " I am very funny"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 287.52000000000004,
+      "end": 288.52000000000004,
+      "text": " I will show you"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 288.52000000000004,
+      "end": 289.52000000000004,
+      "text": " And when you write a single match"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 289.52000000000004,
+      "end": 290.52000000000004,
+      "text": " And when you play"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 290.52000000000004,
+      "end": 291.52000000000004,
+      "text": " And when you play"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 291.52000000000004,
+      "end": 292.52000000000004,
+      "text": " Mallow"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 292.52000000000004,
+      "end": 293.52000000000004,
+      "text": " If you are looking at a younger person"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 293.52000000000004,
+      "end": 294.52000000000004,
+      "text": " Or if you are looking at a SN7"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 294.52000000000004,
+      "end": 295.52000000000004,
+      "text": " Or if you don't know"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 295.52000000000004,
+      "end": 297.32000000000005,
+      "text": " Or if you are looking at a younger person"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 297.32000000000005,
+      "end": 299.32000000000005,
+      "text": " Or if you are looking at a younger person"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 299.32000000000005,
+      "end": 300.32000000000005,
+      "text": " Or if you are looking at a younger person"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 300.32000000000005,
+      "end": 301.32000000000005,
+      "text": " Now you can see"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 301.32000000000005,
+      "end": 302.32000000000005,
+      "text": " The H1 I have put here"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 302.32000000000005,
+      "end": 303.32000000000005,
+      "text": " Which is my heading"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 303.32000000000005,
+      "end": 304.32000000000005,
+      "text": " And the main heading"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 304.32000000000005,
+      "end": 305.32000000000005,
+      "text": " Enter your user name"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 305.32000000000005,
+      "end": 306.32000000000005,
+      "text": " This is our input tag"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 306.32000000000005,
+      "end": 307.32000000000005,
+      "text": " Input tag"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 307.32000000000005,
+      "end": 308.32000000000005,
+      "text": " And we use the label tag"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 308.32000000000005,
+      "end": 309.32000000000005,
+      "text": " Now this is the label"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 309.32000000000005,
+      "end": 310.82000000000005,
+      "text": " For is equal to"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 310.82000000000005,
+      "end": 311.82000000000005,
+      "text": " I write the ID"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 311.92,
+      "end": 312.92,
+      "text": " Mallow"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 312.92,
+      "end": 313.42,
+      "text": " I will write the ID"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 313.42,
+      "end": 314.42,
+      "text": " User name"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 314.42,
+      "end": 315.42,
+      "text": " And"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 315.42,
+      "end": 316.42,
+      "text": " For is equal to"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 316.42,
+      "end": 317.42,
+      "text": " What I will do"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 317.42,
+      "end": 318.42,
+      "text": " For is equal to"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 318.42,
+      "end": 319.42,
+      "text": " I will put it in the ID"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 319.42,
+      "end": 320.92,
+      "text": " What is the ID now?"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 320.92,
+      "end": 321.92,
+      "text": " I will tell you"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 321.92,
+      "end": 322.92,
+      "text": " For now"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 322.92,
+      "end": 323.92,
+      "text": " You can understand how much you understand"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 323.92,
+      "end": 324.92,
+      "text": " The unique identity of the element"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 324.92,
+      "end": 325.92,
+      "text": " How to identify the element"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 325.92,
+      "end": 326.92,
+      "text": " How to identify the element"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 326.92,
+      "end": 328.42,
+      "text": " As you can"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 328.42,
+      "end": 329.92,
+      "text": " You can't do any other number"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 329.92,
+      "end": 331.92,
+      "text": " This is how the ID user has got"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 331.92,
+      "end": 333.42,
+      "text": " Now you can't get any other one"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 333.42,
+      "end": 334.42,
+      "text": " This is the ID"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 334.42,
+      "end": 335.42,
+      "text": " I will tell you in detail"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 335.42,
+      "end": 336.42,
+      "text": " But you can understand"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 336.42,
+      "end": 337.42,
+      "text": " So I wrote the label for is equal to"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 337.42,
+      "end": 338.42,
+      "text": " User name"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 338.42,
+      "end": 339.42,
+      "text": " Input tag"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 339.42,
+      "end": 340.42,
+      "text": " And you can see"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 340.52000000000004,
+      "end": 342.52000000000004,
+      "text": " The label that is coming here"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 342.52000000000004,
+      "end": 343.52000000000004,
+      "text": " I will show you"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 343.52000000000004,
+      "end": 345.52000000000004,
+      "text": " I have not put anything in the label"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 345.52000000000004,
+      "end": 348.52000000000004,
+      "text": " So I will enter your user name"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 348.52000000000004,
+      "end": 349.52000000000004,
+      "text": " And you can see"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 349.52000000000004,
+      "end": 350.52000000000004,
+      "text": " Just like I have here"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 350.52000000000004,
+      "end": 351.52000000000004,
+      "text": " You can see"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 351.52000000000004,
+      "end": 352.52000000000004,
+      "text": " You will see the enter your user name"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 352.52000000000004,
+      "end": 354.52000000000004,
+      "text": " And you can enter your user name"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 354.52000000000004,
+      "end": 355.52000000000004,
+      "text": " With that"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 355.52000000000004,
+      "end": 357.02000000000004,
+      "text": " You can enter your expertise"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 357.02000000000004,
+      "end": 358.02000000000004,
+      "text": " You can also add anything"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 358.02000000000004,
+      "end": 359.02000000000004,
+      "text": " Mallow"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 359.02000000000004,
+      "end": 360.02000000000004,
+      "text": " I have asked you what is your gender"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 360.02000000000004,
+      "end": 362.02000000000004,
+      "text": " So I can do something like this"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 362.02000000000004,
+      "end": 363.02000000000004,
+      "text": " And you can see"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 363.02000000000004,
+      "end": 364.02000000000004,
+      "text": " Enter your gender"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 364.02000000000004,
+      "end": 365.02000000000004,
+      "text": " And as you did"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 365.02000000000004,
+      "end": 367.02000000000004,
+      "text": " You can ask me from the email"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 367.02000000000004,
+      "end": 368.02000000000004,
+      "text": " What is it?"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 368.02000000000004,
+      "end": 369.02000000000004,
+      "text": " What happens here?"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 369.12,
+      "end": 371.12,
+      "text": " I will unwrap it"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 371.12,
+      "end": 372.12,
+      "text": " What happens?"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 372.12,
+      "end": 373.12,
+      "text": " It is a div"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 373.12,
+      "end": 374.12,
+      "text": " Our block element"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 374.12,
+      "end": 375.12,
+      "text": " Okay"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 375.12,
+      "end": 377.12,
+      "text": " And what are the inner and inner block elements?"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 377.12,
+      "end": 378.12,
+      "text": " I have told you"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 378.12,
+      "end": 379.12,
+      "text": " Till now I will tell you in this course"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 379.12,
+      "end": 381.12,
+      "text": " But I will tell you in the coming videos"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 381.12,
+      "end": 382.12,
+      "text": " So now you can understand"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 382.12,
+      "end": 383.12,
+      "text": " I am putting it in the div"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 383.12,
+      "end": 385.62,
+      "text": " So as soon as I put it in the div"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 385.62,
+      "end": 386.62,
+      "text": " It will be in the new space"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 386.62,
+      "end": 388.62,
+      "text": " Yes, it also has a BR tag"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 388.62,
+      "end": 389.62,
+      "text": " It also has a BR tag"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 389.62,
+      "end": 390.62,
+      "text": " Which is called as the line break"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 390.62,
+      "end": 392.12,
+      "text": " But I don't prefer BR tag"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 392.12,
+      "end": 393.62,
+      "text": " And you will get to know"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 393.62,
+      "end": 394.62,
+      "text": " Why we should never do"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 394.62,
+      "end": 395.62,
+      "text": " We should never do our HTML"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 395.62,
+      "end": 396.62,
+      "text": " Blot"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 396.62,
+      "end": 397.62,
+      "text": " This is the video"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 397.72,
+      "end": 399.72,
+      "text": " You will get to know in the coming videos"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 399.72,
+      "end": 401.22,
+      "text": " Now you can see"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 401.22,
+      "end": 402.22,
+      "text": " Enter your user name"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 402.22,
+      "end": 403.22,
+      "text": " Here is the email"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 403.22,
+      "end": 404.22,
+      "text": " What is the female"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 404.22,
+      "end": 405.22,
+      "text": " Now you can see"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 405.22,
+      "end": 406.22,
+      "text": " As I am taking the female"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 406.22,
+      "end": 408.22,
+      "text": " This is the radio button"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 408.22,
+      "end": 409.22,
+      "text": " I am taking the male"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 409.22,
+      "end": 410.22,
+      "text": " Why is it so?"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 410.22,
+      "end": 412.22,
+      "text": " Because the label"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 412.22,
+      "end": 413.22,
+      "text": " I have put the power equal to female"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 413.22,
+      "end": 414.22,
+      "text": " And here is the ID"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 414.22,
+      "end": 415.22,
+      "text": " You see"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 415.22,
+      "end": 416.72,
+      "text": " And with that"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 416.72,
+      "end": 418.22,
+      "text": " I have put the name of both"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 418.22,
+      "end": 419.72,
+      "text": " So the name is equal to"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 419.72,
+      "end": 420.22,
+      "text": " Gender"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 420.22,
+      "end": 421.22,
+      "text": " I have put the input tag"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 421.22,
+      "end": 423.22,
+      "text": " And the name is equal to gender"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 423.22,
+      "end": 424.22,
+      "text": " It is also"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 424.22,
+      "end": 425.22,
+      "text": " Input radio tag"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 425.22,
+      "end": 426.52,
+      "text": " And as we have"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 426.62,
+      "end": 427.62,
+      "text": " The type is equal to radio"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 427.62,
+      "end": 428.62,
+      "text": " It means radio button"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 428.62,
+      "end": 429.62,
+      "text": " And if the name is same"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 429.62,
+      "end": 430.91999999999996,
+      "text": " So these two"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 430.91999999999996,
+      "end": 432.62,
+      "text": " You can only select one at a time"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 432.62,
+      "end": 433.62,
+      "text": " If I select this"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 433.62,
+      "end": 434.62,
+      "text": " It will be only"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 434.62,
+      "end": 435.62,
+      "text": " If I select it"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 435.62,
+      "end": 437.12,
+      "text": " Now I will show you"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 437.12,
+      "end": 438.12,
+      "text": " If I do the label"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 438.12,
+      "end": 439.12,
+      "text": " The ID"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 439.12,
+      "end": 441.12,
+      "text": " And here in the form"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 441.12,
+      "end": 443.12,
+      "text": " I don't do the first one"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 443.12,
+      "end": 444.12,
+      "text": " I will do the second one"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 444.12,
+      "end": 446.12,
+      "text": " So when the second one"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 446.12,
+      "end": 447.12,
+      "text": " I will click on the female"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 447.12,
+      "end": 448.12,
+      "text": " I don't click"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 448.12,
+      "end": 448.91999999999996,
+      "text": " I am not clicking"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 448.91999999999996,
+      "end": 449.91999999999996,
+      "text": " I am not clicking"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 449.91999999999996,
+      "end": 450.41999999999996,
+      "text": " I am clicking on the male"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 450.41999999999996,
+      "end": 451.41999999999996,
+      "text": " So to select the female"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 451.41999999999996,
+      "end": 453.12,
+      "text": " I have to click here"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 453.12,
+      "end": 454.32,
+      "text": " You see"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 454.32,
+      "end": 455.32,
+      "text": " I should do"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 455.42,
+      "end": 457.21999999999997,
+      "text": " I always click on the female"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 457.21999999999997,
+      "end": 458.21999999999997,
+      "text": " Which is the input tag"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 458.21999999999997,
+      "end": 459.42,
+      "text": " And the ID is the same"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 459.42,
+      "end": 460.42,
+      "text": " So you can see"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 460.42,
+      "end": 461.42,
+      "text": " I have added the label"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 461.42,
+      "end": 462.92,
+      "text": " For the female"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 462.92,
+      "end": 463.92,
+      "text": " And with that"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 463.92,
+      "end": 465.02,
+      "text": " We have an input tag"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 465.02,
+      "end": 466.92,
+      "text": " Which is the type is equal to checkbox"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 466.92,
+      "end": 467.92,
+      "text": " Look here"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 467.92,
+      "end": 469.21999999999997,
+      "text": " If I click on the type is equal to checkbox"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 469.21999999999997,
+      "end": 471.21999999999997,
+      "text": " I will click on the div"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 471.21999999999997,
+      "end": 472.21999999999997,
+      "text": " And click on it"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 472.21999999999997,
+      "end": 473.21999999999997,
+      "text": " I will do the format document"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 473.21999999999997,
+      "end": 474.21999999999997,
+      "text": " As I do"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 474.21999999999997,
+      "end": 476.21999999999997,
+      "text": " The document will be very good"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 476.21999999999997,
+      "end": 476.71999999999997,
+      "text": " I mean"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 476.71999999999997,
+      "end": 477.21999999999997,
+      "text": " The formatting"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 477.21999999999997,
+      "end": 478.21999999999997,
+      "text": " And the index"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 478.21999999999997,
+      "end": 479.21999999999997,
+      "text": " Will be very good"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 479.21999999999997,
+      "end": 480.21999999999997,
+      "text": " Now look here"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 480.21999999999997,
+      "end": 481.82,
+      "text": " Subscribe to Newsletter"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 481.82,
+      "end": 483.32,
+      "text": " I can check this here"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 483.32,
+      "end": 484.32,
+      "text": " And radio button"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 484.42,
+      "end": 486.42,
+      "text": " And checkbox has a difference"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 486.42,
+      "end": 487.42,
+      "text": " You can check the checkbox"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 487.42,
+      "end": 488.42,
+      "text": " And check the checkbox"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 488.42,
+      "end": 490.42,
+      "text": " If you want to see the female"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 490.42,
+      "end": 490.92,
+      "text": " Or the female"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 490.92,
+      "end": 491.92,
+      "text": " Or the option"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 491.92,
+      "end": 493.92,
+      "text": " You can select it"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 493.92,
+      "end": 495.92,
+      "text": " Now you have a text area"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 495.92,
+      "end": 496.92,
+      "text": " And select tag"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 496.92,
+      "end": 498.92,
+      "text": " And I will show you"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 498.92,
+      "end": 500.92,
+      "text": " So the text area"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 500.92,
+      "end": 501.92,
+      "text": " And select tag"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 501.92,
+      "end": 503.92,
+      "text": " I will do the text area"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 503.92,
+      "end": 504.92,
+      "text": " And I will show you"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 504.92,
+      "end": 506.71999999999997,
+      "text": " In actual text area"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 506.71999999999997,
+      "end": 509.12,
+      "text": " So the text area is equal to the type is equal to the text"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 509.12,
+      "end": 511.12,
+      "text": " But it has a rows and column attribute"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 511.12,
+      "end": 513.92,
+      "text": " Which you can help with the size of it"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 514.02,
+      "end": 515.02,
+      "text": " Now look here"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 515.02,
+      "end": 516.7199999999999,
+      "text": " The placeholder has given"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 516.7199999999999,
+      "end": 518.02,
+      "text": " Enter your comment"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 518.02,
+      "end": 519.02,
+      "text": " Enter your comment"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 519.02,
+      "end": 520.02,
+      "text": " And text"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 520.02,
+      "end": 520.52,
+      "text": " Ideally"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 520.52,
+      "end": 521.52,
+      "text": " We will do it"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 521.52,
+      "end": 522.52,
+      "text": " We will keep it empty"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 522.52,
+      "end": 524.52,
+      "text": " Or we will not give it at least a new line"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 524.52,
+      "end": 525.52,
+      "text": " I will hide it here"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 525.52,
+      "end": 526.52,
+      "text": " Enter your comment"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 526.52,
+      "end": 527.52,
+      "text": " And now you will"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 527.52,
+      "end": 529.02,
+      "text": " On the left side"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 529.02,
+      "end": 530.02,
+      "text": " I will show you"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 530.02,
+      "end": 531.02,
+      "text": " On the left side"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 531.02,
+      "end": 532.12,
+      "text": " Enter your comment"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 532.12,
+      "end": 533.12,
+      "text": " And here"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 533.12,
+      "end": 535.12,
+      "text": " The user can put the comment"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 535.12,
+      "end": 536.12,
+      "text": " Now look"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 536.12,
+      "end": 537.3199999999999,
+      "text": " The content of the text area"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 537.3199999999999,
+      "end": 538.7199999999999,
+      "text": " The content is also in the comment area"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 538.7199999999999,
+      "end": 540.12,
+      "text": " So the idea is"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 540.12,
+      "end": 541.12,
+      "text": " You don't want to do it"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 541.12,
+      "end": 542.3199999999999,
+      "text": " You want to keep it empty"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 542.4200000000001,
+      "end": 543.9200000000001,
+      "text": " And you can put a label"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 543.9200000000001,
+      "end": 544.9200000000001,
+      "text": " And you can say"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 544.9200000000001,
+      "end": 545.9200000000001,
+      "text": " The label"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 545.9200000000001,
+      "end": 546.9200000000001,
+      "text": " For is equal to comment"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 546.9200000000001,
+      "end": 548.9200000000001,
+      "text": " And definitely the idea will be put here"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 548.9200000000001,
+      "end": 550.9200000000001,
+      "text": " When we put it in the front"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 550.9200000000001,
+      "end": 553.4200000000001,
+      "text": " For which the element has its idea"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 553.4200000000001,
+      "end": 553.9200000000001,
+      "text": " Okay"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 553.9200000000001,
+      "end": 554.9200000000001,
+      "text": " Now look here"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 554.9200000000001,
+      "end": 556.9200000000001,
+      "text": " Enter your comment"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 556.9200000000001,
+      "end": 557.9200000000001,
+      "text": " And write here"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 557.9200000000001,
+      "end": 558.9200000000001,
+      "text": " So"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 558.9200000000001,
+      "end": 559.72,
+      "text": " What will happen"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 559.72,
+      "end": 560.72,
+      "text": " I will write this comment"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 560.72,
+      "end": 561.72,
+      "text": " Enter your comment"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 561.72,
+      "end": 562.72,
+      "text": " Enter your comment"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 562.72,
+      "end": 563.72,
+      "text": " This comment will be here"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 563.72,
+      "end": 564.72,
+      "text": " Now you will not have this style"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 564.72,
+      "end": 566.72,
+      "text": " This style is not from this"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 566.72,
+      "end": 569.12,
+      "text": " Because we will style it with CSS"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 569.12,
+      "end": 570.9200000000001,
+      "text": " Now I will write it just by adding a tag"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 570.92,
+      "end": 572.52,
+      "text": " But I don't recommend"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 572.52,
+      "end": 573.7199999999999,
+      "text": " I am telling you again"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 573.7199999999999,
+      "end": 575.7199999999999,
+      "text": " I don't recommend it"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 575.7199999999999,
+      "end": 577.7199999999999,
+      "text": " Because it is from BRTAC"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 577.7199999999999,
+      "end": 579.52,
+      "text": " By the way, you should know"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 579.52,
+      "end": 580.52,
+      "text": " The line break tag"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 580.52,
+      "end": 581.52,
+      "text": " It is made of a line"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 581.52,
+      "end": 582.52,
+      "text": " You can do it"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 582.52,
+      "end": 583.52,
+      "text": " You can do everything"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 583.52,
+      "end": 584.52,
+      "text": " You can do it"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 584.52,
+      "end": 585.52,
+      "text": " But I will tell you"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 585.52,
+      "end": 588.52,
+      "text": " The BRTAC is something that I don't recommend"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 588.52,
+      "end": 590.52,
+      "text": " I don't recommend using it"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 590.52,
+      "end": 591.92,
+      "text": " But I don't recommend using it all the time"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 591.92,
+      "end": 592.92,
+      "text": " What happens"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 592.92,
+      "end": 593.92,
+      "text": " People think it is easy to do"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 593.92,
+      "end": 596.52,
+      "text": " And add new spaces"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 596.52,
+      "end": 598.3199999999999,
+      "text": " I will post this thing"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 598.3199999999999,
+      "end": 599.3199999999999,
+      "text": " So I will copy it"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 599.3199999999999,
+      "end": 600.7199999999999,
+      "text": " I will show you the select tag"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 600.72,
+      "end": 603.52,
+      "text": " And you can see"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 603.52,
+      "end": 605.52,
+      "text": " I will add a tag here"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 605.52,
+      "end": 606.52,
+      "text": " And I will add a div"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 606.52,
+      "end": 607.52,
+      "text": " So what happens in the select"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 607.52,
+      "end": 608.52,
+      "text": " You get options"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 608.52,
+      "end": 610.52,
+      "text": " Select the syntax"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 610.52,
+      "end": 612.52,
+      "text": " You can use it in Apple"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 612.52,
+      "end": 614.52,
+      "text": " You can use it in a cherry"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 614.52,
+      "end": 616.52,
+      "text": " You can use it in a cherry"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 616.52,
+      "end": 617.52,
+      "text": " You can use it in a cherry"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 617.52,
+      "end": 618.52,
+      "text": " And what I did here"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 618.52,
+      "end": 619.52,
+      "text": " I did a value equal to Apple"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 619.52,
+      "end": 620.52,
+      "text": " I did a select tag"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 620.52,
+      "end": 622.52,
+      "text": " I did a name equal to fruits"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 622.52,
+      "end": 624.52,
+      "text": " Then option value equal to Apple"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 624.52,
+      "end": 625.72,
+      "text": " Option value equal to"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 625.72,
+      "end": 627.52,
+      "text": " Option value equal to cherry"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 627.52,
+      "end": 629.52,
+      "text": " When we will parse this form"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 630.3199999999999,
+      "end": 631.3199999999999,
+      "text": " So we will 크 you"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 631.3199999999999,
+      "end": 653.34,
+      "text": " GO"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 653.34,
+      "end": 658.34,
+      "text": " You can submit a page on it, where the form will be handled, you can give the data there."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 658.34,
+      "end": 660.34,
+      "text": " The method is that getrequest or postrequest."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 660.34,
+      "end": 662.34,
+      "text": " I will tell you the difference in the video."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 662.34,
+      "end": 666.34,
+      "text": " I have told you in rough way that getrequest is very simple request."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 666.34,
+      "end": 669.34,
+      "text": " Postrequest is used when there is a big amount of data."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 669.34,
+      "end": 673.34,
+      "text": " Because the limit of getrequest is there, you can send a lot of data in postrequest."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 673.34,
+      "end": 676.34,
+      "text": " We will not send passwords in getrequest."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 676.34,
+      "end": 678.34,
+      "text": " We send it with postrequest."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 678.34,
+      "end": 681.34,
+      "text": " I have told you the method in name."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 681.34,
+      "end": 683.34,
+      "text": " Name is equal to user name."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 683.34,
+      "end": 685.34,
+      "text": " We mark it with name."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 685.34,
+      "end": 687.34,
+      "text": " If we mark it with name, we will know the server."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 687.34,
+      "end": 689.34,
+      "text": " Which key is corresponding value."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 689.34,
+      "end": 693.34,
+      "text": " So, the key value will be the name and value of the server."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 693.34,
+      "end": 696.34,
+      "text": " We will see when we will process server side."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 696.34,
+      "end": 698.34,
+      "text": " What is the placeholder?"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 698.34,
+      "end": 700.34,
+      "text": " What will be written inside?"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 700.34,
+      "end": 702.34,
+      "text": " Enter your user name."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 702.34,
+      "end": 704.34,
+      "text": " I will click enter user."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 704.34,
+      "end": 706.34,
+      "text": " It is written inside."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 706.34,
+      "end": 709.34,
+      "text": " Enter user name is just here."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 709.34,
+      "end": 711.34,
+      "text": " I want to add user name."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 711.34,
+      "end": 714.34,
+      "text": " After that, you have to require it."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 714.34,
+      "end": 716.34,
+      "text": " You have to add it."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 716.34,
+      "end": 718.34,
+      "text": " You will have to add value."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 718.34,
+      "end": 720.34,
+      "text": " We will use it a lot."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 720.34,
+      "end": 722.34,
+      "text": " Then we have autofocus."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 722.34,
+      "end": 724.34,
+      "text": " What is autofocus?"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 724.34,
+      "end": 726.34,
+      "text": " It is focused automatically."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 726.34,
+      "end": 728.34,
+      "text": " I will show you the autofocus."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 728.34,
+      "end": 731.34,
+      "text": " If you have written it, then you will have to take it in the autofocus."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 731.34,
+      "end": 734.34,
+      "text": " Enter user name is autofocus."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 734.34,
+      "end": 736.34,
+      "text": " I will reload it."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 736.34,
+      "end": 738.34,
+      "text": " If I type it, then it will focus automatically."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 738.34,
+      "end": 740.34,
+      "text": " So, autofocus is this."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 740.34,
+      "end": 743.34,
+      "text": " You will have to type it here."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 743.34,
+      "end": 745.34,
+      "text": " I hope you are understanding."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 745.34,
+      "end": 749.34,
+      "text": " Now, validation attribute is given in the required amount."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 749.34,
+      "end": 752.34,
+      "text": " You can give the pattern you can give."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 752.34,
+      "end": 755.34,
+      "text": " You can give regular expression pattern."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 755.34,
+      "end": 757.34,
+      "text": " You can give it to people."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 757.34,
+      "end": 759.34,
+      "text": " I am not here."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 759.34,
+      "end": 761.34,
+      "text": " You will learn all the things."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 761.34,
+      "end": 763.34,
+      "text": " We will accept a particular pattern."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 763.34,
+      "end": 767.34,
+      "text": " If we put this pattern, then we can not put the pattern."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 767.34,
+      "end": 768.34,
+      "text": " Okay?"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 768.34,
+      "end": 770.34,
+      "text": " You should know all these things."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 770.34,
+      "end": 773.34,
+      "text": " I hope you are enjoying this video."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 773.34,
+      "end": 776.34,
+      "text": " And with this, I would like to give a comment section."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 776.34,
+      "end": 778.34,
+      "text": " Let me know in the comments section."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 778.34,
+      "end": 780.34,
+      "text": " And before the video, please review this course."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 780.34,
+      "end": 782.34,
+      "text": " Many people ask me,"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 782.34,
+      "end": 784.34,
+      "text": " I should not do this course."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 784.34,
+      "end": 786.34,
+      "text": " If it is free course, then people do not value it."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 786.34,
+      "end": 789.34,
+      "text": " If it is free, then we will watch it."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 789.34,
+      "end": 793.34,
+      "text": " And I would like to give a note to those people who have told me"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 793.34,
+      "end": 795.34,
+      "text": " what to do with the paid course."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 795.34,
+      "end": 799.34,
+      "text": " They will pay us, join the sigma batch."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 799.34,
+      "end": 801.34,
+      "text": " You guys join sigma batch."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 801.34,
+      "end": 803.34,
+      "text": " Cut your losses and join sigma batch."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 803.34,
+      "end": 805.34,
+      "text": " Look, what quality of this course is."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 805.34,
+      "end": 807.34,
+      "text": " I don't think you need to tell me."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 807.34,
+      "end": 809.34,
+      "text": " So, you guys, do this."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 809.34,
+      "end": 811.34,
+      "text": " You all will meet here."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 811.34,
+      "end": 812.34,
+      "text": " I am telling you."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 812.34,
+      "end": 815.34,
+      "text": " I mean, this is the cost of 10,000 rupees."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 815.34,
+      "end": 817.34,
+      "text": " This is the start of the month."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 817.34,
+      "end": 819.34,
+      "text": " I was given 10,000 rupees."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 819.34,
+      "end": 821.34,
+      "text": " I was going to sell this course."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 821.34,
+      "end": 823.34,
+      "text": " And I think there is nothing wrong in selling any course."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 823.34,
+      "end": 825.34,
+      "text": " If there is nothing wrong in selling any course."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 825.34,
+      "end": 827.34,
+      "text": " But the thing is, if you have some other course,"
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 827.34,
+      "end": 831.34,
+      "text": " and you feel that you are doing it with your heart, sigma is a big course."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 831.34,
+      "end": 833.34,
+      "text": " So, you should join."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 833.34,
+      "end": 835.34,
+      "text": " Cut your losses and join."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 835.34,
+      "end": 838.34,
+      "text": " If you make your career, then in future, you will have nothing."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 838.34,
+      "end": 840.34,
+      "text": " If you are coming back in time, you will see."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 840.34,
+      "end": 843.34,
+      "text": " You guys have said that we have taken a paid course."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 843.34,
+      "end": 845.34,
+      "text": " Then we took a pre course, which is understood by us."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 845.34,
+      "end": 849.34,
+      "text": " And if you have become a career, then in future, you won't be able to do it."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 849.34,
+      "end": 851.34,
+      "text": " So, do what is right for you."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 851.34,
+      "end": 853.34,
+      "text": " And you should understand your own cycle."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 853.34,
+      "end": 855.34,
+      "text": " I hope you guys are understanding."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 855.34,
+      "end": 857.34,
+      "text": " So, like the video and access the playlist."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 857.34,
+      "end": 859.34,
+      "text": " Subscribe to the channel."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 859.34,
+      "end": 862.34,
+      "text": " And write in the comment section, the op-ed signal in the signature badge."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 862.34,
+      "end": 864.34,
+      "text": " And you should name both of you."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 864.34,
+      "end": 866.34,
+      "text": " Thank you guys for watching this video."
+    },
+    {
+      "number": "3",
+      "title": "Forms and input tags in HTML  Sigma Web Development Course",
+      "start": 866.34,
+      "end": 870.34,
+      "text": " And I will see you next time."
+    }
+  ],
+  "text": " What are the forms of this video and what is the input tag form? It is very important to use the form in the form because you submit data through the form You can see the form on Google and Qwari forms You can see the data and the form on the flight ticket You can submit it through HTML and HTML Last video I liked it a lot I will request you to like this video with high energy So that you can maintain the high energy throughout the course So let's go to the computer screen and see the forms of this video and see the best practices of this video Let's roll the intro So guys I have already put my computer screen on the screen And now I will make a folder that I will use in my video I will use the video of the video of the video I will open it with code I have already told you all this And now I will make the index.html And put the marks on it I will do the view, wrap it, turn on the screen, turn on the mode and see I will take the forms Let's learn it So I have set the forms of this video and what is the work of setting the title in the form? I want to show you a very important setting You have already made a comment about this You have to click so many times You can do something Yes you can do it Click on the gear Click on settings And after clicking on settings You simply click on the live preview Live preview And we can set it When we click on such a tag Then what will be the external browser Now I will turn everything on As soon as I click here I will click on the external browser I will come and do the sigma web development course playlist I will do the access Click on the star and click on the bookmark But now I will tell you As soon as I click here You can see So now you want to do it But sometimes you want to do side by side view And when you want to use it When you are using it in the national In the national social service You are working on design So whenever you are working on design You will definitely want You will see the live preview Here Which is why this extension was made And this live service was different That's why you will see the preview on the side Now what will we do here We will go about the forms What is the form? You don't know the name It means it is called real break We increase it And our reservation is also available We increase the form of IDJ And the form of the need We increase the form of an exam So that our data can reach Until we want it So this is the form It is a stable form tag Like if you write a form Enter Like if you have a question before you What is the action? The form of the get Get request In post requests I will tell you a quick difference I will come and see When we will read the back end Get request is very simple And post requests We sell them In most of the cases When we have a lot of data Which is the form of our post So we will use post requests in most of the cases And what is the get request? It is very simple The request is We have to tell the server And that's it We have to hit the server With the request But if you don't understand That should be fine No problem We will come to the details So the form is equal to post Now I can show you some input tags What do you tell people in input tags? What are your forms? What are the elements? Like you can add a date You can add form You can say Name You can say phone number You can say Your age You can say number You can add form like this I want to tell you That you can add input tags in the form And a label tag Which is used to label the input So what I will show you The simplest input tag Type is equal to text So I will put the text in the input And if you zoom in So this is the input text And the user name And the placeholder And the user name And this is the way to write in the actual So you can say Enter your user name And the user you are using You will have to enter the user name I write the actual name And I write the form Mallow Form To Apply For T.A For Sigma Web Dev T.A Sigma Web Development Codes T.A Mallow We are teaching assistants Higher For Sigma Web Development So we can write something like this By the way I have put all the titles If you don't have playlists Then you must have access And with that I will show you This is a title I am very funny I will show you And when you write a single match And when you play And when you play Mallow If you are looking at a younger person Or if you are looking at a SN7 Or if you don't know Or if you are looking at a younger person Or if you are looking at a younger person Or if you are looking at a younger person Now you can see The H1 I have put here Which is my heading And the main heading Enter your user name This is our input tag Input tag And we use the label tag Now this is the label For is equal to I write the ID Mallow I will write the ID User name And For is equal to What I will do For is equal to I will put it in the ID What is the ID now? I will tell you For now You can understand how much you understand The unique identity of the element How to identify the element How to identify the element As you can You can't do any other number This is how the ID user has got Now you can't get any other one This is the ID I will tell you in detail But you can understand So I wrote the label for is equal to User name Input tag And you can see The label that is coming here I will show you I have not put anything in the label So I will enter your user name And you can see Just like I have here You can see You will see the enter your user name And you can enter your user name With that You can enter your expertise You can also add anything Mallow I have asked you what is your gender So I can do something like this And you can see Enter your gender And as you did You can ask me from the email What is it? What happens here? I will unwrap it What happens? It is a div Our block element Okay And what are the inner and inner block elements? I have told you Till now I will tell you in this course But I will tell you in the coming videos So now you can understand I am putting it in the div So as soon as I put it in the div It will be in the new space Yes, it also has a BR tag It also has a BR tag Which is called as the line break But I don't prefer BR tag And you will get to know Why we should never do We should never do our HTML Blot This is the video You will get to know in the coming videos Now you can see Enter your user name Here is the email What is the female Now you can see As I am taking the female This is the radio button I am taking the male Why is it so? Because the label I have put the power equal to female And here is the ID You see And with that I have put the name of both So the name is equal to Gender I have put the input tag And the name is equal to gender It is also Input radio tag And as we have The type is equal to radio It means radio button And if the name is same So these two You can only select one at a time If I select this It will be only If I select it Now I will show you If I do the label The ID And here in the form I don't do the first one I will do the second one So when the second one I will click on the female I don't click I am not clicking I am not clicking I am clicking on the male So to select the female I have to click here You see I should do I always click on the female Which is the input tag And the ID is the same So you can see I have added the label For the female And with that We have an input tag Which is the type is equal to checkbox Look here If I click on the type is equal to checkbox I will click on the div And click on it I will do the format document As I do The document will be very good I mean The formatting And the index Will be very good Now look here Subscribe to Newsletter I can check this here And radio button And checkbox has a difference You can check the checkbox And check the checkbox If you want to see the female Or the female Or the option You can select it Now you have a text area And select tag And I will show you So the text area And select tag I will do the text area And I will show you In actual text area So the text area is equal to the type is equal to the text But it has a rows and column attribute Which you can help with the size of it Now look here The placeholder has given Enter your comment Enter your comment And text Ideally We will do it We will keep it empty Or we will not give it at least a new line I will hide it here Enter your comment And now you will On the left side I will show you On the left side Enter your comment And here The user can put the comment Now look The content of the text area The content is also in the comment area So the idea is You don't want to do it You want to keep it empty And you can put a label And you can say The label For is equal to comment And definitely the idea will be put here When we put it in the front For which the element has its idea Okay Now look here Enter your comment And write here So What will happen I will write this comment Enter your comment Enter your comment This comment will be here Now you will not have this style This style is not from this Because we will style it with CSS Now I will write it just by adding a tag But I don't recommend I am telling you again I don't recommend it Because it is from BRTAC By the way, you should know The line break tag It is made of a line You can do it You can do everything You can do it But I will tell you The BRTAC is something that I don't recommend I don't recommend using it But I don't recommend using it all the time What happens People think it is easy to do And add new spaces I will post this thing So I will copy it I will show you the select tag And you can see I will add a tag here And I will add a div So what happens in the select You get options Select the syntax You can use it in Apple You can use it in a cherry You can use it in a cherry You can use it in a cherry And what I did here I did a value equal to Apple I did a select tag I did a name equal to fruits Then option value equal to Apple Option value equal to Option value equal to cherry When we will parse this form So we will 크 you GO You can submit a page on it, where the form will be handled, you can give the data there. The method is that getrequest or postrequest. I will tell you the difference in the video. I have told you in rough way that getrequest is very simple request. Postrequest is used when there is a big amount of data. Because the limit of getrequest is there, you can send a lot of data in postrequest. We will not send passwords in getrequest. We send it with postrequest. I have told you the method in name. Name is equal to user name. We mark it with name. If we mark it with name, we will know the server. Which key is corresponding value. So, the key value will be the name and value of the server. We will see when we will process server side. What is the placeholder? What will be written inside? Enter your user name. I will click enter user. It is written inside. Enter user name is just here. I want to add user name. After that, you have to require it. You have to add it. You will have to add value. We will use it a lot. Then we have autofocus. What is autofocus? It is focused automatically. I will show you the autofocus. If you have written it, then you will have to take it in the autofocus. Enter user name is autofocus. I will reload it. If I type it, then it will focus automatically. So, autofocus is this. You will have to type it here. I hope you are understanding. Now, validation attribute is given in the required amount. You can give the pattern you can give. You can give regular expression pattern. You can give it to people. I am not here. You will learn all the things. We will accept a particular pattern. If we put this pattern, then we can not put the pattern. Okay? You should know all these things. I hope you are enjoying this video. And with this, I would like to give a comment section. Let me know in the comments section. And before the video, please review this course. Many people ask me, I should not do this course. If it is free course, then people do not value it. If it is free, then we will watch it. And I would like to give a note to those people who have told me what to do with the paid course. They will pay us, join the sigma batch. You guys join sigma batch. Cut your losses and join sigma batch. Look, what quality of this course is. I don't think you need to tell me. So, you guys, do this. You all will meet here. I am telling you. I mean, this is the cost of 10,000 rupees. This is the start of the month. I was given 10,000 rupees. I was going to sell this course. And I think there is nothing wrong in selling any course. If there is nothing wrong in selling any course. But the thing is, if you have some other course, and you feel that you are doing it with your heart, sigma is a big course. So, you should join. Cut your losses and join. If you make your career, then in future, you will have nothing. If you are coming back in time, you will see. You guys have said that we have taken a paid course. Then we took a pre course, which is understood by us. And if you have become a career, then in future, you won't be able to do it. So, do what is right for you. And you should understand your own cycle. I hope you guys are understanding. So, like the video and access the playlist. Subscribe to the channel. And write in the comment section, the op-ed signal in the signature badge. And you should name both of you. Thank you guys for watching this video. And I will see you next time."
+}

@@ -1,0 +1,1860 @@
+{
+  "chunks": [
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 0.0,
+      "end": 3.1,
+      "text": " I will tell you about the idea and classes."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 3.1,
+      "end": 7.12,
+      "text": " The concept of the idea and classes is very confusing."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 7.12,
+      "end": 9.58,
+      "text": " In fact, when I was learning HTML,"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 9.58,
+      "end": 12.34,
+      "text": " I was very confused in the early days in the idea and classes."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 12.34,
+      "end": 14.14,
+      "text": " The idea means unique identifier."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 14.14,
+      "end": 16.26,
+      "text": " If you give an idea to an element,"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 16.26,
+      "end": 18.900000000000002,
+      "text": " then you will not give the idea to the other element."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 18.900000000000002,
+      "end": 24.04,
+      "text": " But the class means that if you want to give multiple elements,"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 24.04,
+      "end": 25.64,
+      "text": " then you will give it multiple classes."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 25.64,
+      "end": 28.580000000000002,
+      "text": " For example, you can give a div to a red name class,"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 28.580000000000002,
+      "end": 29.86,
+      "text": " and a form."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 29.86,
+      "end": 32.64,
+      "text": " You can give an article tag to a BG red name class,"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 32.64,
+      "end": 35.32,
+      "text": " and a header tag to give an article tag."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 35.32,
+      "end": 39.08,
+      "text": " Please like this video because we will go to the computer screen"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 39.08,
+      "end": 41.82,
+      "text": " and will watch these things closely."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 41.82,
+      "end": 43.14,
+      "text": " Let's roll the intro."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 52.66,
+      "end": 54.54,
+      "text": " Guys, I am back."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 54.54,
+      "end": 57.86,
+      "text": " If you have not access the SIGMA web development course,"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 57.86,
+      "end": 63.86,
+      "text": " click on the playlist to save and upload the video to your source code."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 63.86,
+      "end": 68.46,
+      "text": " I will make a folder in the folder and the video number 9."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 68.46,
+      "end": 70.56,
+      "text": " I will make a folder in the video."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 70.56,
+      "end": 74.36,
+      "text": " I will make a video 9 and make a folder in the video."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 74.36,
+      "end": 77.26,
+      "text": " After that, I will try to open the open web."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 77.26,
+      "end": 79.96000000000001,
+      "text": " You can see that this is opened in the BS code."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 79.96000000000001,
+      "end": 84.16,
+      "text": " I will write the HTML, the exclamation mark, and the enter."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 84.25999999999999,
+      "end": 88.86,
+      "text": " Now, I will tell you the ID and the classes."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 88.86,
+      "end": 93.06,
+      "text": " You have to read the ID on the right."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 93.06,
+      "end": 95.06,
+      "text": " I have an ID in the comment section."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 95.06,
+      "end": 98.25999999999999,
+      "text": " When you go to any place, you have to read the ID."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 98.25999999999999,
+      "end": 101.66,
+      "text": " I have to prove the ID in the case of the ID."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 101.66,
+      "end": 102.66,
+      "text": " I am here."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 102.66,
+      "end": 106.9,
+      "text": " You have to understand the ID and the classes in the HTML."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 106.9,
+      "end": 109.66,
+      "text": " The ID is your research."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 109.66,
+      "end": 113.66,
+      "text": " So, you have to listen to the story."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 113.75999999999999,
+      "end": 115.75999999999999,
+      "text": " This is John."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 115.75999999999999,
+      "end": 117.75999999999999,
+      "text": " This is Harry."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 117.75999999999999,
+      "end": 119.75999999999999,
+      "text": " These two are very good friends."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 119.75999999999999,
+      "end": 124.75999999999999,
+      "text": " They don't share their lunch and other friends."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 124.75999999999999,
+      "end": 127.25999999999999,
+      "text": " They don't have food in the food."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 127.25999999999999,
+      "end": 129.26,
+      "text": " These are the other friends."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 129.26,
+      "end": 132.26,
+      "text": " You can see John is Harry."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 132.26,
+      "end": 134.26,
+      "text": " He is the ID of his ID."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 134.26,
+      "end": 136.26,
+      "text": " This is my ID number."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 136.26,
+      "end": 140.26,
+      "text": " John's ID number is similar to this."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 140.35999999999999,
+      "end": 144.35999999999999,
+      "text": " John's ID number is my ID number."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 144.35999999999999,
+      "end": 147.35999999999999,
+      "text": " We can't be the same as the ID number."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 147.35999999999999,
+      "end": 151.35999999999999,
+      "text": " If you believe that our friends are friends,"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 151.35999999999999,
+      "end": 153.35999999999999,
+      "text": " we believe that our friends are friends."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 153.35999999999999,
+      "end": 155.35999999999999,
+      "text": " We believe that John's friends are friends."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 155.35999999999999,
+      "end": 158.35999999999999,
+      "text": " So, they have different number."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 158.35999999999999,
+      "end": 161.35999999999999,
+      "text": " This is the ID number of his ID."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 161.35999999999999,
+      "end": 163.35999999999999,
+      "text": " This is the ID number of his ID."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 163.35999999999999,
+      "end": 166.35999999999999,
+      "text": " This is the ID number of every person."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 166.35999999999999,
+      "end": 168.35999999999999,
+      "text": " John and Harry are friends."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 168.46,
+      "end": 171.26000000000002,
+      "text": " This is the ID number of his ID."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 171.26000000000002,
+      "end": 173.26000000000002,
+      "text": " These four are the same."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 173.26000000000002,
+      "end": 175.76000000000002,
+      "text": " If I say that,"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 175.76000000000002,
+      "end": 178.66000000000003,
+      "text": " I will say that I have a number of 5 and I have a number of 5."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 178.66000000000003,
+      "end": 180.96,
+      "text": " You understand that Harry is speaking."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 180.96,
+      "end": 182.46,
+      "text": " I have said,"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 182.46,
+      "end": 184.16000000000003,
+      "text": " John is speaking with his 6th son."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 184.16000000000003,
+      "end": 186.46,
+      "text": " You understand that we have a number of his ID."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 186.46,
+      "end": 188.46,
+      "text": " And if I say,"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 188.46,
+      "end": 190.66000000000003,
+      "text": " John is talking with his 6th son,"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 190.66000000000003,
+      "end": 193.96,
+      "text": " then you understand that he is speaking with his ID."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 193.96,
+      "end": 196.86,
+      "text": " He identifies the ID number of his ID."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 196.86,
+      "end": 200.26000000000002,
+      "text": " Hary, Shruti and John"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 200.26000000000002,
+      "end": 201.42000000000002,
+      "text": " So what is this?"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 201.42000000000002,
+      "end": 203.42000000000002,
+      "text": " This is their number"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 203.42000000000002,
+      "end": 204.70000000000002,
+      "text": " I.e. their ID"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 204.70000000000002,
+      "end": 206.74,
+      "text": " This is the number of no one will get any other number"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 206.74,
+      "end": 207.24,
+      "text": " Okay?"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 207.24,
+      "end": 208.4,
+      "text": " Along with that"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 208.4,
+      "end": 210.98000000000002,
+      "text": " I.e. John and Hary were born in childhood"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 210.98000000000002,
+      "end": 213.28000000000003,
+      "text": " They were both in the same class"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 213.28000000000003,
+      "end": 214.98000000000002,
+      "text": " And that class name"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 214.98000000000002,
+      "end": 216.22000000000003,
+      "text": " Class"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 216.22000000000003,
+      "end": 217.22000000000003,
+      "text": " 10th"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 217.22000000000003,
+      "end": 218.78000000000003,
+      "text": " I.e. tenth class"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 218.78000000000003,
+      "end": 220.28000000000003,
+      "text": " Okay, man lawyer"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 220.28000000000003,
+      "end": 221.68,
+      "text": " He goes to the man"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 221.68,
+      "end": 224.48000000000002,
+      "text": " And Shruti is in class 9"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 224.48000000000002,
+      "end": 226.82000000000002,
+      "text": " And Tanya is also in class 9"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 226.82,
+      "end": 229.06,
+      "text": " So both are in class 9"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 229.06,
+      "end": 230.06,
+      "text": " Okay"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 230.06,
+      "end": 231.22,
+      "text": " Tanya is also in class 9"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 231.22,
+      "end": 232.72,
+      "text": " And Shruti is also in class 9"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 232.72,
+      "end": 235.01999999999998,
+      "text": " So Shruti's class is 9"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 235.01999999999998,
+      "end": 236.35999999999999,
+      "text": " Tanya's class can be 9"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 236.35999999999999,
+      "end": 238.2,
+      "text": " And in the next class I have to study Shruti"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 238.2,
+      "end": 240.4,
+      "text": " Or if someone has to study Hary for the next 10th class"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 240.4,
+      "end": 241.9,
+      "text": " And also there are other kids in class"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 241.9,
+      "end": 244.06,
+      "text": " So the class means"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 244.06,
+      "end": 245.54,
+      "text": " That in one class"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 245.54,
+      "end": 247.14,
+      "text": " Hary and John"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 247.14,
+      "end": 249.57999999999998,
+      "text": " So can a person be multiple?"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 249.57999999999998,
+      "end": 251.7,
+      "text": " One person can be multiple"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 251.7,
+      "end": 254.18,
+      "text": " Because it means that in the next class"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 254.18,
+      "end": 255.7,
+      "text": " And this is a tuition"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 255.7,
+      "end": 257.86,
+      "text": " And where this class is in class 10a"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 257.86,
+      "end": 259.7,
+      "text": " I.e. in the same class in the same tuition"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 259.7,
+      "end": 261.56,
+      "text": " So one person can be multiple"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 261.56,
+      "end": 262.4,
+      "text": " One is class 10"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 262.4,
+      "end": 264.24,
+      "text": " And one is class 10a"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 264.24,
+      "end": 265.74,
+      "text": " And along with that"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 265.74,
+      "end": 267.78,
+      "text": " I.e. Hary is wearing a red color t-shirt"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 267.78,
+      "end": 269.38,
+      "text": " So this class is ready"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 269.38,
+      "end": 270.53999999999996,
+      "text": " So the class means"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 270.53999999999996,
+      "end": 271.84,
+      "text": " I.e. the student class is not studying"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 271.84,
+      "end": 274.08,
+      "text": " I.e. the class is being classified in this class"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 274.08,
+      "end": 275.88,
+      "text": " Now come here"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 275.88,
+      "end": 276.88,
+      "text": " This is John and Hary Shruti"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 276.88,
+      "end": 277.88,
+      "text": " Leave it"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 277.88,
+      "end": 279.68,
+      "text": " Okay, let him delete"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 279.68,
+      "end": 282.64,
+      "text": " I.e. the student class is not studying"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 282.64,
+      "end": 283.64,
+      "text": " Now let's talk about the index"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 283.64,
+      "end": 285.62,
+      "text": " Let's talk about the index"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 285.62,
+      "end": 286.62,
+      "text": " I.e. the student class is ready"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 286.62,
+      "end": 287.38,
+      "text": " Okay"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 287.38,
+      "end": 289.22,
+      "text": " And I have given this class a red"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 289.22,
+      "end": 289.88,
+      "text": " Okay"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 289.88,
+      "end": 292.32,
+      "text": " And I have given this class a red"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 292.32,
+      "end": 293.62,
+      "text": " Okay"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 293.62,
+      "end": 294.92,
+      "text": " Whatever I have given this class"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 294.92,
+      "end": 297.1,
+      "text": " I can give the same class to other elements"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 297.1,
+      "end": 299.06,
+      "text": " But if I want to add an ID"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 299.06,
+      "end": 300.26,
+      "text": " In any element"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 300.26,
+      "end": 302.06,
+      "text": " I.e. the first step of this ID"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 302.06,
+      "end": 303.66,
+      "text": " I can put something in the ID"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 303.66,
+      "end": 305.66,
+      "text": " So I don't want any other element in this ID"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 305.66,
+      "end": 307.66,
+      "text": " Because this is the first element of this card"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 307.70000000000005,
+      "end": 308.90000000000003,
+      "text": " If it can be another dev"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 308.90000000000003,
+      "end": 310.1,
+      "text": " Then it can't be added"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 310.1,
+      "end": 312.8,
+      "text": " Then I have to add something to the ID"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 312.8,
+      "end": 313.44,
+      "text": " Okay"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 313.44,
+      "end": 314.74,
+      "text": " I have given the second div"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 314.74,
+      "end": 317.1,
+      "text": " And I will write the second here"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 317.1,
+      "end": 318.40000000000003,
+      "text": " I will write the first link"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 318.40000000000003,
+      "end": 321.42,
+      "text": " So this ID and the class concept"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 321.42,
+      "end": 323.5,
+      "text": " I personally told that I understood very late"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 323.5,
+      "end": 324.84000000000003,
+      "text": " When I learned about the map of the development"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 324.84000000000003,
+      "end": 325.84000000000003,
+      "text": " At my early days"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 325.84000000000003,
+      "end": 327.58000000000004,
+      "text": " I have no idea about it"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 327.58000000000004,
+      "end": 329.74,
+      "text": " The ID identifies uniquely"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 329.74,
+      "end": 331.04,
+      "text": " And the class"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 331.04,
+      "end": 334.34000000000003,
+      "text": " can also apply multiple classes in one element"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 334.34000000000003,
+      "end": 337.08000000000004,
+      "text": " And can also apply multiple elements in one class"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 337.08,
+      "end": 337.58,
+      "text": " You understand?"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 337.58,
+      "end": 339.52,
+      "text": " As I have given this class a red"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 339.52,
+      "end": 341.78,
+      "text": " I can also give this to BGL"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 341.78,
+      "end": 342.78,
+      "text": " Okay BGL"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 343.58,
+      "end": 344.58,
+      "text": " One class can be given"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 344.58,
+      "end": 346.84,
+      "text": " And if we give an element multiple"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 346.84,
+      "end": 348.12,
+      "text": " Then we apply space"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 348.12,
+      "end": 350.34,
+      "text": " As if I want this element"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 350.34,
+      "end": 352.58,
+      "text": " To add multiple classes"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 352.58,
+      "end": 353.7,
+      "text": " So what I will do"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 353.7,
+      "end": 355.32,
+      "text": " I will write a red here"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 355.32,
+      "end": 357.21999999999997,
+      "text": " Then apply space and write BGL"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 357.21999999999997,
+      "end": 359.44,
+      "text": " So I can give multiple classes"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 359.44,
+      "end": 360.34,
+      "text": " Same element"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 360.34,
+      "end": 362.68,
+      "text": " Can I give the same element multiple ID"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 362.68,
+      "end": 364.58,
+      "text": " Because you have to listen to some 2000 cards"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 364.58,
+      "end": 366.7,
+      "text": " I don't know if anyone has any idea"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 367.03999999999996,
+      "end": 368.03999999999996,
+      "text": " There is no such identity"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 368.2,
+      "end": 368.24,
+      "text": " It is just a medical ok"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 369.0,
+      "end": 371.02,
+      "text": " The means of being one century"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 371.02,
+      "end": 371.68,
+      "text": " Cruise one region"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 371.68,
+      "end": 372.7,
+      "text": " and therefore"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 372.7,
+      "end": 374.03999999999996,
+      "text": " those are just right"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 374.03999999999996,
+      "end": 375.96,
+      "text": " Not one region"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 376.09999999999997,
+      "end": 376.65999999999997,
+      "text": " Will be the same"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 376.65999999999997,
+      "end": 377.21999999999997,
+      "text": " Well"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 377.62,
+      "end": 378.5,
+      "text": " You cannot be multiple"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 378.5,
+      "end": 379.98,
+      "text": " All of them cannot be the same"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 379.98,
+      "end": 380.76,
+      "text": " Or"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 380.76,
+      "end": 382.64,
+      "text": " But where do I write the class?"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 382.64,
+      "end": 384.48,
+      "text": " Write T-Shirt"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 384.48,
+      "end": 384.56,
+      "text": " Or whetherdar"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 384.56,
+      "end": 386.41999999999996,
+      "text": " Mostly 1-2 of the newly sleepy people"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 386.41999999999996,
+      "end": 387.91999999999996,
+      "text": " Or involvement"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 387.91999999999996,
+      "end": 388.88,
+      "text": " If you go to the school"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 389.52,
+      "end": 393.26,
+      "text": " You guys can be cole"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 393.26,
+      "end": 394.14,
+      "text": " Or girls"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 394.14,
+      "end": 394.96,
+      "text": " Or angels"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 394.96,
+      "end": 395.94,
+      "text": " Or multiple people"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 425.94,
+      "end": 429.94,
+      "text": " I am a class in CSS and I target the dot rate class."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 429.94,
+      "end": 431.94,
+      "text": " And I target the dot rate class."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 431.94,
+      "end": 435.94,
+      "text": " And I target the dot rate class."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 435.94,
+      "end": 443.94,
+      "text": " If I have a first div background, then I will do the first div background."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 443.94,
+      "end": 446.94,
+      "text": " This is a selector in CSS."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 446.94,
+      "end": 449.94,
+      "text": " And I don't want to confuse you."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 449.94,
+      "end": 451.94,
+      "text": " And I can comment on CSS."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 451.94,
+      "end": 453.94,
+      "text": " But we will read all these things."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 453.94,
+      "end": 459.94,
+      "text": " Let me write the dot rate in the background and I will do the dot and the dot bg ll."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 459.94,
+      "end": 461.94,
+      "text": " I will write dot bg ll."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 461.94,
+      "end": 463.94,
+      "text": " I will write dot zero in the background."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 463.94,
+      "end": 465.94,
+      "text": " I mean this is a class bg ll."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 465.94,
+      "end": 467.94,
+      "text": " Let me call it the background color."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 467.94,
+      "end": 471.94,
+      "text": " So I will write the dot and the dot rate."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 471.94,
+      "end": 473.94,
+      "text": " I mean the dot rate would be the color of the road."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 473.94,
+      "end": 477.94,
+      "text": " So, you can use it in CSS in this way."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 477.94,
+      "end": 481.94,
+      "text": " I hope that you guys will understand it."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 481.94,
+      "end": 488.94,
+      "text": " Now, the important thing here is that the ID and classes are from the attributes of the element."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 488.94,
+      "end": 490.94,
+      "text": " The ID is attribute and the class is attribute."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 490.94,
+      "end": 492.94,
+      "text": " So, what are the ID classes?"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 492.94,
+      "end": 494.94,
+      "text": " It is not the elements, it is the attributes of the elements."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 494.94,
+      "end": 496.94,
+      "text": " Now, ID is one more thing."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 496.94,
+      "end": 498.94,
+      "text": " I will tell you what is the other thing."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 498.94,
+      "end": 503.94,
+      "text": " If I write in the Vicky Pedia and go to the Jowl, then Vicky Pedia has been added."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 503.94,
+      "end": 505.94,
+      "text": " I will go to another page."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 505.94,
+      "end": 509.94,
+      "text": " Now, you can see that when you go to any page on Vicky Pedia,"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 509.94,
+      "end": 512.94,
+      "text": " you can see the link of the particular place."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 512.94,
+      "end": 514.94,
+      "text": " I will show you how it is."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 514.94,
+      "end": 516.94,
+      "text": " I will go to another page."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 516.94,
+      "end": 520.94,
+      "text": " I will scroll down and inspect the ID here."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 520.94,
+      "end": 521.94,
+      "text": " This is the ID."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 521.94,
+      "end": 523.94,
+      "text": " I will copy it in this ID."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 523.94,
+      "end": 527.94,
+      "text": " Now, if I add hashtag and this ID,"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 527.94,
+      "end": 530.94,
+      "text": " I will enter and I will bring it here."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 530.94,
+      "end": 531.94,
+      "text": " I will also add it in ICD8."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 531.94,
+      "end": 533.94,
+      "text": " If I add it in this form,"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 533.94,
+      "end": 536.94,
+      "text": " I will scroll down and show the particular ID."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 536.94,
+      "end": 539.94,
+      "text": " I will scroll down and show it to you."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 539.94,
+      "end": 541.94,
+      "text": " I will scroll down and show it to you."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 541.94,
+      "end": 543.94,
+      "text": " Because I want to bring this ID."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 543.94,
+      "end": 545.94,
+      "text": " So, if I do work in linking, then it is an ID."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 545.94,
+      "end": 549.94,
+      "text": " Now, remember, you will tell you that you can generate links."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 549.94,
+      "end": 551.94,
+      "text": " You can write a link and then add an ID."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 551.94,
+      "end": 555.94,
+      "text": " If the link is open, then you will focus on that ID."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 555.94,
+      "end": 557.94,
+      "text": " I am giving it in this case."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 557.94,
+      "end": 561.94,
+      "text": " Now, you can see that I am entering and I am changing the ID."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 561.94,
+      "end": 562.94,
+      "text": " But you got the point here."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 562.94,
+      "end": 563.94,
+      "text": " You got the point here."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 563.94,
+      "end": 564.94,
+      "text": " 29.29."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 565.94,
+      "end": 567.94,
+      "text": " I will enter and show it."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 567.94,
+      "end": 569.94,
+      "text": " Now, I will not go down."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 569.94,
+      "end": 571.94,
+      "text": " I will open the window tab and reload it."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 571.94,
+      "end": 572.94,
+      "text": " Now, I will not go down."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 572.94,
+      "end": 575.94,
+      "text": " I will scroll down and then open the new tab."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 575.94,
+      "end": 579.94,
+      "text": " And I will scroll down and bring it on that page."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 579.94,
+      "end": 580.94,
+      "text": " Which page is the ID?"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 580.94,
+      "end": 583.94,
+      "text": " I hope you all understood the ID and classes."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 583.94,
+      "end": 584.94,
+      "text": " I will give you this video."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 584.94,
+      "end": 586.94,
+      "text": " ID means, as it is a class,"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 586.94,
+      "end": 588.94,
+      "text": " it means that a person's property is like red."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 588.94,
+      "end": 590.94,
+      "text": " Or, which class is it?"
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 590.94,
+      "end": 592.94,
+      "text": " You can send a multiple class to an element."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 592.94,
+      "end": 595.94,
+      "text": " You can send a different element to the background yellow."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 595.94,
+      "end": 598.94,
+      "text": " And the other element is red and background yellow."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 598.94,
+      "end": 600.94,
+      "text": " You can also write a multiple element to the red class."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 600.94,
+      "end": 603.94,
+      "text": " You can write a different element to the red class."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 603.94,
+      "end": 606.94,
+      "text": " And you can also write a red class to the yellow class."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 606.94,
+      "end": 608.94,
+      "text": " I hope you all understood."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 608.94,
+      "end": 612.94,
+      "text": " So, in this video, I was reading captions and I was getting excited."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 612.94,
+      "end": 614.94,
+      "text": " I told him that I am going to say this."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 614.94,
+      "end": 617.94,
+      "text": " And he said that I will listen to this and I will give him 5,000 times."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 617.94,
+      "end": 620.94,
+      "text": " I said, I will access it and name my name and village land."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 621.94,
+      "end": 623.94,
+      "text": " So, in this way, you can access the playlist."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 623.94,
+      "end": 625.94,
+      "text": " You can access the GitHub."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 625.94,
+      "end": 628.94,
+      "text": " Like the video and keep it on the comment section."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 628.94,
+      "end": 630.94,
+      "text": " Please write a hashtag, sign up and send it to me."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 630.94,
+      "end": 632.94,
+      "text": " Thank you so much for watching this video."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 632.94,
+      "end": 634.94,
+      "text": " And I will see you next time."
+    },
+    {
+      "number": "5",
+      "title": "Id & Classes in HTML  Sigma Web Development Course",
+      "start": 650.94,
+      "end": 651.94,
+      "text": " Bye."
+    }
+  ],
+  "text": " I will tell you about the idea and classes. The concept of the idea and classes is very confusing. In fact, when I was learning HTML, I was very confused in the early days in the idea and classes. The idea means unique identifier. If you give an idea to an element, then you will not give the idea to the other element. But the class means that if you want to give multiple elements, then you will give it multiple classes. For example, you can give a div to a red name class, and a form. You can give an article tag to a BG red name class, and a header tag to give an article tag. Please like this video because we will go to the computer screen and will watch these things closely. Let's roll the intro. Guys, I am back. If you have not access the SIGMA web development course, click on the playlist to save and upload the video to your source code. I will make a folder in the folder and the video number 9. I will make a folder in the video. I will make a video 9 and make a folder in the video. After that, I will try to open the open web. You can see that this is opened in the BS code. I will write the HTML, the exclamation mark, and the enter. Now, I will tell you the ID and the classes. You have to read the ID on the right. I have an ID in the comment section. When you go to any place, you have to read the ID. I have to prove the ID in the case of the ID. I am here. You have to understand the ID and the classes in the HTML. The ID is your research. So, you have to listen to the story. This is John. This is Harry. These two are very good friends. They don't share their lunch and other friends. They don't have food in the food. These are the other friends. You can see John is Harry. He is the ID of his ID. This is my ID number. John's ID number is similar to this. John's ID number is my ID number. We can't be the same as the ID number. If you believe that our friends are friends, we believe that our friends are friends. We believe that John's friends are friends. So, they have different number. This is the ID number of his ID. This is the ID number of his ID. This is the ID number of every person. John and Harry are friends. This is the ID number of his ID. These four are the same. If I say that, I will say that I have a number of 5 and I have a number of 5. You understand that Harry is speaking. I have said, John is speaking with his 6th son. You understand that we have a number of his ID. And if I say, John is talking with his 6th son, then you understand that he is speaking with his ID. He identifies the ID number of his ID. Hary, Shruti and John So what is this? This is their number I.e. their ID This is the number of no one will get any other number Okay? Along with that I.e. John and Hary were born in childhood They were both in the same class And that class name Class 10th I.e. tenth class Okay, man lawyer He goes to the man And Shruti is in class 9 And Tanya is also in class 9 So both are in class 9 Okay Tanya is also in class 9 And Shruti is also in class 9 So Shruti's class is 9 Tanya's class can be 9 And in the next class I have to study Shruti Or if someone has to study Hary for the next 10th class And also there are other kids in class So the class means That in one class Hary and John So can a person be multiple? One person can be multiple Because it means that in the next class And this is a tuition And where this class is in class 10a I.e. in the same class in the same tuition So one person can be multiple One is class 10 And one is class 10a And along with that I.e. Hary is wearing a red color t-shirt So this class is ready So the class means I.e. the student class is not studying I.e. the class is being classified in this class Now come here This is John and Hary Shruti Leave it Okay, let him delete I.e. the student class is not studying Now let's talk about the index Let's talk about the index I.e. the student class is ready Okay And I have given this class a red Okay And I have given this class a red Okay Whatever I have given this class I can give the same class to other elements But if I want to add an ID In any element I.e. the first step of this ID I can put something in the ID So I don't want any other element in this ID Because this is the first element of this card If it can be another dev Then it can't be added Then I have to add something to the ID Okay I have given the second div And I will write the second here I will write the first link So this ID and the class concept I personally told that I understood very late When I learned about the map of the development At my early days I have no idea about it The ID identifies uniquely And the class can also apply multiple classes in one element And can also apply multiple elements in one class You understand? As I have given this class a red I can also give this to BGL Okay BGL One class can be given And if we give an element multiple Then we apply space As if I want this element To add multiple classes So what I will do I will write a red here Then apply space and write BGL So I can give multiple classes Same element Can I give the same element multiple ID Because you have to listen to some 2000 cards I don't know if anyone has any idea There is no such identity It is just a medical ok The means of being one century Cruise one region and therefore those are just right Not one region Will be the same Well You cannot be multiple All of them cannot be the same Or But where do I write the class? Write T-Shirt Or whetherdar Mostly 1-2 of the newly sleepy people Or involvement If you go to the school You guys can be cole Or girls Or angels Or multiple people I am a class in CSS and I target the dot rate class. And I target the dot rate class. And I target the dot rate class. If I have a first div background, then I will do the first div background. This is a selector in CSS. And I don't want to confuse you. And I can comment on CSS. But we will read all these things. Let me write the dot rate in the background and I will do the dot and the dot bg ll. I will write dot bg ll. I will write dot zero in the background. I mean this is a class bg ll. Let me call it the background color. So I will write the dot and the dot rate. I mean the dot rate would be the color of the road. So, you can use it in CSS in this way. I hope that you guys will understand it. Now, the important thing here is that the ID and classes are from the attributes of the element. The ID is attribute and the class is attribute. So, what are the ID classes? It is not the elements, it is the attributes of the elements. Now, ID is one more thing. I will tell you what is the other thing. If I write in the Vicky Pedia and go to the Jowl, then Vicky Pedia has been added. I will go to another page. Now, you can see that when you go to any page on Vicky Pedia, you can see the link of the particular place. I will show you how it is. I will go to another page. I will scroll down and inspect the ID here. This is the ID. I will copy it in this ID. Now, if I add hashtag and this ID, I will enter and I will bring it here. I will also add it in ICD8. If I add it in this form, I will scroll down and show the particular ID. I will scroll down and show it to you. I will scroll down and show it to you. Because I want to bring this ID. So, if I do work in linking, then it is an ID. Now, remember, you will tell you that you can generate links. You can write a link and then add an ID. If the link is open, then you will focus on that ID. I am giving it in this case. Now, you can see that I am entering and I am changing the ID. But you got the point here. You got the point here. 29.29. I will enter and show it. Now, I will not go down. I will open the window tab and reload it. Now, I will not go down. I will scroll down and then open the new tab. And I will scroll down and bring it on that page. Which page is the ID? I hope you all understood the ID and classes. I will give you this video. ID means, as it is a class, it means that a person's property is like red. Or, which class is it? You can send a multiple class to an element. You can send a different element to the background yellow. And the other element is red and background yellow. You can also write a multiple element to the red class. You can write a different element to the red class. And you can also write a red class to the yellow class. I hope you all understood. So, in this video, I was reading captions and I was getting excited. I told him that I am going to say this. And he said that I will listen to this and I will give him 5,000 times. I said, I will access it and name my name and village land. So, in this way, you can access the playlist. You can access the GitHub. Like the video and keep it on the comment section. Please write a hashtag, sign up and send it to me. Thank you so much for watching this video. And I will see you next time. Bye."
+}

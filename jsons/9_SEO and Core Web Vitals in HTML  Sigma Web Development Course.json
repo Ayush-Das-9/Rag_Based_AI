@@ -1,0 +1,2273 @@
+{
+  "chunks": [
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 0.0,
+      "end": 3.0,
+      "text": " Today in this video we will talk about core webwitals"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 3.0,
+      "end": 5.0,
+      "text": " and why core webwitals are needed"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 5.0,
+      "end": 8.0,
+      "text": " Keep this video like, share and subscribe"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 8.0,
+      "end": 15.0,
+      "text": " The website of your phone is in the iphone, android phone, surface, etc."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 15.0,
+      "end": 20.0,
+      "text": " Because we have to give good experience to all users"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 20.0,
+      "end": 25.0,
+      "text": " In this video we will also know that the hidden tool in the Chrome is called lighthouse"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 25.0,
+      "end": 28.0,
+      "text": " and you can use it to enhance your website"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 28.0,
+      "end": 34.0,
+      "text": " So write in the comment section below, let's go to the signature batch of the computer screen"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 43.0,
+      "end": 49.0,
+      "text": " So guys, I have already made a new folder called video6"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 49.0,
+      "end": 55.0,
+      "text": " and here in the video6, I will open the VS code as always"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 55.0,
+      "end": 59.0,
+      "text": " The most important thing is that the SEO is very important"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 59.0,
+      "end": 61.0,
+      "text": " First of all, I will tell you what is SEO"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 61.0,
+      "end": 64.0,
+      "text": " You can see the SEO stands for search engine optimization"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 64.0,
+      "end": 66.0,
+      "text": " You can see any website in it, it is called SEO"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 66.0,
+      "end": 70.0,
+      "text": " Let's take an example of Amazon.Inc."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 70.0,
+      "end": 71.0,
+      "text": " Amazon.Inc."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 71.0,
+      "end": 73.0,
+      "text": " The website is loaded quickly"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 73.0,
+      "end": 76.0,
+      "text": " so that the products in search can be found in the search"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 76.0,
+      "end": 79.0,
+      "text": " Google has a good user's responsibility"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 79.0,
+      "end": 81.0,
+      "text": " to show good users good results"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 81.0,
+      "end": 85.0,
+      "text": " So Google will only show them the best information"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 85.0,
+      "end": 90.0,
+      "text": " and with that, there are two good users who can show good results"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 90.0,
+      "end": 93.0,
+      "text": " For example, there are two pages from the side"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 93.0,
+      "end": 95.0,
+      "text": " One page has been told about the dog food"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 95.0,
+      "end": 98.0,
+      "text": " The other page has been told about the dog food"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 98.0,
+      "end": 101.0,
+      "text": " But the page 2 is very low"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 101.0,
+      "end": 103.0,
+      "text": " Google will give it a better reference"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 103.0,
+      "end": 105.0,
+      "text": " The core web is vital"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 105.0,
+      "end": 108.0,
+      "text": " which is considered to rank the two pages"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 108.0,
+      "end": 110.0,
+      "text": " First of all, content is the most important"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 110.0,
+      "end": 112.0,
+      "text": " If you have content on the page"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 112.0,
+      "end": 116.0,
+      "text": " then you can also rank the core web vital"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 116.0,
+      "end": 118.0,
+      "text": " But if you are competing with a page"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 118.0,
+      "end": 122.0,
+      "text": " with the same content, almost similar quality is present"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 122.0,
+      "end": 124.0,
+      "text": " then your core web vital will be seen"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 124.0,
+      "end": 126.0,
+      "text": " and if your core web vital is true"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 126.0,
+      "end": 128.0,
+      "text": " then you will be given a reference"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 128.0,
+      "end": 130.0,
+      "text": " So your core web vital is the first one"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 130.0,
+      "end": 131.0,
+      "text": " Your CLS"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 131.0,
+      "end": 133.0,
+      "text": " You can see this video here"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 133.0,
+      "end": 135.0,
+      "text": " which I have run from web.dev website"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 135.0,
+      "end": 139.0,
+      "text": " and the order of canceling the cancel"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 139.0,
+      "end": 141.0,
+      "text": " has been visible"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 141.0,
+      "end": 143.0,
+      "text": " and it has shifted the layout"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 143.0,
+      "end": 145.0,
+      "text": " and the order is complete"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 145.0,
+      "end": 147.0,
+      "text": " but the user doesn't want to do it"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 147.0,
+      "end": 149.0,
+      "text": " so he wanted to click on it"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 149.0,
+      "end": 151.0,
+      "text": " The user experience is much worse"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 151.0,
+      "end": 153.0,
+      "text": " As you can see, the video should not be like this"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 153.0,
+      "end": 155.0,
+      "text": " So our CLS should be less"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 155.0,
+      "end": 157.0,
+      "text": " Now, what is the difference between CLS"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 157.0,
+      "end": 159.0,
+      "text": " It means the layer shift"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 159.0,
+      "end": 161.0,
+      "text": " is so low that you have paid the page"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 161.0,
+      "end": 163.0,
+      "text": " and you get to see the first one"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 163.0,
+      "end": 165.0,
+      "text": " This was the first one"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 165.0,
+      "end": 167.0,
+      "text": " and when this load was given"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 167.0,
+      "end": 169.0,
+      "text": " the part of the item is shifted"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 169.0,
+      "end": 171.0,
+      "text": " If you put the images in the images"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 171.0,
+      "end": 173.0,
+      "text": " then it will not be shifted"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 173.0,
+      "end": 175.0,
+      "text": " The next metric is the LCP"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 175.0,
+      "end": 177.0,
+      "text": " and LCP stands for largest contextual paint"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 177.0,
+      "end": 179.0,
+      "text": " This means the user is doing a page view"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 179.0,
+      "end": 181.0,
+      "text": " and the biggest element"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 181.0,
+      "end": 183.0,
+      "text": " For example, the biggest part of the item"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 183.0,
+      "end": 185.0,
+      "text": " is this image"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 185.0,
+      "end": 187.0,
+      "text": " It is loading in so long"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 187.0,
+      "end": 189.0,
+      "text": " or the whole page is loaded"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 189.0,
+      "end": 191.0,
+      "text": " but the biggest element"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 191.0,
+      "end": 193.0,
+      "text": " is that the value of the web.dev and google"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 193.0,
+      "end": 195.0,
+      "text": " should be a good LCP score"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 195.0,
+      "end": 197.0,
+      "text": " 2.5 seconds"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 197.0,
+      "end": 199.0,
+      "text": " and the biggest element should be loaded"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 199.0,
+      "end": 201.0,
+      "text": " The third metric is the FID"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 201.0,
+      "end": 203.0,
+      "text": " which stands for first input delay"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 203.0,
+      "end": 205.0,
+      "text": " The first input delay means"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 205.0,
+      "end": 207.0,
+      "text": " if any user clicked on an input"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 207.0,
+      "end": 209.0,
+      "text": " on the button or on any way"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 209.0,
+      "end": 211.0,
+      "text": " on the page"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 211.0,
+      "end": 213.0,
+      "text": " then it is an input process"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 213.0,
+      "end": 215.0,
+      "text": " For example, if you clicked on the button"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 215.0,
+      "end": 217.0,
+      "text": " it is a browser that is in a browser"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 217.0,
+      "end": 219.0,
+      "text": " and Google and web.dev's value"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 219.0,
+      "end": 221.0,
+      "text": " should start in a less than or less"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 221.0,
+      "end": 223.0,
+      "text": " so these three core web vitals"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 223.0,
+      "end": 225.0,
+      "text": " are very important"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 225.0,
+      "end": 227.0,
+      "text": " For you all, for the information,"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 227.0,
+      "end": 229.0,
+      "text": " these core web vitals"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 229.0,
+      "end": 231.0,
+      "text": " have been updated"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 231.0,
+      "end": 233.0,
+      "text": " but these three are very important"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 233.0,
+      "end": 235.0,
+      "text": " and you should know"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 235.0,
+      "end": 237.0,
+      "text": " what the lighthouse report is and what the region is"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 237.0,
+      "end": 239.0,
+      "text": " and how the three core web vitals"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 239.0,
+      "end": 241.0,
+      "text": " will be evaluated"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 241.0,
+      "end": 243.0,
+      "text": " If you click on the right"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 243.0,
+      "end": 245.0,
+      "text": " and you can click on the right"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 245.0,
+      "end": 247.0,
+      "text": " and you can click on the right"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 247.0,
+      "end": 249.0,
+      "text": " and you can click on the right"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 249.0,
+      "end": 251.0,
+      "text": " and you can click on it"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 251.0,
+      "end": 253.0,
+      "text": " I prefer this"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 253.0,
+      "end": 255.0,
+      "text": " because I am going to check the starting"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 255.0,
+      "end": 257.0,
+      "text": " and starting and starting"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 257.0,
+      "end": 259.0,
+      "text": " Now you can see the lighthouse option"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 259.0,
+      "end": 261.0,
+      "text": " it is basically a report"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 261.0,
+      "end": 263.0,
+      "text": " and you can tell"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 263.0,
+      "end": 265.0,
+      "text": " what is the improvement in your HTML page"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 265.0,
+      "end": 267.0,
+      "text": " For example,"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 267.0,
+      "end": 269.0,
+      "text": " I want to see how my mobile users"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 269.0,
+      "end": 271.0,
+      "text": " will be able to do"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 271.0,
+      "end": 273.0,
+      "text": " I will click on desktop"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 273.0,
+      "end": 275.0,
+      "text": " and I will click on the mobile"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 275.0,
+      "end": 277.0,
+      "text": " and I will click on the right"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 277.0,
+      "end": 279.0,
+      "text": " and you can see"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 279.0,
+      "end": 281.0,
+      "text": " that the report is generated"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 281.0,
+      "end": 283.0,
+      "text": " in the performance, accessibility, best practices,"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 283.0,
+      "end": 285.0,
+      "text": " and PWA"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 285.0,
+      "end": 287.0,
+      "text": " You can see"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 287.0,
+      "end": 289.0,
+      "text": " that there is a red in the red"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 289.0,
+      "end": 291.0,
+      "text": " and you can see"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 291.0,
+      "end": 293.0,
+      "text": " that you can easily"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 293.0,
+      "end": 295.0,
+      "text": " do 2.7 seconds"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 295.0,
+      "end": 297.0,
+      "text": " all the suggestions"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 297.0,
+      "end": 299.0,
+      "text": " are given"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 299.0,
+      "end": 301.0,
+      "text": " and if you incorporate these suggestions"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 301.0,
+      "end": 303.0,
+      "text": " your website will be"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 303.0,
+      "end": 305.0,
+      "text": " a lot of load"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 305.0,
+      "end": 307.0,
+      "text": " and the user will be able to do good"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 307.0,
+      "end": 309.0,
+      "text": " Now you can see"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 309.0,
+      "end": 311.0,
+      "text": " that image elements do not have explicit width"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 311.0,
+      "end": 313.0,
+      "text": " so you should give the width"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 313.0,
+      "end": 315.0,
+      "text": " and the image that you should use"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 315.0,
+      "end": 317.0,
+      "text": " in the previous video"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 317.0,
+      "end": 319.0,
+      "text": " so that you can"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 319.0,
+      "end": 321.0,
+      "text": " hit the result in your browser"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 321.0,
+      "end": 323.0,
+      "text": " and the result will be in the browser"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 323.0,
+      "end": 325.0,
+      "text": " otherwise, if we don't set the height and width"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 325.0,
+      "end": 327.0,
+      "text": " then what will happen"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 327.0,
+      "end": 329.0,
+      "text": " that the browser will not know"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 329.0,
+      "end": 331.0,
+      "text": " how much space we need to reserve"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 331.0,
+      "end": 333.0,
+      "text": " from the bottom"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 333.0,
+      "end": 335.0,
+      "text": " so we don't want to use the page"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 335.0,
+      "end": 337.0,
+      "text": " If we start with the page"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 337.0,
+      "end": 339.0,
+      "text": " then if we want to click here"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 339.0,
+      "end": 341.0,
+      "text": " then when the page is"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 341.0,
+      "end": 343.0,
+      "text": " in the bottom, we click here"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 343.0,
+      "end": 345.0,
+      "text": " We will click here"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 345.0,
+      "end": 347.0,
+      "text": " and as much as i have clicked"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 347.0,
+      "end": 349.0,
+      "text": " at the same time"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 349.0,
+      "end": 351.0,
+      "text": " it is loaded and all the buttons are in the bottom"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 351.0,
+      "end": 353.0,
+      "text": " and I will click on the image"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 353.0,
+      "end": 355.0,
+      "text": " so that the layer shift"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 355.0,
+      "end": 357.0,
+      "text": " so that the shift is not preferred"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 357.0,
+      "end": 359.0,
+      "text": " and it is not preferred"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 359.0,
+      "end": 361.0,
+      "text": " and this is less than the normal one."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 361.0,
+      "end": 363.0,
+      "text": " You can see that the space is very low and it is a cumulative layout."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 363.0,
+      "end": 365.0,
+      "text": " So, it is better to keep it in a cumulative layout."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 365.0,
+      "end": 367.0,
+      "text": " So that our user can get a good experience."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 367.0,
+      "end": 369.0,
+      "text": " So, we get more and more suggestions here."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 369.0,
+      "end": 371.0,
+      "text": " And this is for our mobile."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 371.0,
+      "end": 373.0,
+      "text": " We can generate a desktop report."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 373.0,
+      "end": 375.0,
+      "text": " And it will be a desktop report."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 375.0,
+      "end": 377.0,
+      "text": " So, as you can see, this has a report."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 377.0,
+      "end": 379.0,
+      "text": " It is performed in 92 marks."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 379.0,
+      "end": 381.0,
+      "text": " Accessibility is 100 to 82."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 381.0,
+      "end": 383.0,
+      "text": " It is in best practices."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 383.0,
+      "end": 385.0,
+      "text": " 75 to 75."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 385.0,
+      "end": 387.0,
+      "text": " And here you can see that whatever is good,"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 387.0,
+      "end": 389.0,
+      "text": " you can get a scope of improvements."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 389.0,
+      "end": 391.0,
+      "text": " So, this is a hidden tool."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 391.0,
+      "end": 393.0,
+      "text": " We should use it all."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 393.0,
+      "end": 395.0,
+      "text": " Now, I want to tell you about the MetaTexo MetaDescription."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 395.0,
+      "end": 397.0,
+      "text": " So, I will make a new file."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 397.0,
+      "end": 399.0,
+      "text": " We will name it index.stml"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 399.0,
+      "end": 401.0,
+      "text": " And after making one file,"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 401.0,
+      "end": 403.0,
+      "text": " first of all, I want to tell you about the title."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 403.0,
+      "end": 407.0,
+      "text": " Your title is reflected in your page."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 407.0,
+      "end": 409.0,
+      "text": " This is a good SEO practice."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 409.0,
+      "end": 411.0,
+      "text": " When you are changing your page,"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 411.0,
+      "end": 413.0,
+      "text": " you should make the title like this."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 413.0,
+      "end": 415.0,
+      "text": " Because if you want to get a Google website,"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 415.0,
+      "end": 417.0,
+      "text": " then you will get a title from you."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 417.0,
+      "end": 419.0,
+      "text": " You can write the code in the index."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 419.0,
+      "end": 421.0,
+      "text": " Okay."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 421.0,
+      "end": 423.0,
+      "text": " And you can write this title."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 423.0,
+      "end": 425.0,
+      "text": " And this title is the title."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 425.0,
+      "end": 427.0,
+      "text": " Because the YouTube channel has added this title."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 427.0,
+      "end": 429.0,
+      "text": " The Instagram channel has added this title."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 429.0,
+      "end": 431.0,
+      "text": " The GitHub channel has added this title."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 431.0,
+      "end": 433.0,
+      "text": " So, the title is added."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 433.0,
+      "end": 437.0,
+      "text": " And the content of the content is reflected in the title."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 437.0,
+      "end": 439.0,
+      "text": " Now, your website will rank very well."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 439.0,
+      "end": 441.0,
+      "text": " Now, I will add content in the content."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 441.0,
+      "end": 443.0,
+      "text": " I will add H1 and then add H3."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 443.0,
+      "end": 445.0,
+      "text": " And then add H3."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 445.0,
+      "end": 447.0,
+      "text": " And then add H3."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 447.0,
+      "end": 449.0,
+      "text": " And then add H3."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 449.0,
+      "end": 451.0,
+      "text": " And then add L3."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 451.0,
+      "end": 453.0,
+      "text": " Now, I have written L3."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 453.0,
+      "end": 455.0,
+      "text": " I will unwrap the view."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 455.0,
+      "end": 457.0,
+      "text": " Why did I write L3."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 457.0,
+      "end": 459.0,
+      "text": " I have written L3 and L3."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 459.0,
+      "end": 461.0,
+      "text": " So, I have written L3 and L3."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 461.0,
+      "end": 463.0,
+      "text": " I will write L3."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 463.0,
+      "end": 465.0,
+      "text": " Because it is L3."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 465.0,
+      "end": 467.0,
+      "text": " Now, I will preview it quickly."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 467.0,
+      "end": 469.0,
+      "text": " I will do an open and browser."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 469.0,
+      "end": 471.0,
+      "text": " If I leave it like this, it won't be a good practice."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 471.0,
+      "end": 473.0,
+      "text": " I will write about Harry."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 473.0,
+      "end": 475.0,
+      "text": " I will write about Harry."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 475.0,
+      "end": 477.0,
+      "text": " I will write about Kodbe Harry."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 477.0,
+      "end": 479.0,
+      "text": " And what will happen to this title."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 479.0,
+      "end": 481.0,
+      "text": " The title will reflect here."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 481.0,
+      "end": 483.0,
+      "text": " So, what will happen to this work."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 483.0,
+      "end": 487.0,
+      "text": " That my website will increase the chances of watching Google."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 487.0,
+      "end": 491.0,
+      "text": " I will also remove the light of the scope of improvements."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 491.0,
+      "end": 493.0,
+      "text": " The light of the report will be very big."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 493.0,
+      "end": 495.0,
+      "text": " Because there is no such thing that I should improve."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 495.0,
+      "end": 497.0,
+      "text": " But, when I will add the images."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 497.0,
+      "end": 499.0,
+      "text": " I will write the suggestions."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 499.0,
+      "end": 501.0,
+      "text": " Like, give it a bit of width."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 501.0,
+      "end": 503.0,
+      "text": " With that, I will tell you another trick."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 503.0,
+      "end": 507.0,
+      "text": " I will tell you how your website will look in any mobile."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 507.0,
+      "end": 509.0,
+      "text": " You will see here."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 509.0,
+      "end": 511.0,
+      "text": " You will see here."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 511.0,
+      "end": 513.0,
+      "text": " You will see here."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 513.0,
+      "end": 517.0,
+      "text": " You can see how your website will look in any device."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 517.0,
+      "end": 519.0,
+      "text": " You can see here."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 519.0,
+      "end": 521.0,
+      "text": " You can see here."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 521.0,
+      "end": 523.0,
+      "text": " And you will see in specific devices."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 523.0,
+      "end": 525.0,
+      "text": " You can see in iPhone 12 Pro."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 525.0,
+      "end": 527.0,
+      "text": " Your website will look in any way."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 527.0,
+      "end": 531.0,
+      "text": " Now, you don't know why it is not 16 and why it is not 16."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 531.0,
+      "end": 535.0,
+      "text": " You can see in this wide device."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 535.0,
+      "end": 537.0,
+      "text": " How will you see in this wide device."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 537.0,
+      "end": 539.0,
+      "text": " You can see in this wide device."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 539.0,
+      "end": 541.0,
+      "text": " You can see here."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 541.0,
+      "end": 543.0,
+      "text": " You can see how you can see here."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 543.0,
+      "end": 545.0,
+      "text": " You can see in Google phones."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 545.0,
+      "end": 547.0,
+      "text": " You can also see in Google phones."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 547.0,
+      "end": 549.0,
+      "text": " You can also see."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 549.0,
+      "end": 555.0,
+      "text": " And you want a general view of my website and responsive devices."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 555.0,
+      "end": 557.0,
+      "text": " You can also see in the IPAD."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 557.0,
+      "end": 559.0,
+      "text": " You can also see in the IPAD."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 559.0,
+      "end": 563.0,
+      "text": " You can also see how your website will look in any way."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 565.0,
+      "end": 567.0,
+      "text": " You can also see in this wide device."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 567.0,
+      "end": 569.0,
+      "text": " Now, you take a second click here."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 569.0,
+      "end": 571.0,
+      "text": " This is a responsive view."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 571.0,
+      "end": 573.0,
+      "text": " This is a responsive view."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 573.0,
+      "end": 575.0,
+      "text": " I will close this."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 575.0,
+      "end": 577.0,
+      "text": " Let's talk about the matter of matter of the text."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 577.0,
+      "end": 578.0,
+      "text": " I will tell you about this."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 578.0,
+      "end": 582.0,
+      "text": " Here I will write a meta like this, see here it is a meta dsc."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 582.0,
+      "end": 586.0,
+      "text": " I will click on the meta dsc and I can give my page description."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 586.0,
+      "end": 588.0,
+      "text": " I know that this is the page."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 588.0,
+      "end": 597.0,
+      "text": " This is a page about this is a page which contains description about Harry."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 597.0,
+      "end": 600.0,
+      "text": " And here you have to write the page content that you want."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 600.0,
+      "end": 603.0,
+      "text": " As I show you, you can write what is SEO."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 604.0,
+      "end": 606.0,
+      "text": " You have written what is SEO."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 606.0,
+      "end": 610.0,
+      "text": " See here, this page has given me the description of SEO stands for this and symbol terms."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 610.0,
+      "end": 613.0,
+      "text": " Now, I will definitely not do a search engine of your meta dsc."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 613.0,
+      "end": 617.0,
+      "text": " If you like it, then do a search engine of your meta dsc."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 617.0,
+      "end": 621.0,
+      "text": " If you have not added a meta dsc, then your content can also be generated by generate."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 621.0,
+      "end": 623.0,
+      "text": " So, this is the search engine's responsibility."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 623.0,
+      "end": 625.0,
+      "text": " What will be the goal of doing this?"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 625.0,
+      "end": 628.0,
+      "text": " But from our side, our pitch should be to the point."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 628.0,
+      "end": 632.0,
+      "text": " If we write a blog and we want to rank our organically."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 632.0,
+      "end": 635.0,
+      "text": " Now, you can see that I have added a meta dsc."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 635.0,
+      "end": 637.0,
+      "text": " Now, let's go to the first keyword."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 637.0,
+      "end": 641.0,
+      "text": " But the meta keyword is now deprecated."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 641.0,
+      "end": 644.0,
+      "text": " The meta keyword is not used yet."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 644.0,
+      "end": 650.0,
+      "text": " The meta keyword is seen in some way, but it is believed that the meta keyword is not ranked in SEO."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 650.0,
+      "end": 651.0,
+      "text": " People do more than that."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 651.0,
+      "end": 655.0,
+      "text": " I mean, you have written about the page and you have written what is SEO."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 655.0,
+      "end": 657.0,
+      "text": " In the keyword, your page will be ranked."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 657.0,
+      "end": 659.0,
+      "text": " I will do this double quotes to the end."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 659.0,
+      "end": 663.0,
+      "text": " If I write a meta keyword, then the search engine will be considered as a result of the search engine."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 663.0,
+      "end": 666.0,
+      "text": " If you do some search engines, then the meta keyword is not believed."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 666.0,
+      "end": 668.0,
+      "text": " I mean, I will not see your meta keyword."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 668.0,
+      "end": 670.0,
+      "text": " So, the meta keyword is not used yet."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 670.0,
+      "end": 673.0,
+      "text": " But now, the content of your page is passed."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 673.0,
+      "end": 677.0,
+      "text": " And now, if you are coming to the same level, then you will be able to understand your content."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 677.0,
+      "end": 679.0,
+      "text": " What is your content value?"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 679.0,
+      "end": 680.0,
+      "text": " You will be able to get the same rank."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 680.0,
+      "end": 684.0,
+      "text": " Now, if you want to know exactly about this core, then write it in the comments."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 684.0,
+      "end": 688.0,
+      "text": " For example, if I inspect and go to the lighthouse and get the light out for the desktop."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 688.0,
+      "end": 690.0,
+      "text": " Then, I will get some core web vital."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 690.0,
+      "end": 692.0,
+      "text": " Like, the LCP comes."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 692.0,
+      "end": 694.0,
+      "text": " Then, the FCP comes."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 694.0,
+      "end": 695.0,
+      "text": " First contextual paint."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 695.0,
+      "end": 697.0,
+      "text": " Now, you can see that everything is 100, 100, 100."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 697.0,
+      "end": 700.0,
+      "text": " You can see that there is no more content here."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 700.0,
+      "end": 702.0,
+      "text": " But you can see that you are doing this."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 702.0,
+      "end": 703.0,
+      "text": " What are you doing?"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 703.0,
+      "end": 705.0,
+      "text": " The pages with the web socket cannot enter back forward."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 705.0,
+      "end": 708.0,
+      "text": " The cache is in the web socket because we are using the extension."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 708.0,
+      "end": 709.0,
+      "text": " Live preview."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 709.0,
+      "end": 711.0,
+      "text": " Otherwise, this is an accessibility device."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 711.0,
+      "end": 712.0,
+      "text": " Everything is so-so."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 712.0,
+      "end": 713.0,
+      "text": " It is a very large page."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 713.0,
+      "end": 714.0,
+      "text": " Okay?"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 714.0,
+      "end": 716.0,
+      "text": " The PWA is a progressive web app, which we will not be able to make."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 717.0,
+      "end": 718.0,
+      "text": " But, you can see that"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 718.0,
+      "end": 720.0,
+      "text": " The first contextual paint, the largest contextual paint,"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 720.0,
+      "end": 723.0,
+      "text": " Total blocking time, cumulative layout shift, speed index."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 723.0,
+      "end": 725.0,
+      "text": " If you want to know about all these,"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 725.0,
+      "end": 728.0,
+      "text": " Then, what is the first contextual paint that the user will see in a while,"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 728.0,
+      "end": 729.0,
+      "text": " is painted on the browser."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 729.0,
+      "end": 731.0,
+      "text": " So, if you want to see these things,"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 731.0,
+      "end": 734.0,
+      "text": " then you will have to go to the web.dev.dev."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 734.0,
+      "end": 736.0,
+      "text": " It is a very good website about all these things."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 736.0,
+      "end": 738.0,
+      "text": " And you can see that"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 738.0,
+      "end": 741.0,
+      "text": " you can learn about these things,"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 741.0,
+      "end": 743.0,
+      "text": " what are the things you want to learn about these things."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 743.0,
+      "end": 745.0,
+      "text": " You can learn PWA,"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 745.0,
+      "end": 747.0,
+      "text": " You can learn about all these things."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 747.0,
+      "end": 749.0,
+      "text": " Here, it is very good and abundant."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 749.0,
+      "end": 753.0,
+      "text": " But, we will focus on the HTML CSS JavaScript and Web sites in this code."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 753.0,
+      "end": 756.0,
+      "text": " This is the thing that you should have told us about."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 756.0,
+      "end": 760.0,
+      "text": " If you have not done the development series yet,"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 760.0,
+      "end": 762.0,
+      "text": " then you should have done it."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 762.0,
+      "end": 765.0,
+      "text": " You should have done the playlist and click on the star,"
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 765.0,
+      "end": 767.0,
+      "text": " and click on the star, and save it."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 767.0,
+      "end": 770.0,
+      "text": " Thank you so much for watching this video."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 770.0,
+      "end": 772.0,
+      "text": " And I will see you next time."
+    },
+    {
+      "number": "9",
+      "title": "SEO and Core Web Vitals in HTML  Sigma Web Development Course",
+      "start": 775.0,
+      "end": 777.0,
+      "text": " Bye."
+    }
+  ],
+  "text": " Today in this video we will talk about core webwitals and why core webwitals are needed Keep this video like, share and subscribe The website of your phone is in the iphone, android phone, surface, etc. Because we have to give good experience to all users In this video we will also know that the hidden tool in the Chrome is called lighthouse and you can use it to enhance your website So write in the comment section below, let's go to the signature batch of the computer screen So guys, I have already made a new folder called video6 and here in the video6, I will open the VS code as always The most important thing is that the SEO is very important First of all, I will tell you what is SEO You can see the SEO stands for search engine optimization You can see any website in it, it is called SEO Let's take an example of Amazon.Inc. Amazon.Inc. The website is loaded quickly so that the products in search can be found in the search Google has a good user's responsibility to show good users good results So Google will only show them the best information and with that, there are two good users who can show good results For example, there are two pages from the side One page has been told about the dog food The other page has been told about the dog food But the page 2 is very low Google will give it a better reference The core web is vital which is considered to rank the two pages First of all, content is the most important If you have content on the page then you can also rank the core web vital But if you are competing with a page with the same content, almost similar quality is present then your core web vital will be seen and if your core web vital is true then you will be given a reference So your core web vital is the first one Your CLS You can see this video here which I have run from web.dev website and the order of canceling the cancel has been visible and it has shifted the layout and the order is complete but the user doesn't want to do it so he wanted to click on it The user experience is much worse As you can see, the video should not be like this So our CLS should be less Now, what is the difference between CLS It means the layer shift is so low that you have paid the page and you get to see the first one This was the first one and when this load was given the part of the item is shifted If you put the images in the images then it will not be shifted The next metric is the LCP and LCP stands for largest contextual paint This means the user is doing a page view and the biggest element For example, the biggest part of the item is this image It is loading in so long or the whole page is loaded but the biggest element is that the value of the web.dev and google should be a good LCP score 2.5 seconds and the biggest element should be loaded The third metric is the FID which stands for first input delay The first input delay means if any user clicked on an input on the button or on any way on the page then it is an input process For example, if you clicked on the button it is a browser that is in a browser and Google and web.dev's value should start in a less than or less so these three core web vitals are very important For you all, for the information, these core web vitals have been updated but these three are very important and you should know what the lighthouse report is and what the region is and how the three core web vitals will be evaluated If you click on the right and you can click on the right and you can click on the right and you can click on the right and you can click on it I prefer this because I am going to check the starting and starting and starting Now you can see the lighthouse option it is basically a report and you can tell what is the improvement in your HTML page For example, I want to see how my mobile users will be able to do I will click on desktop and I will click on the mobile and I will click on the right and you can see that the report is generated in the performance, accessibility, best practices, and PWA You can see that there is a red in the red and you can see that you can easily do 2.7 seconds all the suggestions are given and if you incorporate these suggestions your website will be a lot of load and the user will be able to do good Now you can see that image elements do not have explicit width so you should give the width and the image that you should use in the previous video so that you can hit the result in your browser and the result will be in the browser otherwise, if we don't set the height and width then what will happen that the browser will not know how much space we need to reserve from the bottom so we don't want to use the page If we start with the page then if we want to click here then when the page is in the bottom, we click here We will click here and as much as i have clicked at the same time it is loaded and all the buttons are in the bottom and I will click on the image so that the layer shift so that the shift is not preferred and it is not preferred and this is less than the normal one. You can see that the space is very low and it is a cumulative layout. So, it is better to keep it in a cumulative layout. So that our user can get a good experience. So, we get more and more suggestions here. And this is for our mobile. We can generate a desktop report. And it will be a desktop report. So, as you can see, this has a report. It is performed in 92 marks. Accessibility is 100 to 82. It is in best practices. 75 to 75. And here you can see that whatever is good, you can get a scope of improvements. So, this is a hidden tool. We should use it all. Now, I want to tell you about the MetaTexo MetaDescription. So, I will make a new file. We will name it index.stml And after making one file, first of all, I want to tell you about the title. Your title is reflected in your page. This is a good SEO practice. When you are changing your page, you should make the title like this. Because if you want to get a Google website, then you will get a title from you. You can write the code in the index. Okay. And you can write this title. And this title is the title. Because the YouTube channel has added this title. The Instagram channel has added this title. The GitHub channel has added this title. So, the title is added. And the content of the content is reflected in the title. Now, your website will rank very well. Now, I will add content in the content. I will add H1 and then add H3. And then add H3. And then add H3. And then add H3. And then add L3. Now, I have written L3. I will unwrap the view. Why did I write L3. I have written L3 and L3. So, I have written L3 and L3. I will write L3. Because it is L3. Now, I will preview it quickly. I will do an open and browser. If I leave it like this, it won't be a good practice. I will write about Harry. I will write about Harry. I will write about Kodbe Harry. And what will happen to this title. The title will reflect here. So, what will happen to this work. That my website will increase the chances of watching Google. I will also remove the light of the scope of improvements. The light of the report will be very big. Because there is no such thing that I should improve. But, when I will add the images. I will write the suggestions. Like, give it a bit of width. With that, I will tell you another trick. I will tell you how your website will look in any mobile. You will see here. You will see here. You will see here. You can see how your website will look in any device. You can see here. You can see here. And you will see in specific devices. You can see in iPhone 12 Pro. Your website will look in any way. Now, you don't know why it is not 16 and why it is not 16. You can see in this wide device. How will you see in this wide device. You can see in this wide device. You can see here. You can see how you can see here. You can see in Google phones. You can also see in Google phones. You can also see. And you want a general view of my website and responsive devices. You can also see in the IPAD. You can also see in the IPAD. You can also see how your website will look in any way. You can also see in this wide device. Now, you take a second click here. This is a responsive view. This is a responsive view. I will close this. Let's talk about the matter of matter of the text. I will tell you about this. Here I will write a meta like this, see here it is a meta dsc. I will click on the meta dsc and I can give my page description. I know that this is the page. This is a page about this is a page which contains description about Harry. And here you have to write the page content that you want. As I show you, you can write what is SEO. You have written what is SEO. See here, this page has given me the description of SEO stands for this and symbol terms. Now, I will definitely not do a search engine of your meta dsc. If you like it, then do a search engine of your meta dsc. If you have not added a meta dsc, then your content can also be generated by generate. So, this is the search engine's responsibility. What will be the goal of doing this? But from our side, our pitch should be to the point. If we write a blog and we want to rank our organically. Now, you can see that I have added a meta dsc. Now, let's go to the first keyword. But the meta keyword is now deprecated. The meta keyword is not used yet. The meta keyword is seen in some way, but it is believed that the meta keyword is not ranked in SEO. People do more than that. I mean, you have written about the page and you have written what is SEO. In the keyword, your page will be ranked. I will do this double quotes to the end. If I write a meta keyword, then the search engine will be considered as a result of the search engine. If you do some search engines, then the meta keyword is not believed. I mean, I will not see your meta keyword. So, the meta keyword is not used yet. But now, the content of your page is passed. And now, if you are coming to the same level, then you will be able to understand your content. What is your content value? You will be able to get the same rank. Now, if you want to know exactly about this core, then write it in the comments. For example, if I inspect and go to the lighthouse and get the light out for the desktop. Then, I will get some core web vital. Like, the LCP comes. Then, the FCP comes. First contextual paint. Now, you can see that everything is 100, 100, 100. You can see that there is no more content here. But you can see that you are doing this. What are you doing? The pages with the web socket cannot enter back forward. The cache is in the web socket because we are using the extension. Live preview. Otherwise, this is an accessibility device. Everything is so-so. It is a very large page. Okay? The PWA is a progressive web app, which we will not be able to make. But, you can see that The first contextual paint, the largest contextual paint, Total blocking time, cumulative layout shift, speed index. If you want to know about all these, Then, what is the first contextual paint that the user will see in a while, is painted on the browser. So, if you want to see these things, then you will have to go to the web.dev.dev. It is a very good website about all these things. And you can see that you can learn about these things, what are the things you want to learn about these things. You can learn PWA, You can learn about all these things. Here, it is very good and abundant. But, we will focus on the HTML CSS JavaScript and Web sites in this code. This is the thing that you should have told us about. If you have not done the development series yet, then you should have done it. You should have done the playlist and click on the star, and click on the star, and save it. Thank you so much for watching this video. And I will see you next time. Bye."
+}

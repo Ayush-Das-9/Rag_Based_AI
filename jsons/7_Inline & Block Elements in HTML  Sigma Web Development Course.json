@@ -1,0 +1,1839 @@
+{
+  "chunks": [
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 0.0,
+      "end": 3.8000000000000003,
+      "text": " The concept of illine and block elements is very important in learning the concept of TSTM."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 3.8000000000000003,
+      "end": 10.0,
+      "text": " The illine elements are the ones that are used only for the width of the screen."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 10.0,
+      "end": 13.4,
+      "text": " This can be set through CSS."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 13.4,
+      "end": 16.8,
+      "text": " If you are enjoying this video, then please like this video."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 16.8,
+      "end": 20.1,
+      "text": " So let's go to the computer screen and watch the illine and block elements closely."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 20.1,
+      "end": 21.6,
+      "text": " There are many good examples of that."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 21.6,
+      "end": 23.3,
+      "text": " Let's roll the intro."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 31.0,
+      "end": 35.0,
+      "text": " So guys, it's time for us to watch the illine and block elements."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 35.0,
+      "end": 38.0,
+      "text": " If you haven't done the playlist and haven't done the code access yet, then do the same."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 38.0,
+      "end": 45.0,
+      "text": " Because videos are becoming videos like the code and the video that is added in the playlist."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 45.0,
+      "end": 50.0,
+      "text": " Now I will do something quick, because I will always make a fullter with the name of Video 8."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 50.0,
+      "end": 53.0,
+      "text": " So I have already made 7 videos here."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 53.0,
+      "end": 57.0,
+      "text": " I will make a video 8 and open it in VS code."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 58.0,
+      "end": 65.0,
+      "text": " After opening the VS code, I will make an index or digital decimals and tell you about the index of block elements."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 65.0,
+      "end": 68.0,
+      "text": " I can also type the exclamation mark and enter it."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 68.0,
+      "end": 71.0,
+      "text": " But I will not do it because I can do it when I do it."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 71.0,
+      "end": 74.0,
+      "text": " I will write here the illine and block elements."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 74.0,
+      "end": 79.0,
+      "text": " I told you guys about this but I will put more evidence on this."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 79.0,
+      "end": 82.0,
+      "text": " What are the illine elements and why I want to use them."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 83.0,
+      "end": 89.0,
+      "text": " The illine elements are the elements that are so important that you don't get the block elements."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 89.0,
+      "end": 92.0,
+      "text": " They say that we all want the items and we all want the items."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 92.0,
+      "end": 96.0,
+      "text": " Some people just get the felt and they just get the block elements."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 96.0,
+      "end": 98.0,
+      "text": " I will tell you what the difference is."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 98.0,
+      "end": 102.0,
+      "text": " To understand the difference, I will cheat you."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 102.0,
+      "end": 104.0,
+      "text": " What is the cheating? I will add CSS."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 104.0,
+      "end": 106.0,
+      "text": " I am not reading the CSS, why are you adding CSS?"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 106.0,
+      "end": 109.0,
+      "text": " I am just adding CSS."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 110.0,
+      "end": 116.0,
+      "text": " I will do one thing here that I will write here the P, enter and write here."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 116.0,
+      "end": 119.0,
+      "text": " Let's write here, let's say Hey I am a para."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 119.0,
+      "end": 123.0,
+      "text": " I will say P to background color."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 123.0,
+      "end": 125.0,
+      "text": " Let's say blue."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 125.0,
+      "end": 127.0,
+      "text": " I will give you a good example."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 127.0,
+      "end": 129.0,
+      "text": " You guys have seen the color choice."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 129.0,
+      "end": 131.0,
+      "text": " Let's see what is the color."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 131.0,
+      "end": 133.0,
+      "text": " I have given you a color."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 133.0,
+      "end": 135.0,
+      "text": " I will write an anchor tag here."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 136.0,
+      "end": 138.0,
+      "text": " I will write a cool dot com."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 138.0,
+      "end": 140.0,
+      "text": " I will write a sttps."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 140.0,
+      "end": 142.0,
+      "text": " Sttps cool and double-stash."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 142.0,
+      "end": 144.0,
+      "text": " I will write here the cool dot com."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 144.0,
+      "end": 149.0,
+      "text": " And what is the background color of the anchor tag?"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 149.0,
+      "end": 151.0,
+      "text": " I will give it the background color red."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 151.0,
+      "end": 153.0,
+      "text": " But I will not do red."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 153.0,
+      "end": 156.0,
+      "text": " And I will choose the color in this way."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 156.0,
+      "end": 159.0,
+      "text": " I will tell you in the comment section."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 159.0,
+      "end": 162.0,
+      "text": " If you all already know the color of the anchor tag, then comment."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 162.0,
+      "end": 164.0,
+      "text": " I will not go."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 164.0,
+      "end": 166.0,
+      "text": " You have to comment here."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 166.0,
+      "end": 168.0,
+      "text": " It is very important."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 168.0,
+      "end": 170.0,
+      "text": " You can see here I have given the anchor tag here."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 170.0,
+      "end": 172.0,
+      "text": " I have similar it for a few more minutes."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 172.0,
+      "end": 174.0,
+      "text": " I will change it."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 174.0,
+      "end": 176.0,
+      "text": " I have added red and orange."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 176.0,
+      "end": 177.0,
+      "text": " And this is blue."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 177.0,
+      "end": 179.0,
+      "text": " Now you can see the difference."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 179.0,
+      "end": 181.0,
+      "text": " I will click here and you can see that"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 181.0,
+      "end": 184.0,
+      "text": " the color of the background color is completely white."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 184.0,
+      "end": 187.0,
+      "text": " But you can see that the element is just like that."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 187.0,
+      "end": 188.0,
+      "text": " Why is that?"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 188.0,
+      "end": 191.0,
+      "text": " This is the paragraph of a block element."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 191.0,
+      "end": 193.0,
+      "text": " And the anchor tag is the inline element."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 193.0,
+      "end": 195.0,
+      "text": " Inline elements only take place in the same place."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 195.0,
+      "end": 197.0,
+      "text": " They all need it."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 197.0,
+      "end": 199.0,
+      "text": " Block elements take completely white."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 199.0,
+      "end": 201.0,
+      "text": " And the next content is the bottom of the line."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 201.0,
+      "end": 203.0,
+      "text": " If we take completely white, the next content will be the bottom of the line."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 203.0,
+      "end": 205.0,
+      "text": " Along with that, if I talk about Dev,"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 205.0,
+      "end": 207.0,
+      "text": " what is that?"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 207.0,
+      "end": 208.0,
+      "text": " A block element."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 208.0,
+      "end": 210.0,
+      "text": " I am a block element."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 210.0,
+      "end": 213.0,
+      "text": " And there is a span, which is like a div,"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 213.0,
+      "end": 215.0,
+      "text": " but it is an inline element."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 215.0,
+      "end": 218.0,
+      "text": " I am span and I am in line."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 218.0,
+      "end": 221.0,
+      "text": " And after that, I will add an anchor tag."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 221.0,
+      "end": 223.0,
+      "text": " And I will write yes, he is in line."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 223.0,
+      "end": 225.0,
+      "text": " So now you can see what happened here."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 225.0,
+      "end": 227.0,
+      "text": " I will show you the code."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 227.0,
+      "end": 229.0,
+      "text": " So if I write it in the new line,"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 229.0,
+      "end": 231.0,
+      "text": " By the way, I will tell you how many spaces there are."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 231.0,
+      "end": 233.0,
+      "text": " This content will not be added in my content."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 233.0,
+      "end": 236.0,
+      "text": " Because HTML is more than one space."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 236.0,
+      "end": 237.0,
+      "text": " And it doesn't include any message."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 237.0,
+      "end": 239.0,
+      "text": " If you want to give space,"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 239.0,
+      "end": 242.0,
+      "text": " then you can write the amp, amp, and nbsp."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 242.0,
+      "end": 243.0,
+      "text": " I will tell you about it."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 243.0,
+      "end": 246.0,
+      "text": " Now I want to show you how it works."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 246.0,
+      "end": 248.0,
+      "text": " So look, what happened?"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 248.0,
+      "end": 250.0,
+      "text": " I have written here, this is the first paragraph."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 250.0,
+      "end": 251.0,
+      "text": " What is a block element?"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 251.0,
+      "end": 252.0,
+      "text": " So this is the complete width."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 252.0,
+      "end": 253.0,
+      "text": " The next content will be below."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 253.0,
+      "end": 255.0,
+      "text": " This is what I have written."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 255.0,
+      "end": 257.0,
+      "text": " So this is the only width that is necessary."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 257.0,
+      "end": 258.0,
+      "text": " And this is the only width."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 258.0,
+      "end": 260.0,
+      "text": " But the next content that I was saying"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 260.0,
+      "end": 262.0,
+      "text": " I should have a complete width."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 262.0,
+      "end": 263.0,
+      "text": " So it will not be here."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 263.0,
+      "end": 264.0,
+      "text": " It will be the next line."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 264.0,
+      "end": 266.0,
+      "text": " Because it says that I should have a complete width."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 266.0,
+      "end": 267.0,
+      "text": " So it will be the next line."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 267.0,
+      "end": 268.0,
+      "text": " I cannot come in line."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 268.0,
+      "end": 270.0,
+      "text": " Because if this line comes, how will I get the whole width?"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 270.0,
+      "end": 271.0,
+      "text": " Google will also get the whole width."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 272.0,
+      "end": 275.0,
+      "text": " If I give a background color, I will show it in complete width."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 275.0,
+      "end": 276.0,
+      "text": " I will show it in complete width."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 276.0,
+      "end": 277.0,
+      "text": " I will give yellow color to it."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 277.0,
+      "end": 278.0,
+      "text": " This is a background color."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 278.0,
+      "end": 282.0,
+      "text": " And I will give a background color to yellow."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 282.0,
+      "end": 285.0,
+      "text": " And you can see here, this yellow, the whole width."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 285.0,
+      "end": 290.0,
+      "text": " With that, I can keep the span and anchor tag in the same line."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 290.0,
+      "end": 292.0,
+      "text": " Because this is the only element."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 292.0,
+      "end": 294.0,
+      "text": " So the only width that is necessary"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 294.0,
+      "end": 296.0,
+      "text": " and the other elements in the width of the span"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 296.0,
+      "end": 298.0,
+      "text": " will also be given a mock."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 298.0,
+      "end": 302.0,
+      "text": " As you have seen here, this span has given an anchor tag as well."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 302.0,
+      "end": 304.0,
+      "text": " Now, the anchor tag that is always the same."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 304.0,
+      "end": 305.0,
+      "text": " Will it be the same?"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 305.0,
+      "end": 307.0,
+      "text": " Will it always be a paragraph track block?"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 307.0,
+      "end": 308.0,
+      "text": " Will it always be the same?"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 308.0,
+      "end": 309.0,
+      "text": " The answer is no."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 309.0,
+      "end": 310.0,
+      "text": " You can change it."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 310.0,
+      "end": 315.0,
+      "text": " You can set any particular element of the display property from the CSS."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 315.0,
+      "end": 317.0,
+      "text": " And if you set the display property,"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 317.0,
+      "end": 320.0,
+      "text": " then it will not be necessary that the block will be the same."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 320.0,
+      "end": 322.0,
+      "text": " And the block will be the same."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 322.0,
+      "end": 324.0,
+      "text": " It can be also made in the same way."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 324.0,
+      "end": 325.0,
+      "text": " We will see in the CSS."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 325.0,
+      "end": 327.0,
+      "text": " Now I want to point out something quickly."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 327.0,
+      "end": 329.0,
+      "text": " The video was not the same as the video was the video 7."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 329.0,
+      "end": 332.0,
+      "text": " But I have put it in the folder of the video 6."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 332.0,
+      "end": 334.0,
+      "text": " I will put it in the video 7."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 334.0,
+      "end": 336.0,
+      "text": " And now, the video is the same as the video 8."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 336.0,
+      "end": 338.0,
+      "text": " Okay, now we are doing the video 8."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 338.0,
+      "end": 340.0,
+      "text": " And the video 7 is not the same as the video 7."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 340.0,
+      "end": 343.0,
+      "text": " I will also give it a quick structure."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 343.0,
+      "end": 344.0,
+      "text": " Don't take that tension."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 344.0,
+      "end": 346.0,
+      "text": " I hope that learnings you all are getting a lot of experience."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 346.0,
+      "end": 348.0,
+      "text": " Many people have pointed out this thing in the comments."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 348.0,
+      "end": 350.0,
+      "text": " I will fix it."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 350.0,
+      "end": 352.0,
+      "text": " But I think that doesn't affect us in any way."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 352.0,
+      "end": 353.0,
+      "text": " Because you all are getting it."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 353.0,
+      "end": 355.0,
+      "text": " And now, I will give you the folder of the notes."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 355.0,
+      "end": 356.0,
+      "text": " Sorry, the source code."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 356.0,
+      "end": 358.0,
+      "text": " You will get it from the right."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 358.0,
+      "end": 360.0,
+      "text": " And with that, you can download the code with the right.com."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 360.0,
+      "end": 362.0,
+      "text": " If you click on the notes, you will get the notes."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 362.0,
+      "end": 364.0,
+      "text": " And you will get the complimentary source."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 364.0,
+      "end": 366.0,
+      "text": " But I am going to explain everything."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 366.0,
+      "end": 368.0,
+      "text": " Step by step, don't take that tension."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 368.0,
+      "end": 370.0,
+      "text": " Okay, so this is our line-out block elements."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 370.0,
+      "end": 372.0,
+      "text": " Now, which elements are there?"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 372.0,
+      "end": 373.0,
+      "text": " Which block are there?"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 373.0,
+      "end": 374.0,
+      "text": " How will you know?"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 374.0,
+      "end": 375.0,
+      "text": " How will you know?"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 375.0,
+      "end": 377.0,
+      "text": " The div block is there and there is a span in line."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 377.0,
+      "end": 378.0,
+      "text": " So, I will go with practice."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 378.0,
+      "end": 381.0,
+      "text": " But I have made a list of the components of the elements."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 381.0,
+      "end": 384.0,
+      "text": " Here, the list of the block elements."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 384.0,
+      "end": 387.0,
+      "text": " The most commonly used elements."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 387.0,
+      "end": 389.0,
+      "text": " It is written as the first one."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 389.0,
+      "end": 391.0,
+      "text": " The first one is used as the div."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 391.0,
+      "end": 392.0,
+      "text": " And you will get the end."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 392.0,
+      "end": 393.0,
+      "text": " So, you will get such elements."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 393.0,
+      "end": 394.0,
+      "text": " Which may not be used."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 394.0,
+      "end": 395.0,
+      "text": " Maybe you don't know about them."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 395.0,
+      "end": 397.0,
+      "text": " But you will get to know about them."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 397.0,
+      "end": 399.0,
+      "text": " And if you don't know all the elements,"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 399.0,
+      "end": 402.0,
+      "text": " You will get some self-learning."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 402.0,
+      "end": 404.0,
+      "text": " Definitely, many elements."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 404.0,
+      "end": 407.0,
+      "text": " Which you will get in a lot of less use."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 407.0,
+      "end": 409.0,
+      "text": " But the most commonly used ones, you will see."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 409.0,
+      "end": 411.0,
+      "text": " If you keep the list of the entire line-out elements."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 411.0,
+      "end": 413.0,
+      "text": " So, you have to refer the list to this comprehensive list."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 413.0,
+      "end": 416.0,
+      "text": " And you have to refer the list to this comprehensive list.TXT."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 416.0,
+      "end": 419.0,
+      "text": " If you have made a file, then refer the file to this file."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 419.0,
+      "end": 422.0,
+      "text": " And the code you need to use in it is not a false space."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 422.0,
+      "end": 424.0,
+      "text": " You should not have to tell it that it is not a false space."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 424.0,
+      "end": 427.0,
+      "text": " In fact, if you do a format document,"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 427.0,
+      "end": 429.0,
+      "text": " Your document will be a document format."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 429.0,
+      "end": 430.0,
+      "text": " Write a code."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 430.0,
+      "end": 431.0,
+      "text": " Write a code."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 431.0,
+      "end": 435.0,
+      "text": " It is the time when you open your account on the left of the account."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 435.0,
+      "end": 437.0,
+      "text": " And if you get a code,"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 437.0,
+      "end": 439.0,
+      "text": " You will get the code that you write on the right of the folder."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 439.0,
+      "end": 441.0,
+      "text": " You will get the code that you write on the right of the folder."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 441.0,
+      "end": 444.0,
+      "text": " Now, if you put an SSP, then grandpa would do this."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 444.0,
+      "end": 449.0,
+      "text": " So, you will get the code that you have made in good words."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 449.0,
+      "end": 451.0,
+      "text": " So, you will get the code that you have made in good words."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 451.0,
+      "end": 453.0,
+      "text": " So that you will get the code that you have made in good words."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 453.0,
+      "end": 455.0,
+      "text": " Now, in the comments of HTML,"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 455.0,
+      "end": 458.0,
+      "text": " I would like to give you a quiz from the bottom of my mind."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 458.0,
+      "end": 460.0,
+      "text": " This is a quiz that without using BRTAC,"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 460.0,
+      "end": 464.0,
+      "text": " I will add one more thing in the form of writing a right of the folder."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 464.0,
+      "end": 466.0,
+      "text": " I will show you the word wrap."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 466.0,
+      "end": 468.0,
+      "text": " Now, let's see the name of the folder."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 499.0,
+      "end": 501.0,
+      "text": " In the coming videos, we will also see that"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 501.0,
+      "end": 506.0,
+      "text": " You can use CSS and use the online flex in the form of Inline block."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 506.0,
+      "end": 508.0,
+      "text": " What is the difference in the content?"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 508.0,
+      "end": 510.0,
+      "text": " So, we will see all these coming videos."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 510.0,
+      "end": 513.0,
+      "text": " You want to know that if you are following this course,"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 513.0,
+      "end": 516.0,
+      "text": " You are going to become a very big Web developer."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 516.0,
+      "end": 518.0,
+      "text": " And you are thinking that the video is very long."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 518.0,
+      "end": 520.0,
+      "text": " And our content is very long."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 520.0,
+      "end": 523.0,
+      "text": " And I want to keep on making beginner-friendly courses."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 523.0,
+      "end": 524.0,
+      "text": " Which I am making in the course."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 524.0,
+      "end": 527.0,
+      "text": " And you want to know that people will tell you that"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 527.0,
+      "end": 531.0,
+      "text": " You are doing this, we are doing it, we are doing it, you are doing it, you are doing it."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 531.0,
+      "end": 532.0,
+      "text": " You are doing it."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 532.0,
+      "end": 534.0,
+      "text": " You know, what is the thing that you will never say to people?"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 534.0,
+      "end": 536.0,
+      "text": " This is that you are blessed."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 536.0,
+      "end": 539.0,
+      "text": " No one will say that you are in the course of development."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 539.0,
+      "end": 542.0,
+      "text": " You have been on a time when you are seeing a good comprehensive course"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 542.0,
+      "end": 543.0,
+      "text": " in the Hindi."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 543.0,
+      "end": 545.0,
+      "text": " You are not saying that you are blessed."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 545.0,
+      "end": 547.0,
+      "text": " People will say that I am going to watch a movie."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 547.0,
+      "end": 548.0,
+      "text": " I am going to watch this."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 548.0,
+      "end": 549.0,
+      "text": " You are studying."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 549.0,
+      "end": 550.0,
+      "text": " What is it?"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 550.0,
+      "end": 551.0,
+      "text": " You are so boring."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 551.0,
+      "end": 552.0,
+      "text": " People will say that."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 552.0,
+      "end": 553.0,
+      "text": " But this is not what you will say."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 554.0,
+      "end": 556.0,
+      "text": " You are blessed to find this course."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 556.0,
+      "end": 558.0,
+      "text": " And you are blessed to watch."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 558.0,
+      "end": 560.0,
+      "text": " You are blessed to not be distracted."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 560.0,
+      "end": 562.0,
+      "text": " And when you see it in the coming time,"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 562.0,
+      "end": 564.0,
+      "text": " You are very confused."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 564.0,
+      "end": 565.0,
+      "text": " I am so blessed."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 565.0,
+      "end": 566.0,
+      "text": " I am saying myself."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 566.0,
+      "end": 567.0,
+      "text": " I am so blessed."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 567.0,
+      "end": 569.0,
+      "text": " I have studied at the ITJ."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 569.0,
+      "end": 571.0,
+      "text": " I have studied at ITJ."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 571.0,
+      "end": 572.0,
+      "text": " I have not studied at all."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 572.0,
+      "end": 574.0,
+      "text": " So, you will not be able to tell anything."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 574.0,
+      "end": 577.0,
+      "text": " No one will say that it is worth the sacrifice that you are doing."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 577.0,
+      "end": 580.0,
+      "text": " I am telling you that people who have sacrificed their success"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 580.0,
+      "end": 583.0,
+      "text": " will not say that it is something else but in skええ"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 583.0,
+      "end": 586.0,
+      "text": " in excess of abyssal noises."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 586.0,
+      "end": 588.0,
+      "text": " I am telling you that Reza توah"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 588.0,
+      "end": 590.0,
+      "text": " employee who is experiencing is required"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 590.0,
+      "end": 591.0,
+      "text": " in any place,"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 591.0,
+      "end": 592.0,
+      "text": " In any extent."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 592.0,
+      "end": 594.0,
+      "text": " Reza توah"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 594.0,
+      "end": 596.0,
+      "text": " and one person who is doing that"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 596.0,
+      "end": 597.0,
+      "text": " is paid byyou."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 597.0,
+      "end": 598.0,
+      "text": " Sáfqa"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 598.0,
+      "end": 600.0,
+      "text": " Now you can see where you are slower."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 600.0,
+      "end": 601.0,
+      "text": " Open WSolved"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 601.0,
+      "end": 603.0,
+      "text": " we are talking about a plan."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 603.0,
+      "end": 606.0,
+      "text": " But we wanted to start fast."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 606.0,
+      "end": 607.0,
+      "text": " There is no problem."
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 607.0,
+      "end": 609.84,
+      "text": " I will use all the efforts to add each"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 609.84,
+      "end": 611.84,
+      "text": " and then I'll hover from here"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 611.84,
+      "end": 613.84,
+      "text": " and you guys can see that"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 613.84,
+      "end": 615.84,
+      "text": " this person has highlighted this"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 615.84,
+      "end": 617.84,
+      "text": " so now in this video i hope you guys understood that"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 617.84,
+      "end": 619.84,
+      "text": " in line of lock elements"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 619.84,
+      "end": 621.84,
+      "text": " please like and subscribe to this channel"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 621.84,
+      "end": 623.84,
+      "text": " please also access this video"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 623.84,
+      "end": 625.84,
+      "text": " please give me a like"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 625.84,
+      "end": 627.84,
+      "text": " thank you so much for watching this video"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 627.84,
+      "end": 629.84,
+      "text": " and i will see you next time"
+    },
+    {
+      "number": "7",
+      "title": "Inline & Block Elements in HTML  Sigma Web Development Course",
+      "start": 639.84,
+      "end": 641.84,
+      "text": " bye"
+    }
+  ],
+  "text": " The concept of illine and block elements is very important in learning the concept of TSTM. The illine elements are the ones that are used only for the width of the screen. This can be set through CSS. If you are enjoying this video, then please like this video. So let's go to the computer screen and watch the illine and block elements closely. There are many good examples of that. Let's roll the intro. So guys, it's time for us to watch the illine and block elements. If you haven't done the playlist and haven't done the code access yet, then do the same. Because videos are becoming videos like the code and the video that is added in the playlist. Now I will do something quick, because I will always make a fullter with the name of Video 8. So I have already made 7 videos here. I will make a video 8 and open it in VS code. After opening the VS code, I will make an index or digital decimals and tell you about the index of block elements. I can also type the exclamation mark and enter it. But I will not do it because I can do it when I do it. I will write here the illine and block elements. I told you guys about this but I will put more evidence on this. What are the illine elements and why I want to use them. The illine elements are the elements that are so important that you don't get the block elements. They say that we all want the items and we all want the items. Some people just get the felt and they just get the block elements. I will tell you what the difference is. To understand the difference, I will cheat you. What is the cheating? I will add CSS. I am not reading the CSS, why are you adding CSS? I am just adding CSS. I will do one thing here that I will write here the P, enter and write here. Let's write here, let's say Hey I am a para. I will say P to background color. Let's say blue. I will give you a good example. You guys have seen the color choice. Let's see what is the color. I have given you a color. I will write an anchor tag here. I will write a cool dot com. I will write a sttps. Sttps cool and double-stash. I will write here the cool dot com. And what is the background color of the anchor tag? I will give it the background color red. But I will not do red. And I will choose the color in this way. I will tell you in the comment section. If you all already know the color of the anchor tag, then comment. I will not go. You have to comment here. It is very important. You can see here I have given the anchor tag here. I have similar it for a few more minutes. I will change it. I have added red and orange. And this is blue. Now you can see the difference. I will click here and you can see that the color of the background color is completely white. But you can see that the element is just like that. Why is that? This is the paragraph of a block element. And the anchor tag is the inline element. Inline elements only take place in the same place. They all need it. Block elements take completely white. And the next content is the bottom of the line. If we take completely white, the next content will be the bottom of the line. Along with that, if I talk about Dev, what is that? A block element. I am a block element. And there is a span, which is like a div, but it is an inline element. I am span and I am in line. And after that, I will add an anchor tag. And I will write yes, he is in line. So now you can see what happened here. I will show you the code. So if I write it in the new line, By the way, I will tell you how many spaces there are. This content will not be added in my content. Because HTML is more than one space. And it doesn't include any message. If you want to give space, then you can write the amp, amp, and nbsp. I will tell you about it. Now I want to show you how it works. So look, what happened? I have written here, this is the first paragraph. What is a block element? So this is the complete width. The next content will be below. This is what I have written. So this is the only width that is necessary. And this is the only width. But the next content that I was saying I should have a complete width. So it will not be here. It will be the next line. Because it says that I should have a complete width. So it will be the next line. I cannot come in line. Because if this line comes, how will I get the whole width? Google will also get the whole width. If I give a background color, I will show it in complete width. I will show it in complete width. I will give yellow color to it. This is a background color. And I will give a background color to yellow. And you can see here, this yellow, the whole width. With that, I can keep the span and anchor tag in the same line. Because this is the only element. So the only width that is necessary and the other elements in the width of the span will also be given a mock. As you have seen here, this span has given an anchor tag as well. Now, the anchor tag that is always the same. Will it be the same? Will it always be a paragraph track block? Will it always be the same? The answer is no. You can change it. You can set any particular element of the display property from the CSS. And if you set the display property, then it will not be necessary that the block will be the same. And the block will be the same. It can be also made in the same way. We will see in the CSS. Now I want to point out something quickly. The video was not the same as the video was the video 7. But I have put it in the folder of the video 6. I will put it in the video 7. And now, the video is the same as the video 8. Okay, now we are doing the video 8. And the video 7 is not the same as the video 7. I will also give it a quick structure. Don't take that tension. I hope that learnings you all are getting a lot of experience. Many people have pointed out this thing in the comments. I will fix it. But I think that doesn't affect us in any way. Because you all are getting it. And now, I will give you the folder of the notes. Sorry, the source code. You will get it from the right. And with that, you can download the code with the right.com. If you click on the notes, you will get the notes. And you will get the complimentary source. But I am going to explain everything. Step by step, don't take that tension. Okay, so this is our line-out block elements. Now, which elements are there? Which block are there? How will you know? How will you know? The div block is there and there is a span in line. So, I will go with practice. But I have made a list of the components of the elements. Here, the list of the block elements. The most commonly used elements. It is written as the first one. The first one is used as the div. And you will get the end. So, you will get such elements. Which may not be used. Maybe you don't know about them. But you will get to know about them. And if you don't know all the elements, You will get some self-learning. Definitely, many elements. Which you will get in a lot of less use. But the most commonly used ones, you will see. If you keep the list of the entire line-out elements. So, you have to refer the list to this comprehensive list. And you have to refer the list to this comprehensive list.TXT. If you have made a file, then refer the file to this file. And the code you need to use in it is not a false space. You should not have to tell it that it is not a false space. In fact, if you do a format document, Your document will be a document format. Write a code. Write a code. It is the time when you open your account on the left of the account. And if you get a code, You will get the code that you write on the right of the folder. You will get the code that you write on the right of the folder. Now, if you put an SSP, then grandpa would do this. So, you will get the code that you have made in good words. So, you will get the code that you have made in good words. So that you will get the code that you have made in good words. Now, in the comments of HTML, I would like to give you a quiz from the bottom of my mind. This is a quiz that without using BRTAC, I will add one more thing in the form of writing a right of the folder. I will show you the word wrap. Now, let's see the name of the folder. In the coming videos, we will also see that You can use CSS and use the online flex in the form of Inline block. What is the difference in the content? So, we will see all these coming videos. You want to know that if you are following this course, You are going to become a very big Web developer. And you are thinking that the video is very long. And our content is very long. And I want to keep on making beginner-friendly courses. Which I am making in the course. And you want to know that people will tell you that You are doing this, we are doing it, we are doing it, you are doing it, you are doing it. You are doing it. You know, what is the thing that you will never say to people? This is that you are blessed. No one will say that you are in the course of development. You have been on a time when you are seeing a good comprehensive course in the Hindi. You are not saying that you are blessed. People will say that I am going to watch a movie. I am going to watch this. You are studying. What is it? You are so boring. People will say that. But this is not what you will say. You are blessed to find this course. And you are blessed to watch. You are blessed to not be distracted. And when you see it in the coming time, You are very confused. I am so blessed. I am saying myself. I am so blessed. I have studied at the ITJ. I have studied at ITJ. I have not studied at all. So, you will not be able to tell anything. No one will say that it is worth the sacrifice that you are doing. I am telling you that people who have sacrificed their success will not say that it is something else but in skええ in excess of abyssal noises. I am telling you that Reza توah employee who is experiencing is required in any place, In any extent. Reza توah and one person who is doing that is paid byyou. Sáfqa Now you can see where you are slower. Open WSolved we are talking about a plan. But we wanted to start fast. There is no problem. I will use all the efforts to add each and then I'll hover from here and you guys can see that this person has highlighted this so now in this video i hope you guys understood that in line of lock elements please like and subscribe to this channel please also access this video please give me a like thank you so much for watching this video and i will see you next time bye"
+}

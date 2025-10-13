@@ -1,0 +1,3309 @@
+{
+  "chunks": [
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 0.0,
+      "end": 3.2800000000000002,
+      "text": " In today's video, I will tell you about the settings and paragraphs"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 3.2800000000000002,
+      "end": 6.38,
+      "text": " I will tell you about the anchor text"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 6.38,
+      "end": 9.84,
+      "text": " If you have found this course awesome, then like this video"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 9.84,
+      "end": 12.34,
+      "text": " Like and share this video with your friends"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 12.34,
+      "end": 14.08,
+      "text": " In this video, we will make a small project"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 14.08,
+      "end": 15.64,
+      "text": " Which will be a bookmark website"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 15.64,
+      "end": 20.16,
+      "text": " This bookmark website will help you to get all your favorite websites"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 20.16,
+      "end": 22.080000000000002,
+      "text": " And you will be able to use it in actual use"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 22.080000000000002,
+      "end": 23.48,
+      "text": " So let's start quickly"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 23.48,
+      "end": 26.48,
+      "text": " In the comment section, click the SIGMA BATCH OP"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 26.48,
+      "end": 27.84,
+      "text": " Let's roll the intro"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 30.0,
+      "end": 40.0,
+      "text": " So guys, as you can see, I have already made a computer screen"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 40.0,
+      "end": 44.0,
+      "text": " And if you haven't done any playlists yet, you can access it"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 44.0,
+      "end": 49.0,
+      "text": " The other thing I want to tell you is that you will go to the GitHub.com slash code"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 49.0,
+      "end": 53.0,
+      "text": " And you will get the Github repo of the SIGMA webda course"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 53.0,
+      "end": 58.0,
+      "text": " I have made all the videos of this folder and made a commit to it"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 58.0,
+      "end": 61.0,
+      "text": " You will get access from the source code"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 61.0,
+      "end": 63.0,
+      "text": " You can find it in the description"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 63.0,
+      "end": 66.0,
+      "text": " I will put it in the description below"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 66.0,
+      "end": 69.0,
+      "text": " Now we will make a basic website today"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 69.0,
+      "end": 71.0,
+      "text": " But it will be very important for us"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 71.0,
+      "end": 73.0,
+      "text": " Because it will be our first useful website"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 73.0,
+      "end": 79.0,
+      "text": " So I will not take time to make a new folder in this folder"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 79.0,
+      "end": 82.0,
+      "text": " And I will put it in the video folder because it is our fourth video"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 82.0,
+      "end": 84.0,
+      "text": " I will make it from the video folder"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 84.0,
+      "end": 88.0,
+      "text": " I will click on the open with code to open the folder in the VSC code"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 88.0,
+      "end": 91.0,
+      "text": " I will do this later, which we will always do"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 91.0,
+      "end": 98.0,
+      "text": " Index.html, Main.css or Style.css and with that, script.js"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 98.0,
+      "end": 100.0,
+      "text": " We usually make these three files"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 100.0,
+      "end": 102.0,
+      "text": " If I write CSS, I will write here and write script"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 102.0,
+      "end": 106.0,
+      "text": " But for now, I will write some things here"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 106.0,
+      "end": 108.0,
+      "text": " I will write in the document"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 108.0,
+      "end": 110.0,
+      "text": " My bookmarks"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 110.0,
+      "end": 113.0,
+      "text": " I will write the code in the description"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 113.0,
+      "end": 116.0,
+      "text": " I will write all the titles"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 116.0,
+      "end": 119.0,
+      "text": " What is H1?"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 119.0,
+      "end": 122.0,
+      "text": " You can write it in the web page"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 122.0,
+      "end": 124.0,
+      "text": " We talked about basic structure"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 124.0,
+      "end": 126.0,
+      "text": " We said that it is HTML"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 126.0,
+      "end": 127.0,
+      "text": " HTML Lang is equal to EN"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 127.0,
+      "end": 129.0,
+      "text": " It is the value of the attribute of the language"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 129.0,
+      "end": 131.0,
+      "text": " In English, this is the content"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 131.0,
+      "end": 133.0,
+      "text": " This is the search engine"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 133.0,
+      "end": 136.0,
+      "text": " If any of the link of this web page is in the description"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 136.0,
+      "end": 140.0,
+      "text": " You can parse the web page from the search engine"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 140.0,
+      "end": 144.0,
+      "text": " You can also find out that your web page is in English"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 144.0,
+      "end": 150.0,
+      "text": " Here is the header, which is the metadata, which is the title, which is the link of CSS"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 150.0,
+      "end": 152.0,
+      "text": " It is the information of the body"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 152.0,
+      "end": 156.0,
+      "text": " Now, it is the tag to put the body in the header"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 156.0,
+      "end": 158.0,
+      "text": " I will write in the description box"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 158.0,
+      "end": 162.0,
+      "text": " If I write in the description box, we will write H1 tags"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 162.0,
+      "end": 164.0,
+      "text": " If I want to live here"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 164.0,
+      "end": 166.0,
+      "text": " I will click here"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 166.0,
+      "end": 168.0,
+      "text": " Then I will browser it"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 168.0,
+      "end": 170.0,
+      "text": " I will show you how to use my bookmarks"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 170.0,
+      "end": 172.0,
+      "text": " Now, why should I use H1 in my bookmark?"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 172.0,
+      "end": 174.0,
+      "text": " I have directly written my bookmark"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 174.0,
+      "end": 176.0,
+      "text": " Because I will tell you the browser"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 176.0,
+      "end": 178.0,
+      "text": " This is my first level heading"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 178.0,
+      "end": 182.0,
+      "text": " Now, I want to write in the bookmark"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 182.0,
+      "end": 185.0,
+      "text": " I will use H2"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 185.0,
+      "end": 187.0,
+      "text": " I will use H2"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 187.0,
+      "end": 191.0,
+      "text": " If you have used Microsoft Word, you will know what H1H2 is"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 191.0,
+      "end": 193.0,
+      "text": " If you don't know, I will tell you"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 193.0,
+      "end": 195.0,
+      "text": " H1H2 is your main level heading"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 195.0,
+      "end": 197.0,
+      "text": " And the second level heading"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 197.0,
+      "end": 199.0,
+      "text": " I will say H2"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 199.0,
+      "end": 201.0,
+      "text": " I will do the main bookmarks"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 201.0,
+      "end": 203.0,
+      "text": " I will do the same"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 203.0,
+      "end": 207.0,
+      "text": " I will do the Alt shift"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 207.0,
+      "end": 209.0,
+      "text": " I will do the downer"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 209.0,
+      "end": 211.0,
+      "text": " I will do the screen cast mode"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 211.0,
+      "end": 213.0,
+      "text": " I have done the Alt shift"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 213.0,
+      "end": 215.0,
+      "text": " I will do the downer"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 215.0,
+      "end": 217.0,
+      "text": " This is the shortcut"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 217.0,
+      "end": 219.0,
+      "text": " I want to tell you the shortcut"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 219.0,
+      "end": 223.0,
+      "text": " If you press the Alt, you will know where you will click the cursor"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 223.0,
+      "end": 225.0,
+      "text": " I will click the cursor on the right hand"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 225.0,
+      "end": 227.0,
+      "text": " I will only click the cursor on the right hand"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 227.0,
+      "end": 231.0,
+      "text": " If I click the other one, you will know where the cursor will come"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 231.0,
+      "end": 233.0,
+      "text": " I want to add all the bookmarks to the code"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 233.0,
+      "end": 235.0,
+      "text": " So, I will add the dash code"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 235.0,
+      "end": 237.0,
+      "text": " I will write something like this"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 237.0,
+      "end": 239.0,
+      "text": " I have not done it"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 239.0,
+      "end": 241.0,
+      "text": " I have written it on the right hand"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 241.0,
+      "end": 243.0,
+      "text": " I will click the cursor on the right hand"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 243.0,
+      "end": 245.0,
+      "text": " I will get multiple cursor"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 245.0,
+      "end": 247.0,
+      "text": " I will type whatever I want"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 247.0,
+      "end": 251.0,
+      "text": " I will type whatever I want to"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 251.0,
+      "end": 253.0,
+      "text": " I will write it on the right hand"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 253.0,
+      "end": 255.0,
+      "text": " I will add some shortcuts"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 255.0,
+      "end": 257.0,
+      "text": " You will see the update"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 257.0,
+      "end": 259.0,
+      "text": " This is my main heading"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 259.0,
+      "end": 261.0,
+      "text": " This is my H2"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 261.0,
+      "end": 263.0,
+      "text": " I have H6 setting"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 263.0,
+      "end": 265.0,
+      "text": " I will add a main heading"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 265.0,
+      "end": 267.0,
+      "text": " You have added a second heading"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 267.0,
+      "end": 269.0,
+      "text": " You have to add some settings"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 269.0,
+      "end": 271.0,
+      "text": " And so on"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 271.0,
+      "end": 273.0,
+      "text": " You can add H6 setting"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 273.0,
+      "end": 275.0,
+      "text": " You can add H6 mode"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 275.0,
+      "end": 277.0,
+      "text": " You can add H7 mode in HTML"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 277.0,
+      "end": 279.0,
+      "text": " You will never need H7 mode"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 279.0,
+      "end": 281.0,
+      "text": " You will never need H7 mode in HTML"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 281.0,
+      "end": 283.0,
+      "text": " You can use H6 for the first time"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 283.0,
+      "end": 285.0,
+      "text": " You can use H6 for the first time"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 285.0,
+      "end": 287.0,
+      "text": " You will have a small amount of H6"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 287.0,
+      "end": 289.0,
+      "text": " You will have a small amount of H6"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 289.0,
+      "end": 291.0,
+      "text": " You will have a small amount of H6"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 291.0,
+      "end": 293.0,
+      "text": " I will do the Alt shift"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 293.0,
+      "end": 295.0,
+      "text": " I will replicate it"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 295.0,
+      "end": 297.0,
+      "text": " I will click Alt"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 297.0,
+      "end": 299.0,
+      "text": " I will tell all shortcuts"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 299.0,
+      "end": 301.0,
+      "text": " So that you will have a lot of productivity"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 301.0,
+      "end": 303.0,
+      "text": " hago wil check and add points"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 303.0,
+      "end": 303.96,
+      "text": " Thame h3"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 303.96,
+      "end": 305.32,
+      "text": " I will click Alt"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 305.32,
+      "end": 305.8,
+      "text": " I hold Alt"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 305.8,
+      "end": 306.76,
+      "text": " I will click the Alt"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 306.76,
+      "end": 309.4,
+      "text": " I will click H4"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 309.4,
+      "end": 312.2,
+      "text": " Click the H5"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 312.2,
+      "end": 314.2,
+      "text": " Then click it"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 314.2,
+      "end": 318.2,
+      "text": " 6"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 318.2,
+      "end": 320.2,
+      "text": " I will just add H6"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 321.0,
+      "end": 323.0,
+      "text": " I will hide and speak"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 323.0,
+      "end": 325.0,
+      "text": " Here I want to list für fate"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 325.0,
+      "end": 328.2,
+      "text": " And here"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 328.2,
+      "end": 329.8,
+      "text": " Here I will click H7"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 329.8,
+      "end": 339.8,
+      "text": " You can see the H1 and H2 are different."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 339.8,
+      "end": 344.8,
+      "text": " H6 is more than enough."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 344.8,
+      "end": 347.8,
+      "text": " I will show you a practical demonstration."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 347.8,
+      "end": 351.8,
+      "text": " I have given the main heading for the HTML introduction."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 351.8,
+      "end": 354.8,
+      "text": " I have given the features of HTML."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 354.8,
+      "end": 357.8,
+      "text": " I have given the H1 and H2."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 357.8,
+      "end": 360.8,
+      "text": " I have given the H2 and H2."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 360.8,
+      "end": 363.8,
+      "text": " I have given the H3 and H2."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 363.8,
+      "end": 365.8,
+      "text": " I have given the Y in the text and markup language."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 365.8,
+      "end": 368.8,
+      "text": " This is the main heading for HTML introduction."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 368.8,
+      "end": 370.8,
+      "text": " This is the whole heading."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 370.8,
+      "end": 373.8,
+      "text": " I have given the H3 and H3."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 373.8,
+      "end": 376.8,
+      "text": " I have given the H2 and H3 in the background."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 376.8,
+      "end": 381.8,
+      "text": " I have given the H3 and H4 and H4 and H5 and H6."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 381.8,
+      "end": 384.8,
+      "text": " I hope you have understood."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 384.8,
+      "end": 387.8,
+      "text": " If you are doing a lot of comments,"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 387.8,
+      "end": 390.8,
+      "text": " I will make this course as a beginner course."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 390.8,
+      "end": 392.8,
+      "text": " When I tell you in HTML,"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 392.8,
+      "end": 394.8,
+      "text": " you will be able to tell me a little."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 394.8,
+      "end": 396.8,
+      "text": " I will tell you a little."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 396.8,
+      "end": 399.8,
+      "text": " I will tell you a little."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 399.8,
+      "end": 402.8,
+      "text": " I will show you a little."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 402.8,
+      "end": 405.8,
+      "text": " I will react."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 405.8,
+      "end": 407.8,
+      "text": " I will react."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 407.8,
+      "end": 409.8,
+      "text": " I will get the note."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 409.8,
+      "end": 410.8,
+      "text": " I will bring the note."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 410.8,
+      "end": 411.8,
+      "text": " I will bring the note."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 411.8,
+      "end": 412.8,
+      "text": " I will bring the note."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 412.8,
+      "end": 414.8,
+      "text": " I will bring the note."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 414.8,
+      "end": 415.8,
+      "text": " Then I will upload it."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 415.8,
+      "end": 418.8,
+      "text": " I will write a little."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 418.8,
+      "end": 420.8,
+      "text": " When I react,"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 420.8,
+      "end": 422.8,
+      "text": " I will make the project."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 422.8,
+      "end": 424.8,
+      "text": " I will do some things."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 424.8,
+      "end": 426.8,
+      "text": " I will ask the people to do that."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 426.8,
+      "end": 427.8,
+      "text": " Now tell me what is the level."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 427.8,
+      "end": 429.8,
+      "text": " Don't talk about the level."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 429.8,
+      "end": 431.8,
+      "text": " The level will get bigger."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 431.8,
+      "end": 433.8,
+      "text": " I will place the headings here."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 433.8,
+      "end": 436.8,
+      "text": " Now I want to write a paragraph."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 436.8,
+      "end": 438.8,
+      "text": " You can use P tag."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 438.8,
+      "end": 440.8,
+      "text": " You can use P tag."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 440.8,
+      "end": 442.8,
+      "text": " I will tell you a shortcut trick."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 442.8,
+      "end": 444.8,
+      "text": " If you want to play Dummy,"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 444.8,
+      "end": 446.8,
+      "text": " then what will you do?"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 446.8,
+      "end": 448.8,
+      "text": " I will write a lawrim here."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 448.8,
+      "end": 450.8,
+      "text": " I wrote lawrim 23."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 450.8,
+      "end": 452.8,
+      "text": " I will write a lawrim 23."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 452.8,
+      "end": 454.8,
+      "text": " I will give you 23 words."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 454.8,
+      "end": 456.8,
+      "text": " You can trap the word on the view."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 456.8,
+      "end": 458.8,
+      "text": " You will not get the horizontal straw bar."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 458.8,
+      "end": 460.8,
+      "text": " You can trap the view."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 460.8,
+      "end": 462.8,
+      "text": " Now you see the lawrim F some dollars set."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 462.8,
+      "end": 464.8,
+      "text": " Here this is a dummy text."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 464.8,
+      "end": 466.8,
+      "text": " Why do we want dummy text?"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 466.8,
+      "end": 468.8,
+      "text": " We want template."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 468.8,
+      "end": 471.8,
+      "text": " We want to fill template with something."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 471.8,
+      "end": 476.8,
+      "text": " We want to make a website that shows the OEO rooms."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 476.8,
+      "end": 480.8,
+      "text": " OEO is a member of OEO for business."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 480.8,
+      "end": 482.8,
+      "text": " I don't want to write all this."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 482.8,
+      "end": 484.8,
+      "text": " I wrote a lawrim here."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 484.8,
+      "end": 486.8,
+      "text": " I wrote 7 words."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 486.8,
+      "end": 488.8,
+      "text": " I will write a lawrim 7."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 488.8,
+      "end": 490.8,
+      "text": " I will write OEO."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 490.8,
+      "end": 494.8,
+      "text": " You can use it in the placeholder."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 494.8,
+      "end": 498.8,
+      "text": " I plan to make a website that you know how to do it."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 498.8,
+      "end": 502.8,
+      "text": " You can use it in the description."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 502.8,
+      "end": 504.8,
+      "text": " You can use it in the description."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 504.8,
+      "end": 506.8,
+      "text": " We will see more things."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 506.8,
+      "end": 508.8,
+      "text": " Paragraph is a paragraph."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 508.8,
+      "end": 510.8,
+      "text": " You have to style it."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 510.8,
+      "end": 512.8,
+      "text": " You can do all these things through CSS."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 512.8,
+      "end": 516.8,
+      "text": " Paragraph is a text that I wrote in lawrim 23."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 516.8,
+      "end": 518.8,
+      "text": " I will give you P."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 518.8,
+      "end": 520.8,
+      "text": " I will write a lawrim 10."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 520.8,
+      "end": 522.8,
+      "text": " I will write a lawrim 100."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 522.8,
+      "end": 526.8,
+      "text": " If I write a lawrim 100, I will fill the page."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 526.8,
+      "end": 528.8,
+      "text": " I can do that."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 528.8,
+      "end": 530.8,
+      "text": " This lawrim value is very good."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 530.8,
+      "end": 532.8,
+      "text": " You will enjoy it."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 532.8,
+      "end": 542.8,
+      "text": " Whenever we make an OEO website, I will write 3 words."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 542.8,
+      "end": 544.8,
+      "text": " I will write a lawrim 3."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 544.8,
+      "end": 546.8,
+      "text": " I will write a lawrim 4."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 546.8,
+      "end": 548.8,
+      "text": " I will write a lawrim 3."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 548.8,
+      "end": 550.8,
+      "text": " I am ready to make a template after that."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 550.8,
+      "end": 552.8,
+      "text": " Even those who will come from my database."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 552.8,
+      "end": 554.8,
+      "text": " I will write a nice template."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 554.8,
+      "end": 556.8,
+      "text": " I will write a casting exploit on my content."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 556.8,
+      "end": 560.8,
+      "text": " Many people asked you that this post has been enter."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 560.8,
+      "end": 562.8,
+      "text": " In my case, I will write an made file or any resource."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 562.8,
+      "end": 564.16,
+      "text": " You may ask,"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 564.16,
+      "end": 568.8,
+      "text": " What are your current 장ments and assignments from my page?"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 568.8,
+      "end": 572.8,
+      "text": " I will contract first with the 공개,"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 572.8,
+      "end": 574.8,
+      "text": " 3."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 574.8,
+      "end": 576.4,
+      "text": " This松先生 will talk about this bar of compare"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 576.4,
+      "end": 576.8,
+      "text": " progeniah'spoints and lineup ofhaba subnoise and"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 576.8,
+      "end": 578.8,
+      "text": " In the body, we have no attribute use."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 578.8,
+      "end": 580.8,
+      "text": " In H1, we have no attribute use."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 580.8,
+      "end": 582.8,
+      "text": " In P, we have no attribute use."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 582.8,
+      "end": 584.8,
+      "text": " But I can use P make style attribute."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 584.8,
+      "end": 588.8,
+      "text": " The online CSS is also called as background color."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 588.8,
+      "end": 590.8,
+      "text": " If I red it from something."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 590.8,
+      "end": 592.8,
+      "text": " So, the background color of this is red."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 592.8,
+      "end": 594.8,
+      "text": " It is also called as online CSS."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 594.8,
+      "end": 596.8,
+      "text": " Through style attribute."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 596.8,
+      "end": 598.8,
+      "text": " If you add CSS,"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 598.8,
+      "end": 600.8,
+      "text": " First, we will add CSS here."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 600.8,
+      "end": 602.8,
+      "text": " But if you add style,"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 602.8,
+      "end": 604.8,
+      "text": " Then you will get background red here."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 604.8,
+      "end": 606.8,
+      "text": " I will add this red red red background."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 606.8,
+      "end": 608.8,
+      "text": " I will tell you about this."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 608.8,
+      "end": 610.8,
+      "text": " I will do this."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 610.8,
+      "end": 612.8,
+      "text": " This color is already good."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 612.8,
+      "end": 614.8,
+      "text": " So, I can also add style inline."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 614.8,
+      "end": 616.8,
+      "text": " But when you create the website of industry,"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 616.8,
+      "end": 618.8,
+      "text": " We use it very less."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 618.8,
+      "end": 620.8,
+      "text": " Because maintainability is less."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 620.8,
+      "end": 622.8,
+      "text": " So, we want to shift from small to small bundles."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 622.8,
+      "end": 624.8,
+      "text": " And the website is more optimized."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 624.8,
+      "end": 626.8,
+      "text": " So, we avoid all these things."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 626.8,
+      "end": 628.8,
+      "text": " But in the online CSS,"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 628.8,
+      "end": 630.8,
+      "text": " There is a style tag."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 630.8,
+      "end": 632.8,
+      "text": " But here, there is a style attribute."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 632.8,
+      "end": 634.8,
+      "text": " It is a tag of a attribute style."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 634.8,
+      "end": 636.8,
+      "text": " Through which we can style this element."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 636.8,
+      "end": 638.8,
+      "text": " We will also learn about the attributes."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 638.8,
+      "end": 640.8,
+      "text": " The attributes are basically"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 640.8,
+      "end": 642.8,
+      "text": " An element has enhanced functionality."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 642.8,
+      "end": 646.8,
+      "text": " This is the reason we have given a style."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 646.8,
+      "end": 648.8,
+      "text": " Which was the background color."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 648.8,
+      "end": 650.8,
+      "text": " For this background color,"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 650.8,
+      "end": 652.8,
+      "text": " We used the style attribute."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 652.8,
+      "end": 654.8,
+      "text": " So, to give properties,"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 654.8,
+      "end": 658.8,
+      "text": " We used the tag in this way."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 658.8,
+      "end": 660.8,
+      "text": " Attributes."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 660.8,
+      "end": 662.8,
+      "text": " We used the link."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 662.8,
+      "end": 664.8,
+      "text": " The link is called as link relic attribute."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 664.8,
+      "end": 666.8,
+      "text": " It is an actual attribute."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 666.8,
+      "end": 668.8,
+      "text": " So, what we can do with this attribute."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 668.8,
+      "end": 670.8,
+      "text": " We can use this style sheet."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 670.8,
+      "end": 672.8,
+      "text": " We can use the background color."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 672.8,
+      "end": 674.8,
+      "text": " Background color."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 674.8,
+      "end": 676.8,
+      "text": " I am going to put it here."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 676.8,
+      "end": 678.8,
+      "text": " Okay, what we need in the body."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 678.8,
+      "end": 680.8,
+      "text": " Background color."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 680.8,
+      "end": 682.8,
+      "text": " And don't take tension."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 682.8,
+      "end": 684.8,
+      "text": " We will explain it in CSS."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 684.8,
+      "end": 686.8,
+      "text": " But I will tell you."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 686.8,
+      "end": 688.8,
+      "text": " I will do hot pink."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 688.8,
+      "end": 690.8,
+      "text": " And I will show you."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 690.8,
+      "end": 692.8,
+      "text": " This is a ninja technique."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 692.8,
+      "end": 694.8,
+      "text": " Over here."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 694.8,
+      "end": 696.8,
+      "text": " You can choose the color you want."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 696.8,
+      "end": 698.8,
+      "text": " Like this."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 698.8,
+      "end": 700.8,
+      "text": " I will leave it."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 700.8,
+      "end": 702.8,
+      "text": " And you can see the background color of my body."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 702.8,
+      "end": 704.8,
+      "text": " How?"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 704.8,
+      "end": 706.8,
+      "text": " I will write in the ninja technique."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 706.8,
+      "end": 708.8,
+      "text": " Okay."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 708.8,
+      "end": 710.8,
+      "text": " We have come back in index.html."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 710.8,
+      "end": 712.8,
+      "text": " I want to open it."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 712.8,
+      "end": 714.8,
+      "text": " I will comment."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 714.8,
+      "end": 716.8,
+      "text": " Which is very natural."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 716.8,
+      "end": 718.8,
+      "text": " I have come from style sheet."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 718.8,
+      "end": 720.8,
+      "text": " This background color."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 720.8,
+      "end": 722.8,
+      "text": " This is very natural."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 722.8,
+      "end": 724.8,
+      "text": " I have made this style."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 724.8,
+      "end": 726.8,
+      "text": " I have made this style."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 726.8,
+      "end": 728.8,
+      "text": " I have made this style."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 728.8,
+      "end": 732.8,
+      "text": " Now, we are going to make a bookmark manager."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 732.8,
+      "end": 734.8,
+      "text": " BookmarkManager.html."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 734.8,
+      "end": 736.8,
+      "text": " And I am making this in a different way."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 736.8,
+      "end": 738.8,
+      "text": " Because I have told you."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 738.8,
+      "end": 742.8,
+      "text": " I am going to make a useful bookmark manager."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 742.8,
+      "end": 744.8,
+      "text": " I will write."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 744.8,
+      "end": 745.8,
+      "text": " Bookmark Manager."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 745.8,
+      "end": 749.8,
+      "text": " Now, you guys are making a bookmark manager."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 749.8,
+      "end": 751.8,
+      "text": " This is our hand."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 751.8,
+      "end": 753.8,
+      "text": " This is our child."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 753.8,
+      "end": 755.8,
+      "text": " So, you will be loved by this."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 755.8,
+      "end": 757.8,
+      "text": " Because this is your own software."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 757.8,
+      "end": 759.8,
+      "text": " You have made a software."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 759.8,
+      "end": 761.8,
+      "text": " You have made a software."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 761.8,
+      "end": 763.8,
+      "text": " So, you have made a software."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 763.8,
+      "end": 765.8,
+      "text": " Okay."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 765.8,
+      "end": 767.8,
+      "text": " You can see here."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 767.8,
+      "end": 769.8,
+      "text": " I will write."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 769.8,
+      "end": 771.8,
+      "text": " I will write."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 771.8,
+      "end": 773.8,
+      "text": " I will write."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 773.8,
+      "end": 775.8,
+      "text": " I will write."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 775.8,
+      "end": 777.8,
+      "text": " I will write."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 777.8,
+      "end": 779.8,
+      "text": " I will write."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 779.8,
+      "end": 783.8,
+      "text": " patch 2."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 783.8,
+      "end": 785.8,
+      "text": " I will write."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 785.8,
+      "end": 787.8,
+      "text": " What will be."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 787.8,
+      "end": 790.8,
+      "text": " I can write."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 790.8,
+      "end": 791.8,
+      "text": " I will write."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 791.8,
+      "end": 794.8,
+      "text": " This is the stylisation of books."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 794.8,
+      "end": 796.8,
+      "text": " Let me write."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 796.8,
+      "end": 798.8,
+      "text": " I will write."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 798.8,
+      "end": 799.8,
+      "text": " Let me write."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 799.8,
+      "end": 801.8,
+      "text": " Let me write.."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 831.8,
+      "end": 835.8,
+      "text": " You will see many links in the link below."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 835.8,
+      "end": 841.8,
+      "text": " As I am in bookmarkmanager.html"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 841.8,
+      "end": 845.8,
+      "text": " You can see all the books on the screen."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 845.8,
+      "end": 847.8,
+      "text": " I will click on Google and you can see."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 847.8,
+      "end": 851.8,
+      "text": " When I clicked on it, it was blue."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 851.8,
+      "end": 853.8,
+      "text": " I have visited it and changed it."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 853.8,
+      "end": 855.8,
+      "text": " Change it when you visit it."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 855.8,
+      "end": 857.8,
+      "text": " I have already converted a visited link."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 857.8,
+      "end": 859.8,
+      "text": " I know that I have visited it."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 859.8,
+      "end": 861.8,
+      "text": " I will tell you one more thing."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 861.8,
+      "end": 863.8,
+      "text": " If you want to open a new tab."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 863.8,
+      "end": 865.8,
+      "text": " I am clicking on it."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 865.8,
+      "end": 867.8,
+      "text": " It is opening in the same tab."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 867.8,
+      "end": 869.8,
+      "text": " If you want to open it in a new tab,"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 869.8,
+      "end": 871.8,
+      "text": " you can use it as a mouse."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 871.8,
+      "end": 875.8,
+      "text": " This mouse can be clicked."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 875.8,
+      "end": 879.8,
+      "text": " If you want to use a new tab,"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 879.8,
+      "end": 881.8,
+      "text": " you can use it as an attribute."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 881.8,
+      "end": 883.8,
+      "text": " You can write here that"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 883.8,
+      "end": 885.8,
+      "text": " Target is equal to underscore blank."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 885.8,
+      "end": 889.8,
+      "text": " You can write 2 enter marks."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 889.8,
+      "end": 891.8,
+      "text": " You can write in a note pad."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 891.8,
+      "end": 893.8,
+      "text": " You can write in a Sust-editor."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 893.8,
+      "end": 895.8,
+      "text": " You can write in a quality."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 895.8,
+      "end": 897.8,
+      "text": " You can write in a free way."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 897.8,
+      "end": 899.8,
+      "text": " You can write in a quality."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 899.8,
+      "end": 901.8,
+      "text": " Target is equal to underscore blank."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 901.8,
+      "end": 903.8,
+      "text": " You can type in a blank."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 903.8,
+      "end": 905.8,
+      "text": " You can write in a new tab."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 905.8,
+      "end": 907.8,
+      "text": " I will click on it."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 907.8,
+      "end": 909.8,
+      "text": " I am not clicking on mouse."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 909.8,
+      "end": 911.8,
+      "text": " I will click on the new tab."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 911.8,
+      "end": 913.8,
+      "text": " I will not click on mouse."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 913.8,
+      "end": 915.8,
+      "text": " I am using this tab."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 915.8,
+      "end": 918.76,
+      "text": " Now I'll just name this"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 918.76,
+      "end": 920.28,
+      "text": " OpenExtremple person."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 920.28,
+      "end": 922.28,
+      "text": " You can write it in 2 nutrients."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 922.28,
+      "end": 926.4,
+      "text": " Open Prof如何"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 926.4,
+      "end": 929.5999999999999,
+      "text": " Open consumer님� pun."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 929.5999999999999,
+      "end": 932.76,
+      "text": " My name has been known by many"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 932.76,
+      "end": 933.92,
+      "text": "yer."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 933.92,
+      "end": 937.9599999999999,
+      "text": " In this tab you can make again"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 937.9599999999999,
+      "end": 938.76,
+      "text": " micифates instead of"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 938.76,
+      "end": 939.8,
+      "text": " Twitter posts."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 939.8,
+      "end": 941.56,
+      "text": " I will try it now."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 941.56,
+      "end": 943.3,
+      "text": " You can share it with me."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 943.3,
+      "end": 946.3,
+      "text": " You can see that it is coming in one line."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 946.3,
+      "end": 949.3,
+      "text": " If you want it to come in one line, then what will you do?"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 949.3,
+      "end": 952.3,
+      "text": " You will put it in your paragraph."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 952.3,
+      "end": 954.3,
+      "text": " It is a very dirty way."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 954.3,
+      "end": 956.3,
+      "text": " I am saying it dirty. I will tell you."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 956.3,
+      "end": 958.3,
+      "text": " But close it in paragraph 1."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 958.3,
+      "end": 963.3,
+      "text": " If you want and I will shift the right arrow, I will X the control."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 963.3,
+      "end": 966.3,
+      "text": " Then I will end the cutters end."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 966.3,
+      "end": 969.3,
+      "text": " Because if you go to end, it will go to end."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 969.3,
+      "end": 970.3,
+      "text": " And I will control it."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 970.3,
+      "end": 973.3,
+      "text": " I have shot it a lot and you will see it like this."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 973.3,
+      "end": 976.3,
+      "text": " What is this? If you do not do it."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 976.3,
+      "end": 979.3,
+      "text": " But I have simply done that VSCode functionality is used."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 979.3,
+      "end": 981.3,
+      "text": " Multiple cutters functionality."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 981.3,
+      "end": 984.3,
+      "text": " I have brought multiple cutters and I have used it."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 984.3,
+      "end": 987.3,
+      "text": " This is not a good way to use the paragraph."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 987.3,
+      "end": 989.3,
+      "text": " We do not even get lists."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 989.3,
+      "end": 992.3,
+      "text": " But because we have not read the list, we are using the paragraph."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 992.3,
+      "end": 994.3,
+      "text": " But this will work for us."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 994.3,
+      "end": 995.3,
+      "text": " This will look like something."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 995.3,
+      "end": 997.3,
+      "text": " And the one we did not visit is blue."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 997.3,
+      "end": 998.3,
+      "text": " We have visited Facebook."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 998.3,
+      "end": 1000.3,
+      "text": " We have visited Kora."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1000.3,
+      "end": 1001.3,
+      "text": " We have visited Kora."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1001.3,
+      "end": 1003.3,
+      "text": " Now it is your primary bookmark."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1003.3,
+      "end": 1005.3,
+      "text": " Which of your second bookmarks are you?"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1005.3,
+      "end": 1006.3,
+      "text": " We are two second bookmarks."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1006.3,
+      "end": 1008.3,
+      "text": " Second bookmarks are yours."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1008.3,
+      "end": 1009.3,
+      "text": " Which you will visit anytime."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1009.3,
+      "end": 1011.3,
+      "text": " Follow VKPD.com."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1011.3,
+      "end": 1012.3,
+      "text": " VKPD.com is here."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1012.3,
+      "end": 1015.3,
+      "text": " And we will write the stack overflow."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1015.3,
+      "end": 1018.3,
+      "text": " We will write the stack overflow."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1018.3,
+      "end": 1021.3,
+      "text": " Let's capitalize the stack overflow."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1021.3,
+      "end": 1023.3,
+      "text": " And you can see the second bookmarks."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1023.3,
+      "end": 1025.3,
+      "text": " Your VKPD and the stack overflow."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1025.3,
+      "end": 1028.3,
+      "text": " You can make the bookmark better."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1028.3,
+      "end": 1031.3,
+      "text": " If you are learning from CSS styling, you will see the next one."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1031.3,
+      "end": 1032.3,
+      "text": " Don't worry."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1032.3,
+      "end": 1034.3,
+      "text": " This is a big mistake."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1034.3,
+      "end": 1035.3,
+      "text": " Don't worry."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1035.3,
+      "end": 1038.3,
+      "text": " Because we will do the time styling."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1038.3,
+      "end": 1040.3,
+      "text": " We will talk about all these things."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1040.3,
+      "end": 1042.3,
+      "text": " Now you will see the bookmark."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1042.3,
+      "end": 1044.3,
+      "text": " The bookmark manager is your title."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1044.3,
+      "end": 1046.3,
+      "text": " And I will write it in H1."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1046.3,
+      "end": 1047.3,
+      "text": " Both are the same."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1047.3,
+      "end": 1049.3,
+      "text": " My title is the same."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1049.3,
+      "end": 1052.3,
+      "text": " And my bookmarks will also be written here."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1052.3,
+      "end": 1055.3,
+      "text": " You can make a bookmark manager."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1055.3,
+      "end": 1057.3,
+      "text": " You can use it in actual use."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1057.3,
+      "end": 1061.3,
+      "text": " If you save it in some way, my bookmark manager is in ROTHTML."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1061.3,
+      "end": 1064.3,
+      "text": " You can put it on your desktop."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1064.3,
+      "end": 1067.3,
+      "text": " Whenever you open a website, you will simply double click."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1067.3,
+      "end": 1070.3,
+      "text": " If you double click and open it on VSCode,"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1070.3,
+      "end": 1073.3,
+      "text": " you will have to write, open, open, open, open."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1073.3,
+      "end": 1075.3,
+      "text": " You will have to wrap the shoes."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1075.3,
+      "end": 1077.3,
+      "text": " And then you will have to always choose Google Chrome."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1077.3,
+      "end": 1079.3,
+      "text": " I will always choose Google Chrome."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1079.3,
+      "end": 1082.3,
+      "text": " And I will always choose Google Chrome."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1082.3,
+      "end": 1084.3,
+      "text": " I will always choose Google Chrome."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1084.3,
+      "end": 1085.3,
+      "text": " This is our bookmark manager."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1085.3,
+      "end": 1087.3,
+      "text": " I hope you all liked it."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1087.3,
+      "end": 1088.3,
+      "text": " I hope you all liked it."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1088.3,
+      "end": 1090.3,
+      "text": " Today our 4 videos are complete."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1090.3,
+      "end": 1092.3,
+      "text": " If you like any code,"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1092.3,
+      "end": 1094.3,
+      "text": " share it with your friends."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1094.3,
+      "end": 1096.3,
+      "text": " I know you will share it very less."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1096.3,
+      "end": 1097.3,
+      "text": " But if you will,"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1097.3,
+      "end": 1098.3,
+      "text": " then don't give me strength."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1098.3,
+      "end": 1101.3,
+      "text": " And I will try to get more code."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1101.3,
+      "end": 1103.3,
+      "text": " Many people are saying that how are you?"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1103.3,
+      "end": 1104.3,
+      "text": " How are you?"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1104.3,
+      "end": 1105.3,
+      "text": " How are you?"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1105.3,
+      "end": 1107.3,
+      "text": " I will find the ways to make more money."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1108.3,
+      "end": 1113.3,
+      "text": " But the thing is that this course is the biggest course of development."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1113.3,
+      "end": 1115.3,
+      "text": " I will put everything in this."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1115.3,
+      "end": 1118.3,
+      "text": " And you will learn more from less time."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1118.3,
+      "end": 1120.3,
+      "text": " I have been very late to get late."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1120.3,
+      "end": 1122.3,
+      "text": " I had told all the companies to launch this."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1122.3,
+      "end": 1123.3,
+      "text": " They are our platform."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1123.3,
+      "end": 1125.3,
+      "text": " I have not told them that they are very late."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1125.3,
+      "end": 1128.3,
+      "text": " They told me that they launch this as a paid course."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1128.3,
+      "end": 1129.3,
+      "text": " Why are you doing this?"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1129.3,
+      "end": 1130.3,
+      "text": " You will regret your decision."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1130.3,
+      "end": 1132.3,
+      "text": " But hopefully I will not regret my decision."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1132.3,
+      "end": 1134.3,
+      "text": " To make this course free."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1134.3,
+      "end": 1136.3,
+      "text": " And I will teach you the way."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1136.3,
+      "end": 1138.3,
+      "text": " And you will learn more from this course."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1138.3,
+      "end": 1140.3,
+      "text": " How can you earn more money?"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1140.3,
+      "end": 1142.3,
+      "text": " With that said,"
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1142.3,
+      "end": 1144.3,
+      "text": " I will put the description in the description."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1144.3,
+      "end": 1147.3,
+      "text": " You can take the source code from this repository."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1147.3,
+      "end": 1150.3,
+      "text": " Thank you so much for watching this video."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1150.3,
+      "end": 1152.3,
+      "text": " And I will see you next time."
+    },
+    {
+      "number": "4",
+      "title": "Heading, Paragraphs and Links  Sigma Web Development Course",
+      "start": 1164.3,
+      "end": 1166.3,
+      "text": " Thanks for watching this video."
+    }
+  ],
+  "text": " In today's video, I will tell you about the settings and paragraphs I will tell you about the anchor text If you have found this course awesome, then like this video Like and share this video with your friends In this video, we will make a small project Which will be a bookmark website This bookmark website will help you to get all your favorite websites And you will be able to use it in actual use So let's start quickly In the comment section, click the SIGMA BATCH OP Let's roll the intro So guys, as you can see, I have already made a computer screen And if you haven't done any playlists yet, you can access it The other thing I want to tell you is that you will go to the GitHub.com slash code And you will get the Github repo of the SIGMA webda course I have made all the videos of this folder and made a commit to it You will get access from the source code You can find it in the description I will put it in the description below Now we will make a basic website today But it will be very important for us Because it will be our first useful website So I will not take time to make a new folder in this folder And I will put it in the video folder because it is our fourth video I will make it from the video folder I will click on the open with code to open the folder in the VSC code I will do this later, which we will always do Index.html, Main.css or Style.css and with that, script.js We usually make these three files If I write CSS, I will write here and write script But for now, I will write some things here I will write in the document My bookmarks I will write the code in the description I will write all the titles What is H1? You can write it in the web page We talked about basic structure We said that it is HTML HTML Lang is equal to EN It is the value of the attribute of the language In English, this is the content This is the search engine If any of the link of this web page is in the description You can parse the web page from the search engine You can also find out that your web page is in English Here is the header, which is the metadata, which is the title, which is the link of CSS It is the information of the body Now, it is the tag to put the body in the header I will write in the description box If I write in the description box, we will write H1 tags If I want to live here I will click here Then I will browser it I will show you how to use my bookmarks Now, why should I use H1 in my bookmark? I have directly written my bookmark Because I will tell you the browser This is my first level heading Now, I want to write in the bookmark I will use H2 I will use H2 If you have used Microsoft Word, you will know what H1H2 is If you don't know, I will tell you H1H2 is your main level heading And the second level heading I will say H2 I will do the main bookmarks I will do the same I will do the Alt shift I will do the downer I will do the screen cast mode I have done the Alt shift I will do the downer This is the shortcut I want to tell you the shortcut If you press the Alt, you will know where you will click the cursor I will click the cursor on the right hand I will only click the cursor on the right hand If I click the other one, you will know where the cursor will come I want to add all the bookmarks to the code So, I will add the dash code I will write something like this I have not done it I have written it on the right hand I will click the cursor on the right hand I will get multiple cursor I will type whatever I want I will type whatever I want to I will write it on the right hand I will add some shortcuts You will see the update This is my main heading This is my H2 I have H6 setting I will add a main heading You have added a second heading You have to add some settings And so on You can add H6 setting You can add H6 mode You can add H7 mode in HTML You will never need H7 mode You will never need H7 mode in HTML You can use H6 for the first time You can use H6 for the first time You will have a small amount of H6 You will have a small amount of H6 You will have a small amount of H6 I will do the Alt shift I will replicate it I will click Alt I will tell all shortcuts So that you will have a lot of productivity hago wil check and add points Thame h3 I will click Alt I hold Alt I will click the Alt I will click H4 Click the H5 Then click it 6 I will just add H6 I will hide and speak Here I want to list für fate And here Here I will click H7 You can see the H1 and H2 are different. H6 is more than enough. I will show you a practical demonstration. I have given the main heading for the HTML introduction. I have given the features of HTML. I have given the H1 and H2. I have given the H2 and H2. I have given the H3 and H2. I have given the Y in the text and markup language. This is the main heading for HTML introduction. This is the whole heading. I have given the H3 and H3. I have given the H2 and H3 in the background. I have given the H3 and H4 and H4 and H5 and H6. I hope you have understood. If you are doing a lot of comments, I will make this course as a beginner course. When I tell you in HTML, you will be able to tell me a little. I will tell you a little. I will tell you a little. I will show you a little. I will react. I will react. I will get the note. I will bring the note. I will bring the note. I will bring the note. I will bring the note. Then I will upload it. I will write a little. When I react, I will make the project. I will do some things. I will ask the people to do that. Now tell me what is the level. Don't talk about the level. The level will get bigger. I will place the headings here. Now I want to write a paragraph. You can use P tag. You can use P tag. I will tell you a shortcut trick. If you want to play Dummy, then what will you do? I will write a lawrim here. I wrote lawrim 23. I will write a lawrim 23. I will give you 23 words. You can trap the word on the view. You will not get the horizontal straw bar. You can trap the view. Now you see the lawrim F some dollars set. Here this is a dummy text. Why do we want dummy text? We want template. We want to fill template with something. We want to make a website that shows the OEO rooms. OEO is a member of OEO for business. I don't want to write all this. I wrote a lawrim here. I wrote 7 words. I will write a lawrim 7. I will write OEO. You can use it in the placeholder. I plan to make a website that you know how to do it. You can use it in the description. You can use it in the description. We will see more things. Paragraph is a paragraph. You have to style it. You can do all these things through CSS. Paragraph is a text that I wrote in lawrim 23. I will give you P. I will write a lawrim 10. I will write a lawrim 100. If I write a lawrim 100, I will fill the page. I can do that. This lawrim value is very good. You will enjoy it. Whenever we make an OEO website, I will write 3 words. I will write a lawrim 3. I will write a lawrim 4. I will write a lawrim 3. I am ready to make a template after that. Even those who will come from my database. I will write a nice template. I will write a casting exploit on my content. Many people asked you that this post has been enter. In my case, I will write an made file or any resource. You may ask, What are your current 장ments and assignments from my page? I will contract first with the 공개, 3. This松先生 will talk about this bar of compare progeniah'spoints and lineup ofhaba subnoise and In the body, we have no attribute use. In H1, we have no attribute use. In P, we have no attribute use. But I can use P make style attribute. The online CSS is also called as background color. If I red it from something. So, the background color of this is red. It is also called as online CSS. Through style attribute. If you add CSS, First, we will add CSS here. But if you add style, Then you will get background red here. I will add this red red red background. I will tell you about this. I will do this. This color is already good. So, I can also add style inline. But when you create the website of industry, We use it very less. Because maintainability is less. So, we want to shift from small to small bundles. And the website is more optimized. So, we avoid all these things. But in the online CSS, There is a style tag. But here, there is a style attribute. It is a tag of a attribute style. Through which we can style this element. We will also learn about the attributes. The attributes are basically An element has enhanced functionality. This is the reason we have given a style. Which was the background color. For this background color, We used the style attribute. So, to give properties, We used the tag in this way. Attributes. We used the link. The link is called as link relic attribute. It is an actual attribute. So, what we can do with this attribute. We can use this style sheet. We can use the background color. Background color. I am going to put it here. Okay, what we need in the body. Background color. And don't take tension. We will explain it in CSS. But I will tell you. I will do hot pink. And I will show you. This is a ninja technique. Over here. You can choose the color you want. Like this. I will leave it. And you can see the background color of my body. How? I will write in the ninja technique. Okay. We have come back in index.html. I want to open it. I will comment. Which is very natural. I have come from style sheet. This background color. This is very natural. I have made this style. I have made this style. I have made this style. Now, we are going to make a bookmark manager. BookmarkManager.html. And I am making this in a different way. Because I have told you. I am going to make a useful bookmark manager. I will write. Bookmark Manager. Now, you guys are making a bookmark manager. This is our hand. This is our child. So, you will be loved by this. Because this is your own software. You have made a software. You have made a software. So, you have made a software. Okay. You can see here. I will write. I will write. I will write. I will write. I will write. I will write. patch 2. I will write. What will be. I can write. I will write. This is the stylisation of books. Let me write. I will write. Let me write. Let me write.. You will see many links in the link below. As I am in bookmarkmanager.html You can see all the books on the screen. I will click on Google and you can see. When I clicked on it, it was blue. I have visited it and changed it. Change it when you visit it. I have already converted a visited link. I know that I have visited it. I will tell you one more thing. If you want to open a new tab. I am clicking on it. It is opening in the same tab. If you want to open it in a new tab, you can use it as a mouse. This mouse can be clicked. If you want to use a new tab, you can use it as an attribute. You can write here that Target is equal to underscore blank. You can write 2 enter marks. You can write in a note pad. You can write in a Sust-editor. You can write in a quality. You can write in a free way. You can write in a quality. Target is equal to underscore blank. You can type in a blank. You can write in a new tab. I will click on it. I am not clicking on mouse. I will click on the new tab. I will not click on mouse. I am using this tab. Now I'll just name this OpenExtremple person. You can write it in 2 nutrients. Open Prof如何 Open consumer님� pun. My name has been known by manyyer. In this tab you can make again micифates instead of Twitter posts. I will try it now. You can share it with me. You can see that it is coming in one line. If you want it to come in one line, then what will you do? You will put it in your paragraph. It is a very dirty way. I am saying it dirty. I will tell you. But close it in paragraph 1. If you want and I will shift the right arrow, I will X the control. Then I will end the cutters end. Because if you go to end, it will go to end. And I will control it. I have shot it a lot and you will see it like this. What is this? If you do not do it. But I have simply done that VSCode functionality is used. Multiple cutters functionality. I have brought multiple cutters and I have used it. This is not a good way to use the paragraph. We do not even get lists. But because we have not read the list, we are using the paragraph. But this will work for us. This will look like something. And the one we did not visit is blue. We have visited Facebook. We have visited Kora. We have visited Kora. Now it is your primary bookmark. Which of your second bookmarks are you? We are two second bookmarks. Second bookmarks are yours. Which you will visit anytime. Follow VKPD.com. VKPD.com is here. And we will write the stack overflow. We will write the stack overflow. Let's capitalize the stack overflow. And you can see the second bookmarks. Your VKPD and the stack overflow. You can make the bookmark better. If you are learning from CSS styling, you will see the next one. Don't worry. This is a big mistake. Don't worry. Because we will do the time styling. We will talk about all these things. Now you will see the bookmark. The bookmark manager is your title. And I will write it in H1. Both are the same. My title is the same. And my bookmarks will also be written here. You can make a bookmark manager. You can use it in actual use. If you save it in some way, my bookmark manager is in ROTHTML. You can put it on your desktop. Whenever you open a website, you will simply double click. If you double click and open it on VSCode, you will have to write, open, open, open, open. You will have to wrap the shoes. And then you will have to always choose Google Chrome. I will always choose Google Chrome. And I will always choose Google Chrome. I will always choose Google Chrome. This is our bookmark manager. I hope you all liked it. I hope you all liked it. Today our 4 videos are complete. If you like any code, share it with your friends. I know you will share it very less. But if you will, then don't give me strength. And I will try to get more code. Many people are saying that how are you? How are you? How are you? I will find the ways to make more money. But the thing is that this course is the biggest course of development. I will put everything in this. And you will learn more from less time. I have been very late to get late. I had told all the companies to launch this. They are our platform. I have not told them that they are very late. They told me that they launch this as a paid course. Why are you doing this? You will regret your decision. But hopefully I will not regret my decision. To make this course free. And I will teach you the way. And you will learn more from this course. How can you earn more money? With that said, I will put the description in the description. You can take the source code from this repository. Thank you so much for watching this video. And I will see you next time. Thanks for watching this video."
+}
