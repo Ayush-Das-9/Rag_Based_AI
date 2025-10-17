@@ -1,0 +1,7 @@
+Hello! I'd be happy to help you with your question about where Flexbox is taught in the Sigma web development course.
+
+Flexbox is actually covered in Video 13 of the course, specifically starting at timestamp 331.72 seconds and going up until 332.64 seconds. In this video, we dive into the world of CSS Box Model, Margin, Padding & Borders, and how Flexbox Grid relates to it.
+
+If you're interested in learning more about Flexbox, I'd recommend checking out Video 13 as soon as possible! You can find it by navigating to the Sigma web development course and clicking on the "13" number below the video title. Just a heads up that some of this content might be a bit dense, so make sure you're comfortable with CSS Box Model concepts before diving in.
+
+Let me know if you have any other questions!
