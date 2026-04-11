@@ -2,7 +2,7 @@
 
 A **Retrieval-Augmented Generation (RAG)** pipeline that lets users ask natural language questions about a video course and get precise, timestamped answers pointing to the exact video and moment where a topic is taught.
 
-Built as a local-first system using **Ollama** for embeddings & LLM inference and **OpenAI Whisper** for speech-to-text transcription.
+Built as a local-first system using **Ollama** for embeddings & LLM inference, **OpenAI Whisper** for speech-to-text transcription, and a beautiful **web UI** powered by FastAPI.
 
 ---
 
@@ -45,21 +45,29 @@ This project processes YouTube course videos (currently the **Sigma Web Developm
                                           │  .joblib         │
                                           └────────┬─────────┘
                                                    │
-                         User Query ──────────────▶│
-                                                   ▼
-                                          ┌──────────────────┐
-                                          │  Cosine          │
-                                          │  Similarity +    │
-                                          │  LLM Inference   │
-                                          │  (llama3.2)      │
-                                          │ process_incoming │
-                                          └────────┬─────────┘
-                                                   │
-                                                   ▼
-                                          ┌──────────────────┐
-                                          │  Timestamped     │
-                                          │  Answer          │
-                                          └──────────────────┘
+                    ┌──────────────────┐            │
+                    │  Web UI (HTML/   │            │
+                    │  CSS/JS)         │            │
+                    └────────┬─────────┘            │
+                             │                     │
+                             ▼                     │
+                    ┌──────────────────┐            │
+                    │  FastAPI Backend │────────────▶
+                    │  (app.py)        │            │
+                    └────────┬─────────┘            │
+                             │    User Query ──────▶│
+                             │                     ▼
+                             │            ┌──────────────────┐
+                             │            │  Cosine          │
+                             │            │  Similarity +    │
+                             │            │  LLM Inference   │
+                             │            │  (llama3.2)      │
+                             │            └────────┬─────────┘
+                             │                     │
+                             ▼                     ▼
+                    ┌──────────────────────────────────────┐
+                    │  Timestamped Answer + Source Chunks  │
+                    └─────────────────────────────────────-┘
 ```
 
 ---
@@ -69,6 +77,13 @@ This project processes YouTube course videos (currently the **Sigma Web Developm
 ```
 Rag_Based_AI/
 │
+├── static/                          # Web frontend
+│   ├── index.html                   #   Main HTML page — chat UI with suggestion chips
+│   ├── style.css                    #   Dark theme design system with glassmorphism & animations
+│   └── script.js                    #   Chat logic, query handling & source card rendering
+│
+├── app.py                           # FastAPI backend — serves UI & exposes /api/query endpoint
+│
 ├── audios/                          # MP3 audio files extracted from course videos
 ├── jsons/                           # Timestamped subtitle chunks (JSON per video)
 ├── Videos/                          # Raw video/audio source files
@@ -77,7 +92,7 @@ Rag_Based_AI/
 ├── create_chunks.ipynb              # Jupyter notebook — transcription & chunking pipeline
 ├── create_chunks_2.ipynb            # Jupyter notebook — alternate chunking approach
 ├── 3_read_chunks.py                 # Generate embeddings from JSON chunks → embeddings.joblib
-├── process_incoming.py              # Main query pipeline — embed query, retrieve, LLM answer
+├── process_incoming.py              # CLI query pipeline — embed query, retrieve, LLM answer
 ├── process_video.py                 # Utility to parse video filenames & extract metadata
 ├── rename_mp3.py                    # Batch rename MP3 files with sequential numbering
 ├── example_read_chunks.py           # Minimal example of Ollama embedding API usage
@@ -94,6 +109,8 @@ Rag_Based_AI/
 
 | Component          | Technology                                                     |
 | ------------------- | -------------------------------------------------------------- |
+| **Frontend**        | HTML, CSS (glassmorphism dark theme), Vanilla JavaScript        |
+| **Backend**         | [FastAPI](https://fastapi.tiangolo.com/) + Uvicorn              |
 | **LLM Inference**   | [Ollama](https://ollama.com/) — `llama3.2`                     |
 | **Embeddings**      | [Ollama](https://ollama.com/) — `bge-m3`                       |
 | **Speech-to-Text**  | [OpenAI Whisper](https://github.com/openai/whisper) — `base`   |
@@ -125,7 +142,7 @@ Rag_Based_AI/
 
 2. **Install Python dependencies**
    ```bash
-   pip install pandas numpy scikit-learn joblib requests openai-whisper
+   pip install pandas numpy scikit-learn joblib requests openai-whisper fastapi uvicorn python-multipart
    ```
 
 3. **Start Ollama** (if not already running)
@@ -155,27 +172,34 @@ python 3_read_chunks.py
 
 This reads all JSON chunk files, generates embeddings via Ollama's `bge-m3` model, and saves the result to `embeddings.joblib`.
 
-### Step 3 — Ask Questions
+### Step 3 — Launch the Web UI
 
 ```bash
-python process_incoming.py
+python -m uvicorn app:app --reload --port 8000
 ```
 
-You'll be prompted to type a question. The system will:
-1. Embed your question
-2. Find the top 5 most similar chunks via cosine similarity
-3. Pass them as context to `llama3.2`
-4. Return a human-readable answer with video references and timestamps
+Open **http://localhost:8000** in your browser. The web interface provides:
+- 💬 A **chat interface** to ask questions in natural language
+- 📌 **Suggestion chips** for quick-start queries
+- 🎯 **Source cards** showing matched video chunks with timestamps and similarity scores
+- 🟢 **Live status badge** indicating whether Ollama is online
 
 **Example:**
 
 ```
-Ask a Question: where is flexbox taught?
+You: Where is flexbox taught?
 
-→ You can find the content related to Flexbox in Video 13 of our course.
-  Specifically, it's at around 331 seconds into that video where we dive
-  into the world of Flexbox and Grid...
+CourseAI: You can find the content related to Flexbox in Video 13 of our course.
+          Specifically, it's at around 331 seconds into that video where we dive
+          into the world of Flexbox and Grid...
+
+          📎 Source Chunks (5):
+             Video #13 — Entities, Code tag and more on HTML  |  ⏱ 5:31 – 5:32  |  98%
+             Video #11 — CSS Box Model                        |  ⏱ 16:01 – 16:03 |  93%
+             ...
 ```
+
+> **Alternative (CLI mode):** You can still use the original command-line interface by running `python process_incoming.py`.
 
 ---
 
@@ -218,12 +242,4 @@ Each JSON file in `jsons/` follows this structure:
 
 ---
 
-## 🔮 Future Scope
 
-- 🎙️ **Voice Input** — Accept spoken questions via Whisper for a fully voice-driven experience
-- 🌐 **Web Interface** — Build a frontend for interactive querying
-- 📚 **Multi-Course Support** — Extend to multiple courses and playlists
-- 🔄 **Streaming Responses** — Enable real-time streamed LLM outputs
-- 🧠 **Advanced Chunking** — Implement semantic chunking for better retrieval accuracy
-
----

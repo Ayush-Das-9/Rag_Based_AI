@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CourseAI — Smart Video Course Assistant</title>
+    <meta name="description" content="Ask questions about the Sigma Web Development Course and get precise, timestamped answers powered by RAG and local LLMs.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Animated background -->
+    <div class="bg-grid"></div>
+    <div class="bg-glow bg-glow-1"></div>
+    <div class="bg-glow bg-glow-2"></div>
+    <div class="bg-glow bg-glow-3"></div>
+
+    <div class="app-container">
+        <!-- Header -->
+        <header class="header" id="header">
+            <div class="header-left">
+                <div class="logo">
+                    <div class="logo-icon">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <polygon points="23 7 16 12 23 17 23 7"></polygon>
+                            <rect x="1" y="5" width="15" height="14" rx="2" ry="2"></rect>
+                        </svg>
+                    </div>
+                    <div>
+                        <h1 class="logo-text">CourseAI</h1>
+                        <p class="logo-sub">Sigma Web Dev · RAG Assistant</p>
+                    </div>
+                </div>
+            </div>
+            <div class="header-right">
+                <div class="status-badge" id="statusBadge">
+                    <span class="status-dot"></span>
+                    <span class="status-text">Checking...</span>
+                </div>
+            </div>
+        </header>
+
+        <!-- Main content -->
+        <main class="main-content">
+            <!-- Welcome / empty state -->
+            <div class="welcome-section" id="welcomeSection">
+                <div class="welcome-icon">
+                    <svg width="56" height="56" viewBox="0 0 24 24" fill="none" stroke="url(#iconGrad)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+                        <defs>
+                            <linearGradient id="iconGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+                                <stop offset="0%" style="stop-color:#a78bfa"/>
+                                <stop offset="100%" style="stop-color:#6366f1"/>
+                            </linearGradient>
+                        </defs>
+                        <circle cx="11" cy="11" r="8"></circle>
+                        <path d="m21 21-4.3-4.3"></path>
+                        <path d="M11 8v6"></path>
+                        <path d="M8 11h6"></path>
+                    </svg>
+                </div>
+                <h2 class="welcome-title">What would you like to learn?</h2>
+                <p class="welcome-desc">Ask any question about the Sigma Web Development Course. I'll find the exact video and timestamp where it's taught.</p>
+
+                <div class="suggestion-chips">
+                    <button class="chip" data-query="Where is Flexbox taught?">
+                        <span class="chip-icon">📐</span> Where is Flexbox taught?
+                    </button>
+                    <button class="chip" data-query="How does the CSS Box Model work?">
+                        <span class="chip-icon">📦</span> How does the CSS Box Model work?
+                    </button>
+                    <button class="chip" data-query="Which video covers HTML forms?">
+                        <span class="chip-icon">📝</span> Which video covers HTML forms?
+                    </button>
+                    <button class="chip" data-query="Where are CSS selectors explained?">
+                        <span class="chip-icon">🎯</span> Where are CSS selectors explained?
+                    </button>
+                    <button class="chip" data-query="What is semantic HTML?">
+                        <span class="chip-icon">🏷️</span> What is semantic HTML?
+                    </button>
+                    <button class="chip" data-query="How to add images and tables in HTML?">
+                        <span class="chip-icon">🖼️</span> How to add images & tables?
+                    </button>
+                </div>
+            </div>
+
+            <!-- Chat messages area -->
+            <div class="chat-area" id="chatArea"></div>
+        </main>
+
+        <!-- Input area -->
+        <footer class="input-section" id="inputSection">
+            <form class="input-form" id="queryForm">
+                <div class="input-wrapper">
+                    <input
+                        type="text"
+                        id="queryInput"
+                        class="query-input"
+                        placeholder="Ask about any topic in the course..."
+                        autocomplete="off"
+                        spellcheck="true"
+                    >
+                    <button type="submit" class="send-btn" id="sendBtn" title="Send question">
+                        <svg class="send-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <line x1="22" y1="2" x2="11" y2="13"></line>
+                            <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                        </svg>
+                        <div class="send-loader">
+                            <span></span><span></span><span></span>
+                        </div>
+                    </button>
+                </div>
+                <p class="input-hint">Powered by Ollama · llama3.2 + bge-m3 embeddings</p>
+            </form>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
