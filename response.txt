@@ -1,7 +1,0 @@
-If you're looking for information on when Flexbox was covered in our Sigma web development course, I'd be happy to help!
-
-You can find the content related to Flexbox in Video 13 of our course. Specifically, it's at around 331 seconds into that video where we dive into the world of Flexbox and Grid.
-
-If you're interested in learning more about how these concepts work together, you might also want to check out Video 11, which covers the CSS Box Model - Margin, Padding & Borders. That's where we explain how the box model works and how it all ties together with Flexbox.
-
-Just head over to the Sigma web development course platform, click on Video 13 for the "Entities, Code tag and more on HTML" session, and you'll find that section of content waiting for you!

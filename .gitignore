@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+ENV/
+bin/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+.venv
+venv.bak
+venv/
+ENV/
+env/
+
+# Editor
+.vscode/
+.idea/
+
+# Junk / Temp
+tempCodeRunnerFile.*
+*.exe
+prompt.txt
+response.txt
+jsons.zip
+hjh
+njnj.py
